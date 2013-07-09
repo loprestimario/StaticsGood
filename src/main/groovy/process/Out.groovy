@@ -14,9 +14,8 @@ public class Out {
         File file = new File(pathFile)
 
         arrayList.each { line->
-            def string = line + "\n"
-            file.append(string)
+            file.append(line)
+            file.append '\n'
         }
-
     }
 }

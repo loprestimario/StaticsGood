@@ -2,37 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f3f363e-4649-4d7d-8cff-70bb4768619a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/groovy/componentStatistics/Days.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_all_2_1_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/groovy/componentStatistics/NumberPages.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/groovy/componentStatistics/NumberVisits.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/groovy/process/Out.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/groovy/process/PreProcess.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/groovy/process/Process.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Runner.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/groovy/componentStatistics/Statistics.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Statistics.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/groovy/TestDay.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/groovy/TestNumberPages.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/groovy/TestNumberVisit.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/doc.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/http_builder_0_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/http_builder_0_5_0_SNAPSHOT.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/mario.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/output.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/groovy/process/Out.groovy" afterPath="$PROJECT_DIR$/src/main/groovy/process/Out.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Runner.java" afterPath="$PROJECT_DIR$/src/main/java/Runner.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/groovy/componentStatistics/Statistics.groovy" afterPath="$PROJECT_DIR$/src/main/groovy/componentStatistics/Statistics.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/groovy/TestDay.groovy" afterPath="$PROJECT_DIR$/src/test/groovy/TestDay.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/groovy/TestNumberPages.groovy" afterPath="$PROJECT_DIR$/src/test/groovy/TestNumberPages.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/groovy/TestNumberVisit.groovy" afterPath="$PROJECT_DIR$/src/test/groovy/TestNumberVisit.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Statistics.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -42,14 +18,14 @@
     <file path="/doc.txt" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1373099986226" ignored="false" />
     <file path="/Process.groovy" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1373100730665" ignored="false" />
     <file path="/Runner.java" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1373405130282" ignored="false" />
-    <file path="/TestNumberVisit.groovy" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1373405893534" ignored="false" />
+    <file path="/TestNumberVisit.groovy" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1373408040973" ignored="false" />
     <file path="$PROJECT_DIR$/src/test/groovy/TestDayù.groovy" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1373103211563" ignored="false" />
-    <file path="/TestDay.groovy" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1373405645281" ignored="false" />
+    <file path="/TestDay.groovy" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1373407914429" ignored="false" />
     <file path="/ValidatorVisits.groovy" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1373105053455" ignored="false" />
-    <file path="/Out.groovy" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1373110100230" ignored="false" />
-    <file path="/Statistics.groovy" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1373403985523" ignored="false" />
+    <file path="/Out.groovy" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1373407348273" ignored="false" />
+    <file path="/Statistics.groovy" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1373407193445" ignored="false" />
     <file path="/Pages.groovy" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1373406211709" ignored="false" />
-    <file path="/TestNumberPages.groovy" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1373405793724" ignored="false" />
+    <file path="/TestNumberPages.groovy" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1373407981129" ignored="false" />
     <file path="/Output.groovy" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1373401693739" ignored="false" />
     <file path="/NumberPages.groovy" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1373404443807" ignored="false" />
     <file path="/Days.groovy" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1373404419523" ignored="false" />
@@ -117,7 +93,7 @@
       <file leaf-file-name="Process.groovy" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/groovy/process/Process.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="29" selection-start="538" selection-end="553" vertical-scroll-proportion="0.0">
+            <state line="54" column="29" selection-start="1435" selection-end="1435" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="e#17#48#0" expanded="true" />
               </folding>
@@ -125,35 +101,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestDay.groovy" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/groovy/TestDay.groovy">
+      <file leaf-file-name="PreProcess.groovy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/groovy/process/PreProcess.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="43" selection-start="766" selection-end="766" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#0#31#0" expanded="true" />
-              </folding>
+            <state line="13" column="0" selection-start="293" selection-end="293" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestNumberPages.groovy" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/groovy/TestNumberPages.groovy">
+      <file leaf-file-name="Statistics.groovy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/groovy/componentStatistics/Statistics.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="27" selection-start="787" selection-end="807" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#0#31#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestNumberVisit.groovy" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/groovy/TestNumberVisit.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="3" selection-start="284" selection-end="284" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#0#31#0" expanded="true" />
-              </folding>
+            <state line="17" column="8" selection-start="450" selection-end="450" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -167,29 +128,53 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="NumberPages.groovy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/groovy/componentStatistics/NumberPages.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="0" selection-start="246" selection-end="246" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="Days.groovy" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/groovy/componentStatistics/Days.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="29" selection-start="345" selection-end="345" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Statistics.groovy" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/groovy/componentStatistics/Statistics.groovy">
+      <file leaf-file-name="TestDay.groovy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/groovy/TestDay.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="6" selection-start="735" selection-end="735" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="24" column="74" selection-start="862" selection-end="862" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Runner.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Runner.java">
+      <file leaf-file-name="TestNumberPages.groovy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/groovy/TestNumberPages.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="4" selection-start="823" selection-end="823" vertical-scroll-proportion="0.8976109">
-              <folding />
+            <state line="15" column="22" selection-start="372" selection-end="372" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestNumberVisit.groovy" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/groovy/TestNumberVisit.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="24" column="64" selection-start="882" selection-end="882" vertical-scroll-proportion="1.2040133">
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -197,16 +182,7 @@
       <file leaf-file-name="Out.groovy" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/groovy/process/Out.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="31" selection-start="431" selection-end="431" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PreProcess.groovy" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/groovy/process/PreProcess.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="0" selection-start="293" selection-end="293" vertical-scroll-proportion="0.0">
+            <state line="19" column="0" selection-start="432" selection-end="432" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -235,17 +211,17 @@
         <option value="$PROJECT_DIR$/src/main/resources/output.txt" />
         <option value="$PROJECT_DIR$/src/main/groovy/componentStatistics/NumberVisits.groovy" />
         <option value="$PROJECT_DIR$/src/main/groovy/componentStatistics/Pages.groovy" />
-        <option value="$PROJECT_DIR$/src/main/groovy/componentStatistics/Statistics.groovy" />
         <option value="$PROJECT_DIR$/src/main/groovy/componentStatistics/Days.groovy" />
         <option value="$PROJECT_DIR$/src/main/groovy/componentStatistics/NumberPages.groovy" />
         <option value="$PROJECT_DIR$/src/main/groovy/process/Output.groovy" />
-        <option value="$PROJECT_DIR$/src/main/java/Runner.java" />
-        <option value="$PROJECT_DIR$/src/main/groovy/process/Out.groovy" />
         <option value="$PROJECT_DIR$/src/main/groovy/process/PreProcess.groovy" />
-        <option value="$PROJECT_DIR$/src/test/groovy/TestNumberPages.groovy" />
-        <option value="$PROJECT_DIR$/src/test/groovy/TestDay.groovy" />
-        <option value="$PROJECT_DIR$/src/test/groovy/TestNumberVisit.groovy" />
         <option value="$PROJECT_DIR$/src/main/groovy/process/Process.groovy" />
+        <option value="$PROJECT_DIR$/src/main/java/Runner.java" />
+        <option value="$PROJECT_DIR$/src/main/groovy/componentStatistics/Statistics.groovy" />
+        <option value="$PROJECT_DIR$/src/main/groovy/process/Out.groovy" />
+        <option value="$PROJECT_DIR$/src/test/groovy/TestDay.groovy" />
+        <option value="$PROJECT_DIR$/src/test/groovy/TestNumberPages.groovy" />
+        <option value="$PROJECT_DIR$/src/test/groovy/TestNumberVisit.groovy" />
       </list>
     </option>
   </component>
@@ -487,7 +463,7 @@
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
   </component>
-  <component name="RunManager" selected="TestNG.&lt;default&gt;">
+  <component name="RunManager" selected="JUnit.TestNumberVisit.verifyNumberVisit">
     <configuration default="false" name="Runner" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Runner" />
       <option name="VM_PARAMETERS" />
@@ -718,11 +694,11 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="TestNG.&lt;default&gt;" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.TestNumberVisit.verifyNumberVisit" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.TestNumberPages.verifyNumberPages" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.TestDay.verifyNumberDay" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Runner" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.TestNumberVisit.verifyNumberVisit" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.TestNumberPages.verifyNumberPages" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.TestDay.verifyNumberDay" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Runner" />
+        <item index="4" class="java.lang.String" itemvalue="TestNG.&lt;default&gt;" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -755,10 +731,10 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4899329" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19385342" sideWeight="0.6275168" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19385342" sideWeight="0.61577183" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24901497" sideWeight="0.6275168" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.37248322" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24901497" sideWeight="0.61577183" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3842282" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -837,13 +813,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/doc.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1897" column="59" selection-start="84153" selection-end="84153" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/output.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state line="29" column="6" selection-start="870" selection-end="870" vertical-scroll-proportion="0.0">
@@ -851,9 +820,53 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/groovy/componentStatistics/NumberPages.groovy">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/output.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="246" selection-end="246" vertical-scroll-proportion="0.0">
+        <state line="31" column="0" selection-start="795" selection-end="795" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/doc.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1897" column="59" selection-start="84153" selection-end="84153" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Runner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/process/Process.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="54" column="29" selection-start="1435" selection-end="1435" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#17#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/process/PreProcess.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="293" selection-end="293" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/process/Out.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="0" selection-start="432" selection-end="432" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/componentStatistics/Statistics.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="8" selection-start="450" selection-end="450" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -865,46 +878,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/groovy/componentStatistics/Statistics.groovy">
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/componentStatistics/NumberPages.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="6" selection-start="735" selection-end="735" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/groovy/process/Out.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="31" selection-start="431" selection-end="431" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/groovy/process/PreProcess.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="0" selection-start="293" selection-end="293" vertical-scroll-proportion="0.0">
+        <state line="12" column="0" selection-start="246" selection-end="246" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/groovy/componentStatistics/Days.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="29" selection-start="345" selection-end="345" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/groovy/TestNumberPages.groovy">
+    <entry file="file://$PROJECT_DIR$/src/test/groovy/TestDay.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="27" selection-start="787" selection-end="807" vertical-scroll-proportion="0.0">
+        <state line="24" column="74" selection-start="862" selection-end="862" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/groovy/TestDay.groovy">
+    <entry file="file://$PROJECT_DIR$/src/test/groovy/TestNumberPages.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="43" selection-start="766" selection-end="766" vertical-scroll-proportion="0.0">
+        <state line="15" column="22" selection-start="372" selection-end="372" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
@@ -913,26 +912,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/groovy/TestNumberVisit.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="3" selection-start="284" selection-end="284" vertical-scroll-proportion="0.0">
+        <state line="24" column="64" selection-start="882" selection-end="882" vertical-scroll-proportion="1.2040133">
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/groovy/process/Process.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="29" selection-start="538" selection-end="553" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#17#48#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Runner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="4" selection-start="823" selection-end="823" vertical-scroll-proportion="0.8976109">
-          <folding />
         </state>
       </provider>
     </entry>

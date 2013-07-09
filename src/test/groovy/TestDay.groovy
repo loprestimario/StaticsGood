@@ -22,6 +22,8 @@ class TestDay {
         p.extractElements(file);
         def arrayDay = day.getDays()
         junit.framework.Assert.assertEquals(arrayDay.size(),31);
+        junit.framework.Assert.assertEquals(arrayDay.get(0),"01  May  2013");
+
 
     }
 }

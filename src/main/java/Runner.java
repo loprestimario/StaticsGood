@@ -33,7 +33,7 @@ public class Runner {
         ArrayList dayN= days.getDays();
 
         ArrayList statisticsArray= (ArrayList) statistics.createStatistics(dayN,visits, pagesN);
-        out.writeOutput("src/main/resources/output.txt",statisticsArray);
+        out.writeOutput("src/main/resources/output.csv",statisticsArray);
 
     }
 }

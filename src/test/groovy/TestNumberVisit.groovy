@@ -22,6 +22,7 @@ class TestNumberVisit {
         p.extractElements(file);
         def arrayVisit = numberVisits.getNumberVisit()
         junit.framework.Assert.assertEquals(arrayVisit.size(),31);
+        junit.framework.Assert.assertEquals(arrayVisit.get(0),"6");
 
     }
 }

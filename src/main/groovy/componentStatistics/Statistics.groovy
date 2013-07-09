@@ -14,11 +14,9 @@ class Statistics {
         def stringTitle
         def arrayStatistics = new ArrayList()
 
-        stringTitle = "Day      " + "         Number of visits"
-        arrayStatistics.add(stringTitle)
         for (int i = 0; i < days.size(); i++) {
-            string = days.get(i) + "     " + numberVisits.get(i) +   "     "  + numberPages.get(i)
-            arrayStatistics.add(string)
+            def row = [days.get(i), numberVisits.get(i), numberPages.get(i)]
+            arrayStatistics.add(row)
         }
         return arrayStatistics
     }

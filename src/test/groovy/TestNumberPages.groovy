@@ -23,6 +23,7 @@ class TestNumberPages {
         p.extractElements(file);
         def arrayPages = numberPages.getNumberPages()
         Assert.assertEquals(arrayPages.size(),31);
+        Assert.assertEquals(arrayPages.get(0),"36");
 
     }
 }
