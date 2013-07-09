@@ -1,0 +1,4715 @@
+From: <Saved by Windows Internet Explorer 8>
+        Subject: Statistics for dataaccess-p.internal.epo.org (2013-05) - main
+        Date: Tue, 2 Jul 2013 11:11:23 +0200
+        MIME-Version: 1.0
+        Content-Type: multipart/related;
+        type="multipart/alternative";
+        boundary="----=_NextPart_000_0098_01CE7714.E3318E10"
+        X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.6157
+
+        This is a multi-part message in MIME format.
+
+        ------=_NextPart_000_0098_01CE7714.E3318E10
+        Content-Type: image/png
+        Content-Transfer-Encoding: base64
+        Content-Location: http://webstats-new-p.internal.epo.org/icon/other/page.png
+
+        iVBORw0KGgoAAAANSUhEUgAAAAkAAAAICAAAAAAOpoppAAAAL3RFWHRDcmVhdGlvbiBUaW1lAGx1
+        bi4gMjIganVpbC4gMjAwMiAxOToxNjo0NSArMDEwMKvo9yIAAAAHdElNRQfSBxYROzUjlSGLAAAA
+        CXBIWXMAABJ0AAASdAHeZh94AAAABGdBTUEAALGPC/xhBQAAAFBJREFUeNpjXCTHAAZHWfg+Aiku
+        UUZeFhVplv9fuJn+PWTiFuBh+3Ofh4+HiYHhwdP3r84wMLAwMHy//4ftHZilKXxFXZqBgXG9IBPI
+        kP9XARwcFTAjutY1AAAAAElFTkSuQmCC
+
+        ------=_NextPart_000_0098_01CE7714.E3318E10
+        Content-Type: multipart/alternative;
+        boundary="----=_NextPart_001_009B_01CE7714.E3318E10"
+
+
+        ------=_NextPart_001_009B_01CE7714.E3318E10
+        Content-Type: text/html;
+        charset="utf-8"
+        Content-Transfer-Encoding: quoted-printable
+        Content-Location: http://webstats-new-p.internal.epo.org/awstats/awstats.pl?month=05&year=2013&output=main&config=dataaccess-httpd&framename=index
+
+        =EF=BB=BF<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Frameset//EN">
+<HTML lang=3Den><HEAD><TITLE>Statistics for =
+    dataaccess-p.internal.epo.org (2013-05) - main</TITLE>
+<META name=3DGENERATOR content=3D"MSHTML 8.00.6001.23501">
+<META name=3Drobots content=3Dnoindex,nofollow>
+<META content=3D"text/html; charset=3Dutf-8" http-equiv=3DContent-Type>
+<META=20
+content=3D"Awstats - Advanced Web Statistics for =
+dataaccess-p.internal.epo.org (2013-05) - main"=20
+http-equiv=3Ddescription></HEAD><FRAMESET cols=3D240,*><FRAME noResize=20
+        src=3D"http://webstats-new-p.internal.epo.org/awstats/awstats.pl?month=3D=
+        05&amp;year=3D2013&amp;output=3Dmain&amp;config=3Ddataaccess-httpd&amp;fr=
+        amename=3Dmainleft"=20
+        frameBorder=3D0 name=3Dmainleft><FRAME noResize=20
+        src=3D"http://webstats-new-p.internal.epo.org/awstats/awstats.pl?month=3D=
+        05&amp;year=3D2013&amp;output=3Dmain&amp;config=3Ddataaccess-httpd&amp;fr=
+        amename=3Dmainright"=20
+        frameBorder=3D0 name=3Dmainright=20
+        scrolling=3Dyes><NOFRAMES></NOFRAMES></FRAMESET></HTML>
+
+        ------=_NextPart_001_009B_01CE7714.E3318E10
+        Content-Type: application/octet-stream
+        Content-Transfer-Encoding: quoted-printable
+        Content-Location: http://webstats-new-p.internal.epo.org/awstats/awstats.pl?month=05&year=2013&output=main&config=dataaccess-httpd&framename=mainleft
+
+        =EF=BB=BF<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML lang=3Den><HEAD><TITLE>Statistics for =
+    dataaccess-p.internal.epo.org (2013-05) - main</TITLE>
+<META name=3DGENERATOR content=3D"MSHTML 8.00.6001.23501">
+<META name=3Drobots content=3Dnoindex,nofollow>
+<META content=3D"text/html; charset=3Dutf-8" http-equiv=3Dcontent-type>
+<META=20
+content=3D"Awstats - Advanced Web Statistics for =
+dataaccess-p.internal.epo.org (2013-05) - main"=20
+http-equiv=3Ddescription>
+<STYLE type=3Dtext/css>BODY {
+BACKGROUND-COLOR: #ffffff; MARGIN-TOP: 0px; FONT: 11px verdana, arial, =
+helvetica, sans-serif; MARGIN-BOTTOM: 0px
+}
+.aws_bodyl {
+=09
+}
+.aws_border {
+PADDING-BOTTOM: 1px; BACKGROUND-COLOR: #ccccdd; MARGIN-TOP: 0px; =
+PADDING-LEFT: 1px; PADDING-RIGHT: 1px; BORDER-COLLAPSE: collapse; =
+MARGIN-BOTTOM: 0px; PADDING-TOP: 1px
+}
+.aws_title {
+TEXT-ALIGN: center; PADDING-BOTTOM: 1px; BACKGROUND-COLOR: #ccccdd; =
+MARGIN-TOP: 0px; PADDING-LEFT: 1px; PADDING-RIGHT: 1px; FONT: bold 13px =
+verdana, arial, helvetica, sans-serif; MARGIN-BOTTOM: 0px; COLOR: =
+#000000; PADDING-TOP: 1px
+}
+.aws_blank {
+TEXT-ALIGN: center; PADDING-BOTTOM: 1px; BACKGROUND-COLOR: #ffffff; =
+PADDING-LEFT: 1px; PADDING-RIGHT: 1px; FONT: 13px verdana, arial, =
+helvetica, sans-serif; MARGIN-BOTTOM: 0px; PADDING-TOP: 1px
+}
+.aws_data {
+BORDER-RIGHT-WIDTH: 0px; BACKGROUND-COLOR: #ffffff; BORDER-TOP-WIDTH: =
+1px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px
+}
+.aws_formfield {
+FONT: 13px verdana, arial, helvetica
+}
+.aws_button {
+BACKGROUND-IMAGE: url(/icon/other/button.gif); BORDER-BOTTOM: #ccd7e0 =
+1px solid; BORDER-LEFT: #ccd7e0 1px solid; FONT-FAMILY: =
+arial,verdana,helvetica, sans-serif; FONT-SIZE: 12px; BORDER-TOP: =
+#ccd7e0 1px solid; BORDER-RIGHT: #ccd7e0 1px solid
+}
+TH {
+BORDER-BOTTOM-COLOR: #ececec; TEXT-ALIGN: center; PADDING-BOTTOM: 1px; =
+BORDER-RIGHT-WIDTH: 1px; BORDER-TOP-COLOR: #ececec; PADDING-LEFT: 1px; =
+PADDING-RIGHT: 2px; FONT: 11px verdana, arial, helvetica, sans-serif; =
+BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 1px; COLOR: #000000; =
+BORDER-RIGHT-COLOR: #ececec; BORDER-LEFT-COLOR: #ececec; =
+BORDER-LEFT-WIDTH: 0px; PADDING-TOP: 1px
+}
+TH.aws {
+BORDER-BOTTOM-COLOR: #ececec; PADDING-BOTTOM: 1px; BORDER-RIGHT-WIDTH: =
+1px; BORDER-TOP-COLOR: #ececec; PADDING-LEFT: 1px; PADDING-RIGHT: 2px; =
+BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 1px; BORDER-RIGHT-COLOR: =
+#ececec; FONT-SIZE: 13px; BORDER-LEFT-COLOR: #ececec; BORDER-LEFT-WIDTH: =
+0px; FONT-WEIGHT: bold; PADDING-TOP: 1px
+}
+TD {
+BORDER-BOTTOM-COLOR: #ececec; TEXT-ALIGN: center; BORDER-RIGHT-WIDTH: =
+1px; BORDER-TOP-COLOR: #ececec; FONT: 11px verdana, arial, helvetica, =
+sans-serif; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 1px; COLOR: =
+#000000; BORDER-RIGHT-COLOR: #ececec; BORDER-LEFT-COLOR: #ececec; =
+BORDER-LEFT-WIDTH: 0px
+}
+TD.aws {
+BORDER-BOTTOM-COLOR: #ececec; TEXT-ALIGN: left; PADDING-BOTTOM: 0px; =
+BORDER-RIGHT-WIDTH: 1px; BORDER-TOP-COLOR: #ececec; PADDING-LEFT: 0px; =
+PADDING-RIGHT: 0px; FONT: 11px verdana, arial, helvetica, sans-serif; =
+BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 1px; COLOR: #000000; =
+BORDER-RIGHT-COLOR: #ececec; BORDER-LEFT-COLOR: #ececec; =
+BORDER-LEFT-WIDTH: 0px; PADDING-TOP: 0px
+}
+TD.awsm {
+TEXT-ALIGN: left; PADDING-BOTTOM: 0px; BORDER-RIGHT-WIDTH: 0px; =
+PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT: 11px verdana, arial, =
+helvetica, sans-serif; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; =
+COLOR: #000000; BORDER-LEFT-WIDTH: 0px; PADDING-TOP: 0px
+}
+B {
+FONT-WEIGHT: bold
+}
+A {
+FONT: 11px verdana, arial, helvetica, sans-serif
+}
+A:link {
+COLOR: #0011bb; TEXT-DECORATION: none
+}
+A:visited {
+COLOR: #0011bb; TEXT-DECORATION: none
+}
+A:hover {
+COLOR: #605040; TEXT-DECORATION: underline
+}
+.currentday {
+FONT-WEIGHT: bold
+}
+</STYLE>
+        </HEAD>
+<BODY style=3D"MARGIN-TOP: 0px" class=3Daws_bodyl><A =
+        name=3Dmenu>&nbsp;</A>=20
+<TABLE class=3Daws_border border=3D0 cellSpacing=3D0 cellPadding=3D2 =
+        width=3D"100%">
+<TBODY>
+<TR>
+    <TD>
+        <TABLE class=3D"aws_data sortable" border=3D0 cellSpacing=3D0 =
+        cellPadding=3D1=20
+        width=3D"100%">
+        <TBODY>
+        <TR>
+        <TD class=3Dawsm><B>Statistics for:</B></TD></TR>
+<TR>
+    <TD class=3Daws><SPAN=20
+    style=3D"FONT-SIZE: =
+    12px">dataaccess-p.internal.epo.org</SPAN></TD></TR></TBODY></TABLE></TD>=
+        </TR></TBODY></TABLE><BR>
+<TABLE border=3D0 cellSpacing=3D0 cellPadding=3D0>
+<TBODY>
+    <TR>
+        <TD class=3Dawsm><A=20
+        =
+        href=3D"http://webstats-new-p.internal.epo.org/awstats/awstats.pl?month=3D=
+        05&amp;year=3D2013&amp;config=3Ddataaccess-httpd&amp;framename=3Dmainrigh=
+        t#top"=20
+        target=3Dmainright>Summary</A></TD></TR>
+<TR>
+<TD class=3Dawsm width=3D240><B>When:</B></TD></TR>
+<TR>
+<TD class=3Dawsm><A=20
+=
+href=3D"http://webstats-new-p.internal.epo.org/awstats/awstats.pl?month=3D=
+05&amp;year=3D2013&amp;config=3Ddataaccess-httpd&amp;framename=3Dmainrigh=
+t#month"=20
+target=3Dmainright>Monthly history</A></TD></TR>
+<TR>
+<TD class=3Dawsm><A=20
+=
+href=3D"http://webstats-new-p.internal.epo.org/awstats/awstats.pl?month=3D=
+05&amp;year=3D2013&amp;config=3Ddataaccess-httpd&amp;framename=3Dmainrigh=
+t#daysofmonth"=20
+target=3Dmainright>Days of month</A></TD></TR>
+<TR>
+<TD class=3Dawsm><A=20
+=
+href=3D"http://webstats-new-p.internal.epo.org/awstats/awstats.pl?month=3D=
+05&amp;year=3D2013&amp;config=3Ddataaccess-httpd&amp;framename=3Dmainrigh=
+t#daysofweek"=20
+target=3Dmainright>Days of week</A></TD></TR>
+<TR>
+<TD class=3Dawsm><A=20
+=
+href=3D"http://webstats-new-p.internal.epo.org/awstats/awstats.pl?month=3D=
+05&amp;year=3D2013&amp;config=3Ddataaccess-httpd&amp;framename=3Dmainrigh=
+t#hours"=20
+target=3Dmainright>Hours</A></TD></TR>
+<TR>
+<TD class=3Dawsm width=3D240><B>Who:</B></TD></TR>
+<TR>
+<TD class=3Dawsm><A=20
+=
+href=3D"http://webstats-new-p.internal.epo.org/awstats/awstats.pl?month=3D=
+05&amp;year=3D2013&amp;config=3Ddataaccess-httpd&amp;framename=3Dmainrigh=
+t#countries"=20
+target=3Dmainright>Countries</A></TD></TR>
+<TR>
+<TD class=3Dawsm>&nbsp; <IMG alt=3D...=20
+src=3D"http://webstats-new-p.internal.epo.org/icon/other/page.png" =
+width=3D9=20
+height=3D8> <A=20
+=
+href=3D"http://webstats-new-p.internal.epo.org/awstats/awstats.pl?month=3D=
+05&amp;year=3D2013&amp;config=3Ddataaccess-httpd&amp;framename=3Dmainrigh=
+t&amp;output=3Dalldomains"=20
+target=3Dmainright>Full list</A> </TD></TR>
+<TR>
+<TD class=3Dawsm><A=20
+=
+href=3D"http://webstats-new-p.internal.epo.org/awstats/awstats.pl?month=3D=
+05&amp;year=3D2013&amp;config=3Ddataaccess-httpd&amp;framename=3Dmainrigh=
+t#visitors"=20
+target=3Dmainright>Hosts</A></TD></TR>
+<TR>
+<TD class=3Dawsm>&nbsp; <IMG alt=3D...=20
+src=3D"http://webstats-new-p.internal.epo.org/icon/other/page.png" =
+width=3D9=20
+height=3D8> <A=20
+=
+href=3D"http://webstats-new-p.internal.epo.org/awstats/awstats.pl?month=3D=
+05&amp;year=3D2013&amp;config=3Ddataaccess-httpd&amp;framename=3Dmainrigh=
+t&amp;output=3Dallhosts"=20
+target=3Dmainright>Full list</A> </TD></TR>
+<TR>
+<TD class=3Dawsm>&nbsp; <IMG alt=3D...=20
+src=3D"http://webstats-new-p.internal.epo.org/icon/other/page.png" =
+width=3D9=20
+height=3D8> <A=20
+=
+href=3D"http://webstats-new-p.internal.epo.org/awstats/awstats.pl?month=3D=
+05&amp;year=3D2013&amp;config=3Ddataaccess-httpd&amp;framename=3Dmainrigh=
+t&amp;output=3Dlasthosts"=20
+target=3Dmainright>Last visit</A> </TD></TR>
+<TR>
+<TD class=3Dawsm>&nbsp; <IMG alt=3D...=20
+src=3D"http://webstats-new-p.internal.epo.org/icon/other/page.png" =
+width=3D9=20
+height=3D8> <A=20
+=
+href=3D"http://webstats-new-p.internal.epo.org/awstats/awstats.pl?month=3D=
+05&amp;year=3D2013&amp;config=3Ddataaccess-httpd&amp;framename=3Dmainrigh=
+t&amp;output=3Dunknownip"=20
+target=3Dmainright>Unresolved IP Address</A> </TD></TR>
+<TR>
+<TD class=3Dawsm><A=20
+=
+href=3D"http://webstats-new-p.internal.epo.org/awstats/awstats.pl?month=3D=
+05&amp;year=3D2013&amp;config=3Ddataaccess-httpd&amp;framename=3Dmainrigh=
+t#robots"=20
+target=3Dmainright>Robots/Spiders visitors</A></TD></TR>
+<TR>
+<TD class=3Dawsm>&nbsp; <IMG alt=3D...=20
+src=3D"http://webstats-new-p.internal.epo.org/icon/other/page.png" =
+width=3D9=20
+height=3D8> <A=20
+=
+href=3D"http://webstats-new-p.internal.epo.org/awstats/awstats.pl?month=3D=
+05&amp;year=3D2013&amp;config=3Ddataaccess-httpd&amp;framename=3Dmainrigh=
+t&amp;output=3Dallrobots"=20
+target=3Dmainright>Full list</A> </TD></TR>
+<TR>
+<TD class=3Dawsm>&nbsp; <IMG alt=3D...=20
+src=3D"http://webstats-new-p.internal.epo.org/icon/other/page.png" =
+width=3D9=20
+height=3D8> <A=20
+=
+href=3D"http://webstats-new-p.internal.epo.org/awstats/awstats.pl?month=3D=
+05&amp;year=3D2013&amp;config=3Ddataaccess-httpd&amp;framename=3Dmainrigh=
+t&amp;output=3Dlastrobots"=20
+target=3Dmainright>Last visit</A> </TD></TR>
+<TR>
+<TD class=3Dawsm><B>Navigation:</B></TD></TR>
+<TR>
+<TD class=3Dawsm><A=20
+=
+href=3D"http://webstats-new-p.internal.epo.org/awstats/awstats.pl?month=3D=
+05&amp;year=3D2013&amp;config=3Ddataaccess-httpd&amp;framename=3Dmainrigh=
+t#sessions"=20
+target=3Dmainright>Visits duration</A></TD></TR>
+<TR>
+<TD class=3Dawsm><A=20
+=
+href=3D"http://webstats-new-p.internal.epo.org/awstats/awstats.pl?month=3D=
+05&amp;year=3D2013&amp;config=3Ddataaccess-httpd&amp;framename=3Dmainrigh=
+t#filetypes"=20
+target=3Dmainright>File type</A></TD></TR>
+<TR>
+<TD class=3Dawsm><A=20
+=
+href=3D"http://webstats-new-p.internal.epo.org/awstats/awstats.pl?month=3D=
+05&amp;year=3D2013&amp;config=3Ddataaccess-httpd&amp;framename=3Dmainrigh=
+t#downloads"=20
+target=3Dmainright>Downloads</A></TD></TR>
+<TR>
+<TD class=3Dawsm>&nbsp; <IMG alt=3D...=20
+src=3D"http://webstats-new-p.internal.epo.org/icon/other/page.png" =
+width=3D9=20
+height=3D8> <A=20
+=
+href=3D"http://webstats-new-p.internal.epo.org/awstats/awstats.pl?month=3D=
+05&amp;year=3D2013&amp;config=3Ddataaccess-httpd&amp;framename=3Dmainrigh=
+t&amp;output=3Ddownloads"=20
+target=3Dmainright>Full list</A> </TD></TR>
+<TR>
+<TD class=3Dawsm><A=20
+=
+href=3D"http://webstats-new-p.internal.epo.org/awstats/awstats.pl?month=3D=
+05&amp;year=3D2013&amp;config=3Ddataaccess-httpd&amp;framename=3Dmainrigh=
+t#urls"=20
+target=3Dmainright>Viewed</A> </TD></TR>
+<TR>
+<TD class=3Dawsm>&nbsp; <IMG alt=3D...=20
+src=3D"http://webstats-new-p.internal.epo.org/icon/other/page.png" =
+width=3D9=20
+height=3D8> <A=20
+=
+href=3D"http://webstats-new-p.internal.epo.org/awstats/awstats.pl?month=3D=
+05&amp;year=3D2013&amp;config=3Ddataaccess-httpd&amp;framename=3Dmainrigh=
+t&amp;output=3Durldetail"=20
+target=3Dmainright>Full list</A> </TD></TR>
+<TR>
+<TD class=3Dawsm>&nbsp; <IMG alt=3D...=20
+src=3D"http://webstats-new-p.internal.epo.org/icon/other/page.png" =
+width=3D9=20
+height=3D8> <A=20
+=
+href=3D"http://webstats-new-p.internal.epo.org/awstats/awstats.pl?month=3D=
+05&amp;year=3D2013&amp;config=3Ddataaccess-httpd&amp;framename=3Dmainrigh=
+t&amp;output=3Durlentry"=20
+target=3Dmainright>Entry</A> </TD></TR>
+<TR>
+<TD class=3Dawsm>&nbsp; <IMG alt=3D...=20
+src=3D"http://webstats-new-p.internal.epo.org/icon/other/page.png" =
+width=3D9=20
+height=3D8> <A=20
+=
+href=3D"http://webstats-new-p.internal.epo.org/awstats/awstats.pl?month=3D=
+05&amp;year=3D2013&amp;config=3Ddataaccess-httpd&amp;framename=3Dmainrigh=
+t&amp;output=3Durlexit"=20
+target=3Dmainright>Exit</A> </TD></TR>
+<TR>
+<TD class=3Dawsm><A=20
+=
+href=3D"http://webstats-new-p.internal.epo.org/awstats/awstats.pl?month=3D=
+05&amp;year=3D2013&amp;config=3Ddataaccess-httpd&amp;framename=3Dmainrigh=
+t#os"=20
+target=3Dmainright>Operating Systems</A></TD></TR>
+<TR>
+<TD class=3Dawsm>&nbsp; <IMG alt=3D...=20
+src=3D"http://webstats-new-p.internal.epo.org/icon/other/page.png" =
+width=3D9=20
+height=3D8> <A=20
+=
+href=3D"http://webstats-new-p.internal.epo.org/awstats/awstats.pl?month=3D=
+05&amp;year=3D2013&amp;config=3Ddataaccess-httpd&amp;framename=3Dmainrigh=
+t&amp;output=3Dosdetail"=20
+target=3Dmainright>Versions</A> </TD></TR>
+<TR>
+<TD class=3Dawsm>&nbsp; <IMG alt=3D...=20
+src=3D"http://webstats-new-p.internal.epo.org/icon/other/page.png" =
+width=3D9=20
+height=3D8> <A=20
+=
+href=3D"http://webstats-new-p.internal.epo.org/awstats/awstats.pl?month=3D=
+05&amp;year=3D2013&amp;config=3Ddataaccess-httpd&amp;framename=3Dmainrigh=
+t&amp;output=3Dunknownos"=20
+target=3Dmainright>Unknown</A> </TD></TR>
+<TR>
+<TD class=3Dawsm><A=20
+=
+href=3D"http://webstats-new-p.internal.epo.org/awstats/awstats.pl?month=3D=
+05&amp;year=3D2013&amp;config=3Ddataaccess-httpd&amp;framename=3Dmainrigh=
+t#browsers"=20
+target=3Dmainright>Browsers</A></TD></TR>
+<TR>
+<TD class=3Dawsm>&nbsp; <IMG alt=3D...=20
+src=3D"http://webstats-new-p.internal.epo.org/icon/other/page.png" =
+width=3D9=20
+height=3D8> <A=20
+=
+href=3D"http://webstats-new-p.internal.epo.org/awstats/awstats.pl?month=3D=
+05&amp;year=3D2013&amp;config=3Ddataaccess-httpd&amp;framename=3Dmainrigh=
+t&amp;output=3Dbrowserdetail"=20
+target=3Dmainright>Versions</A> </TD></TR>
+<TR>
+<TD class=3Dawsm>&nbsp; <IMG alt=3D...=20
+src=3D"http://webstats-new-p.internal.epo.org/icon/other/page.png" =
+width=3D9=20
+height=3D8> <A=20
+=
+href=3D"http://webstats-new-p.internal.epo.org/awstats/awstats.pl?month=3D=
+05&amp;year=3D2013&amp;config=3Ddataaccess-httpd&amp;framename=3Dmainrigh=
+t&amp;output=3Dunknownbrowser"=20
+target=3Dmainright>Unknown</A> </TD></TR>
+<TR>
+<TD class=3Dawsm width=3D240><B>Referrers:</B></TD></TR>
+<TR>
+<TD class=3Dawsm><A=20
+=
+href=3D"http://webstats-new-p.internal.epo.org/awstats/awstats.pl?month=3D=
+05&amp;year=3D2013&amp;config=3Ddataaccess-httpd&amp;framename=3Dmainrigh=
+t#referer"=20
+target=3Dmainright>Origin</A></TD></TR>
+<TR>
+<TD class=3Dawsm>&nbsp; <IMG alt=3D...=20
+src=3D"http://webstats-new-p.internal.epo.org/icon/other/page.png" =
+width=3D9=20
+height=3D8> <A=20
+=
+href=3D"http://webstats-new-p.internal.epo.org/awstats/awstats.pl?month=3D=
+05&amp;year=3D2013&amp;config=3Ddataaccess-httpd&amp;framename=3Dmainrigh=
+t&amp;output=3Drefererse"=20
+target=3Dmainright>Referring search engines</A> </TD></TR>
+<TR>
+<TD class=3Dawsm>&nbsp; <IMG alt=3D...=20
+src=3D"http://webstats-new-p.internal.epo.org/icon/other/page.png" =
+width=3D9=20
+height=3D8> <A=20
+=
+href=3D"http://webstats-new-p.internal.epo.org/awstats/awstats.pl?month=3D=
+05&amp;year=3D2013&amp;config=3Ddataaccess-httpd&amp;framename=3Dmainrigh=
+t&amp;output=3Drefererpages"=20
+target=3Dmainright>Referring sites</A> </TD></TR>
+<TR>
+<TD class=3Dawsm><A=20
+=
+href=3D"http://webstats-new-p.internal.epo.org/awstats/awstats.pl?month=3D=
+05&amp;year=3D2013&amp;config=3Ddataaccess-httpd&amp;framename=3Dmainrigh=
+t#keys"=20
+target=3Dmainright>Search</A></TD></TR>
+<TR>
+<TD class=3Dawsm>&nbsp; <IMG alt=3D...=20
+src=3D"http://webstats-new-p.internal.epo.org/icon/other/page.png" =
+width=3D9=20
+height=3D8> <A=20
+=
+href=3D"http://webstats-new-p.internal.epo.org/awstats/awstats.pl?month=3D=
+05&amp;year=3D2013&amp;config=3Ddataaccess-httpd&amp;framename=3Dmainrigh=
+t&amp;output=3Dkeyphrases"=20
+target=3Dmainright>Search&nbsp;Keyphrases</A> </TD></TR>
+<TR>
+<TD class=3Dawsm>&nbsp; <IMG alt=3D...=20
+src=3D"http://webstats-new-p.internal.epo.org/icon/other/page.png" =
+width=3D9=20
+height=3D8> <A=20
+=
+href=3D"http://webstats-new-p.internal.epo.org/awstats/awstats.pl?month=3D=
+05&amp;year=3D2013&amp;config=3Ddataaccess-httpd&amp;framename=3Dmainrigh=
+t&amp;output=3Dkeywords"=20
+target=3Dmainright>Search&nbsp;Keywords</A> </TD></TR>
+<TR>
+<TD class=3Dawsm width=3D240><B>Others:</B></TD></TR>
+<TR>
+<TD class=3Dawsm><A=20
+=
+href=3D"http://webstats-new-p.internal.epo.org/awstats/awstats.pl?month=3D=
+05&amp;year=3D2013&amp;config=3Ddataaccess-httpd&amp;framename=3Dmainrigh=
+t#misc"=20
+target=3Dmainright>Miscellaneous</A></TD></TR>
+<TR>
+<TD class=3Dawsm><A=20
+=
+href=3D"http://webstats-new-p.internal.epo.org/awstats/awstats.pl?month=3D=
+05&amp;year=3D2013&amp;config=3Ddataaccess-httpd&amp;framename=3Dmainrigh=
+t#errors"=20
+target=3Dmainright>HTTP Status codes</A></TD></TR>
+<TR>
+<TD class=3Dawsm>&nbsp; <IMG alt=3D...=20
+src=3D"http://webstats-new-p.internal.epo.org/icon/other/page.png" =
+width=3D9=20
+height=3D8> <A=20
+=
+href=3D"http://webstats-new-p.internal.epo.org/awstats/awstats.pl?month=3D=
+05&amp;year=3D2013&amp;config=3Ddataaccess-httpd&amp;framename=3Dmainrigh=
+t&amp;output=3Derrors404"=20
+target=3Dmainright>Pages not found</A>=20
+        </TD></TR></TBODY></TABLE><BR></BODY></HTML>
+
+        ------=_NextPart_001_009B_01CE7714.E3318E10--
+
+        ------=_NextPart_000_0098_01CE7714.E3318E10
+        Content-Type: image/png
+        Content-Transfer-Encoding: base64
+        Content-Location: http://webstats-new-p.internal.epo.org/icon/other/awstats_logo6.png
+
+        iVBORw0KGgoAAAANSUhEUgAAAHAAAAA2CAMAAAAoP+0IAAAALXRFWHRDcmVhdGlvbiBUaW1lAGpl
+        dS4gMTAgbWFpIDIwMDEgMDA6MTQ6MjMgKzAxMDDxy8byAAAAB3RJTUUH0QUJFhANjIYU/gAAAAlw
+        SFlzAAALEgAACxIB0t1+/AAAAARnQU1BAACxjwv8YQUAAAIBUExURfv7+/T09O3t7ePj493d3dPT
+        08zMzMXFxby8vLW1taurq6SkpJ2dnZOTk42Nja2ttZGOqnd3ilpac1pSY3NjUn5oVIh2aHNzc4SE
+        jJycrYODg39/jFJahFJae0pSe05Od2Vlga2ctWtrhE5SjFJalEpalGNjpVJajFpjnFpjpVJapW1w
+        slpahFpjrVprtZygylpnsV5rvX+EzsatxsaMvYyUlGNzxmNrzsZStb0xtWNzzmtzzsalxr0ptb1K
+        tb0YtcZzvVprzsZavca9xsZjvcaEvb0htca1xoR7hHNrf459dXN7zsaUvb05tWNaa1JSe1pajJyE
+        Z6WMc62Uc62Ue4N/t6WMa62Mc72chKGhocalhM6tjJycpb2lrbWlrcacxmtaWr2lhL2lnGt7zpSO
+        wd69lMZrvb+/v2NaY2NaWkpahGJzhEpae5CKe5yMc6WUc9a1nHOEzta1lFpzzlJrzqW1vW9na5CQ
+        kLWce969nOfGnMatrZyMlLWltXd/0r2ce9a1jIaN2O/GpbWlzpyUzpyt57W153t7e+/Opc7Gzv/n
+        xrW13ufv99be7//evf/vzu/n1nNjSv//3u/v5/fWrd7W1tbW1vj4+PHx8cbG1sZ7vb291tbO1pyU
+        vdbOxrW1zt69rbenlMatpc6tnM6trXN7vXdze72lpaaUjcipjq2cvQYME3UAAAABdFJOUwBA5thm
+        AAAH10lEQVR42tWYC1cTVxCA3ewjm0AQEKwkm5AERLSpYAKBbEKABILmoUWgpUSwNllqaWtpbC2m
+        mAYUSqmPgn3a2ip92l/Zmbu7YfOwxRJ7TsfDQXJO9ttv7szcu3vgwP88wv8xz9PvoSjqv+ON9Ufm
+        aVpXZaKh3tLR/eKv3pi7q0TGkxgY8nkYhtZVj2b8ze48euL41ONk8uHD9JP0rEbnoi8RCAeHOI6l
+        q+XYYm9daGs/2vHH46nHjsziz478nzsZNYXxSNDDcnGfh9czVVJ0tra2LnR2dnT3Tl1I5jHS+WR+
+        Z4cgH0T6wyzHg6KB56qi2GJFXlunZXlyZmYmL8cKMPP5R3R4aHAeeHregIrcHhXDf9dFvYBrFdra
+        LUtLSzMzIJh5kpEWiWgy/0tocIgBHgBBkddXVCy7fCA44NE9raZ7bRjCy2c++qN3ub7enXwi5tLJ
+        2ZyUIciRHqBh8Dwo6isohkd9I8VX7xnwJYZounJN15/DaD33W/RKR/fJqXrHhbm5nd8d0lxakiRE
+        Ggw8r9dDhbKgqC9XDAQHQwG4+u4NzA/2j8HNsWwlosMmEGKb80zD8vLUlDeWjs3OuTPS9dmsdCuD
+        lkYjZBLMdHQFRc9IJBFnWJahd28g8iAs31ylLrIjDZiuaPT85FIvdH0s5o85JCl7/VY2K5G8GrE6
+        AaMrUww/GBgYxZLiWGY3nRcZqLGndJEFafBPODM+/srE5Ccz0IU7cw9/lhazvzza2FjNYlZrjTyL
+        36RKFeOJyLyHIWvMsbvpxE9IF5Xn/6CAGYWfy82Hkbg0DW0BJXojm914FFu5KxNrjXqGfLFYMdA/
+        GAyQCi4A5XSSEjNULLEGQSAJvbbV3EyAl6AvMpL08Y2NL+/+ePOn3K1HqAiGZIm0imPzEV9PWMEB
+        j95Np1zUFUsMBG1WwXataWsLFScmL11CQ0lKuzc3761vduViuUzelJbXUKMIrQAuTAHH4IXVdGKw
+        LNuTCJcq9sLiAbNxa4sAiWGSABdjP2xv0/TaSkp8aK4TDcoXVcU4tAIsnspTdpH5wi3gJ3Q4MVqq
+        aBeg5a3CZRX4KlQNMcyu3vh+e/s+dWctJ6YA6FYrnCh6QoPBi4wmm2rXU7T8IdweBX+MliliuYDj
+        6wpwHIHJPPCyG5vffX2HMlN3QNFsElN65aqoOBLxjWoWj9l10NHkNlg1/6WKLTaSUZtqCDlVgKtf
+        bn719f1vzOZv11JizCSKXWraQDExNMbj8EEcV7QnUzQS1TsoV7QAzwo/JKdQpQiEogHi6sbmvXvb
+        98111HrOL6ZjYk6vmFB0IM4bYBSoS6VdIkoHxN2PyhRPY4Wio/XQocuN9k+j43LVgOLG3c17X9yu
+        M92GRRRFtyjyQJQVGQ78EKhZvF2idoqXKX4qkJQSSUE41t55ZWKpsIifbX6+fvs2VI3f7xfFtJHn
+        WF1RYWgXT4PU/gGKPVrFF0gXQrhcLgLEqlEUV2/eyq2tr6+txPyiF4A43pRCpVmWK1m8pwRFDwW1
+        is1nZUW702l3ITAKwGkClLLpVCq3srKSQz8RCqemcLwgC7W3I6PO44trFA83nQVHweW0WBrsViA2
+        TC5NTyeTwJNuQCZTuVwOBMW+4T6/qdZQ+F7xSj2DYrSpGTPqajhy5IjTJbS3dy4vAQ8nTRaBgPQT
+        3rA3VacBPkMUK7576Bq0vtVlAaDFZYWcfiQbXs9mPyZAkk5vnyhqgSdIPOXcf+L5xocflnKfM5BE
+        8XqS5mcLwfHzwTcNsBWTPy6/1biA8XZDw9sL7ywsHH33ypX3JqcvJRfTqfczc1evXsWUfgBhrjPh
+        yYZcQ8PisBvLpg2DbaOG3jNw0WgEIkQ4+nqjQOrUbrdj+Rxzjo+fn4ROfENMpSU30mAZh4eHUwqQ
+        hMyqqTHicQ6fN4qIpUBOHwoZcRRynCfY39RoI/MUOt8qYGNEx89PQCdeEMXZOagYLBrgDXeZ66Dz
+        C5fgjTW1plqFyDKlQG1KIY8BX8CASQ0kfPGoFRtfUIe4cOwMborTr53yet0xkPPLPBEEa5R1wDED
+        07tGY6ijSie4Nhg2FMLdJT6Q8PDGs+fQTJ6nOOZehpxOTE6dOuUl6ST5REHCY9QroCTZoTg8kNKl
+        lUoVBw2Kev1opH8M7vS0MrnJUhLFaPR0x8lTQPQSIvJiZjOsIIcmJORVAhYWjO4fn8QpOhSCR6IR
+        +ZHIbiN+xBEV2+3Hj790Eol9XgXoN6OgdiOVs7YHljJuAgPBwSH5LGdwCELBUdmkgNitOEJKYbcn
+        FVN8bKee5Q0DRff7enjyiAJL0Yt+VnlfxN/HYKQisRuRfSDpRsE9PxhWVvT06KFQSYlxXG+Roer4
+        kkL0Ep5Bz9L/ngeKpMrIIxFNc/XkMCyvIVnG9k5wVJDAIy24v0dtOJdgkOMc/N/hKnWUJaF4uhTe
+        Pl8mUGQWKGcSPBVZhEKdwsMwIYLliRfNkM8q8JS61qnHRxjpDmdBEZ+/hTZ8h9JixgmDx6f9v7uA
+        7i1cA3xhBBy0CGTo2Gz4jqHVZm8hejXwMMpU7XVQwZchA/lgfUPjoabmpsMvHEFanQn15AeFaocO
+        02rAPcBUp4RJ3g44tprv1zSSOB4BCbtALQnYDAiu6unUSOKTD57iSfDqVveccAcKO6e6y7LsXk+7
+        +2JqNs+9Hnb3yyzEs37zL/DQH7SW5uCbAAAAAElFTkSuQmCC
+
+        ------=_NextPart_000_0098_01CE7714.E3318E10
+        Content-Type: image/png
+        Content-Transfer-Encoding: base64
+        Content-Location: http://webstats-new-p.internal.epo.org/icon/other/vu.png
+
+        iVBORw0KGgoAAAANSUhEUgAAAA0AAAABBAMAAAD3Bzk0AAAAL3RFWHRDcmVhdGlvbiBUaW1lAGpl
+        dS4gMTYgamFudi4gMjAwMyAxMzo1Mjo1NSArMDEwMFb3nbQAAAAHdElNRQfTARAMNQJwIuDwAAAA
+        CXBIWXMAAArwAAAK8AFCrDSYAAAABGdBTUEAALGPC/xhBQAAACdQTFRFznMI1owh76VC/8Z7/9ac
+        78aE57Vz3q1jzpxSvYQxrWMAlEoArWMQ/jEWAgAAABBJREFUeNpjYFR2Te9cfQAAB4cCxXeYEo0A
+        AAAASUVORK5CYII=
+
+        ------=_NextPart_000_0098_01CE7714.E3318E10
+        Content-Type: image/png
+        Content-Transfer-Encoding: base64
+        Content-Location: http://webstats-new-p.internal.epo.org/icon/other/vv.png
+
+        iVBORw0KGgoAAAANSUhEUgAAAA0AAAABBAMAAAD3Bzk0AAAAL3RFWHRDcmVhdGlvbiBUaW1lAGpl
+        dS4gMTYgamFudi4gMjAwMyAxMzo1MTowNiArMDEwMMTIMk4AAAAHdElNRQfTARAMMw4vzgtdAAAA
+        CXBIWXMAAArwAAAK8AFCrDSYAAAABGdBTUEAALGPC/xhBQAAACdQTFRF08lU2MZk6N168+ae8+2u
+        6eOj492Y3teO082DyL5uvrVPrppPvq5ZkT4ajgAAABBJREFUeNpjYFR2Te9cfRwAB44CzHWBU0YA
+        AAAASUVORK5CYII=
+
+        ------=_NextPart_000_0098_01CE7714.E3318E10
+        Content-Type: image/png
+        Content-Transfer-Encoding: base64
+        Content-Location: http://webstats-new-p.internal.epo.org/icon/other/vp.png
+
+        iVBORw0KGgoAAAANSUhEUgAAAA0AAAABBAMAAAD3Bzk0AAAAL3RFWHRDcmVhdGlvbiBUaW1lAGpl
+        dS4gMTYgamFudi4gMjAwMyAxMzo1MzoyNCArMDEwMBWH9CcAAAAHdElNRQfTARANAhb7Pf6OAAAA
+        CXBIWXMAAArwAAAK8AFCrDSYAAAABGdBTUEAALGPC/xhBQAAADBQTFRFCErOIWPWQoTve63/nL3/
+        hKXvc5TnY4zeUnvOKVq9ADmtAEKUEFKtAAAAAAAAAAAAlwAM9AAAABBJREFUeNpjYFR2Te9cfRwA
+        B44CzHWBU0YAAAAASUVORK5CYII=
+
+        ------=_NextPart_000_0098_01CE7714.E3318E10
+        Content-Type: image/png
+        Content-Transfer-Encoding: base64
+        Content-Location: http://webstats-new-p.internal.epo.org/icon/other/vh.png
+
+        iVBORw0KGgoAAAANSUhEUgAAAA0AAAABBAMAAAD3Bzk0AAAAL3RFWHRDcmVhdGlvbiBUaW1lAGpl
+        dS4gMTYgamFudi4gMjAwMyAxMzo1Mzo1MyArMDEwMNrlw7AAAAAHdElNRQfTARAMNgJbD7MzAAAA
+        CXBIWXMAAArwAAAK8AFCrDSYAAAABGdBTUEAALGPC/xhBQAAACdQTFRFCMbOIc7WQufve///nPf/
+        hOfvc97nY9beUsbOMbW9AKWtAJSUEK2tSNELXAAAABBJREFUeNpjYFR2Te9cfQAAB4cCxXeYEo0A
+        AAAASUVORK5CYII=
+
+        ------=_NextPart_000_0098_01CE7714.E3318E10
+        Content-Type: image/png
+        Content-Transfer-Encoding: base64
+        Content-Location: http://webstats-new-p.internal.epo.org/icon/other/vk.png
+
+        iVBORw0KGgoAAAANSUhEUgAAAA0AAAABBAMAAAD3Bzk0AAAAL3RFWHRDcmVhdGlvbiBUaW1lAGpl
+        dS4gMTYgamFudi4gMjAwMyAxMzo1MjoyMCArMDEwMA4KuwoAAAAHdElNRQfTARAMNCJSV/F5AAAA
+        CXBIWXMAAArwAAAK8AFCrDSYAAAABGdBTUEAALGPC/xhBQAAACRQTFRFAIBRAIhWAKBxJbWcP6ui
+        LqSVE5WNCo59AIhtAHhMAGZBAE4yGEWwRgAAABBJREFUeNpjYFR2Te9cvRwAB24CrF3MfTUAAAAA
+        SUVORK5CYII=
+
+        ------=_NextPart_000_0098_01CE7714.E3318E10
+        Content-Type: image/png
+        Content-Transfer-Encoding: base64
+        Content-Location: http://webstats-new-p.internal.epo.org/icon/clock/hr1.png
+
+        iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOBAMAAADtZjDiAAAAGnRFWHREZXNjcmlwdGlvbgBNYWRl
+        IHdpdGggR0lNUPVUMbMAAAAHdElNRQfQCg4PJwSicehcAAAACXBIWXMAAAsSAAALEgHS3X78AAAA
+        BGdBTUEAALGPC/xhBQAAADBQTFRF////5+fne3tzISEhAAAAEBAIra2tlJSUQkJCnIwI1r0Ac2MA
+        58YI/94Aa1oA59Z7w7O7rQAAAAF0Uk5TAEDm2GYAAABeSURBVHjaY2BgVPY5zwAEKS4+d6cxMLC7
+        uHjdCU1gEAXS91wCGFSA9FEXdwYTIL3FxYPBxcXF08XFGUS7gmigOBB4gNQBgTtIHxAEgMwBggSQ
+        uS4uYUDzGZVdjRgYACEFGdZTnAnGAAAAAElFTkSuQmCC
+
+        ------=_NextPart_000_0098_01CE7714.E3318E10
+        Content-Type: image/png
+        Content-Transfer-Encoding: base64
+        Content-Location: http://webstats-new-p.internal.epo.org/icon/clock/hr2.png
+
+        iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOBAMAAADtZjDiAAAAGnRFWHREZXNjcmlwdGlvbgBNYWRl
+        IHdpdGggR0lNUPVUMbMAAAAHdElNRQfQCg4PJwM8FX3/AAAACXBIWXMAAAsSAAALEgHS3X78AAAA
+        BGdBTUEAALGPC/xhBQAAADBQTFRF////5+fee3tzISEhAAAAMTEYnJyUEBAYra2tQkJCa1oAxq0I
+        /94AvZwAc2sQhIR7ayCFwAAAAAF0Uk5TAEDm2GYAAABgSURBVHjaY2BgVHaJF2BgYEh3cXF5wMDA
+        AaSczwgwiABp3zMbGFSA9Joz1xhMgPSZq54MQMprq4szmHZxcQeLu7h4gtW5uLiB9bm4FIDNcXFp
+        YGBIAVIVQPOB9gQxMAAAV3Ybi0DoXksAAAAASUVORK5CYII=
+
+        ------=_NextPart_000_0098_01CE7714.E3318E10
+        Content-Type: image/png
+        Content-Transfer-Encoding: base64
+        Content-Location: http://webstats-new-p.internal.epo.org/icon/clock/hr3.png
+
+        iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOBAMAAADtZjDiAAAAGnRFWHREZXNjcmlwdGlvbgBNYWRl
+        IHdpdGggR0lNUPVUMbMAAAAHdElNRQfQCg4PJwM8FX3/AAAACXBIWXMAAAsSAAALEgHS3X78AAAA
+        BGdBTUEAALGPC/xhBQAAADBQTFRF////597We3tzKSkpAAAAlJSUGBAQra2tSkIhY1oInIwAc2MA
+        /94Azr0xtZwAhIR7SRmucgAAAAF0Uk5TAEDm2GYAAABOSURBVHjaY2BgVHaxZwCCMhcXl3QGBnYX
+        EChgEAHTDQwqIMrjIIMJkHJ7c5YBRO05A6Y9V+2cCRYHKoCoc3GF6kuAm8MQBjEXZI8RAwMA/MUa
+        +5U2H5cAAAAASUVORK5CYII=
+
+        ------=_NextPart_000_0098_01CE7714.E3318E10
+        Content-Type: image/png
+        Content-Transfer-Encoding: base64
+        Content-Location: http://webstats-new-p.internal.epo.org/icon/clock/hr4.png
+
+        iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOBAMAAADtZjDiAAAAGnRFWHREZXNjcmlwdGlvbgBNYWRl
+        IHdpdGggR0lNUPVUMbMAAAAHdElNRQfQCg4PJwSicehcAAAACXBIWXMAAAsSAAALEgHS3X78AAAA
+        BGdBTUEAALGPC/xhBQAAADBQTFRF////597We3tzKSkpAAAAhIR7ra2tGBAQSkIh/94AtZwAzr0x
+        c2MAY1oInIwAlJSUtWeu0QAAAAF0Uk5TAEDm2GYAAABOSURBVHjaY2BgVHYxYgCC7y4uLmUMDGwu
+        IJDAIAKmCxhUwLQ/gwmY9mAAEr7vzt4F0e4nZ84Gi7uvnA1R5zERqq8Bbg5DOsRckD2mDAwA80kb
+        PtI5/FcAAAAASUVORK5CYII=
+
+        ------=_NextPart_000_0098_01CE7714.E3318E10
+        Content-Type: image/png
+        Content-Transfer-Encoding: base64
+        Content-Location: http://webstats-new-p.internal.epo.org/icon/clock/hr5.png
+
+        iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOBAMAAADtZjDiAAAAGnRFWHREZXNjcmlwdGlvbgBNYWRl
+        IHdpdGggR0lNUPVUMbMAAAAHdElNRQfQCg4PJwSicehcAAAACXBIWXMAAAsSAAALEgHS3X78AAAA
+        BGdBTUEAALGPC/xhBQAAADBQTFRF////5+fee3tzISEhAAAAMTEYhIR7nJyUEBAYc2sQra2t/94A
+        vZwAxq0Ia1oAQkJC3OS0PQAAAAF0Uk5TAEDm2GYAAABXSURBVHjaY2BgVHYJYgCCEhcXly4GBi4X
+        EFjAIAKmGxhUwLQ7gwmY9mcAEn4uLh5g+qqLM1h891F/sLrXu4+D9fnsvgA2x3m3AANDBZAxAWg+
+        0J4wAQYAvyIbyj6VHnAAAAAASUVORK5CYII=
+
+        ------=_NextPart_000_0098_01CE7714.E3318E10
+        Content-Type: image/png
+        Content-Transfer-Encoding: base64
+        Content-Location: http://webstats-new-p.internal.epo.org/icon/clock/hr6.png
+
+        iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOBAMAAADtZjDiAAAAGnRFWHREZXNjcmlwdGlvbgBNYWRl
+        IHdpdGggR0lNUPVUMbMAAAAHdElNRQfQCg4PJwSicehcAAAACXBIWXMAAAsSAAALEgHS3X78AAAA
+        BGdBTUEAALGPC/xhBQAAADBQTFRF////5+fne3tzISEhAAAA58YI59Z7ra2t/94AnIwIlJSU1r0A
+        EBAIa1oAc2MAQkJCqXd+agAAAAF0Uk5TAEDm2GYAAABaSURBVHjaY2BgVPYxYgCCEhcXl+MMDFwu
+        IFDAIAOmDzCogGkvBhMw7c8AJHxcXJxBtCeIBop7PwGKA9V5xwDVAfV59wL1Ac3xbj1TADLXtWM6
+        0HxGZdcwBgYAf3MaXGl4ZBsAAAAASUVORK5CYII=
+
+        ------=_NextPart_000_0098_01CE7714.E3318E10
+        Content-Type: image/png
+        Content-Transfer-Encoding: base64
+        Content-Location: http://webstats-new-p.internal.epo.org/icon/clock/hr7.png
+
+        iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOBAMAAADtZjDiAAAAGnRFWHREZXNjcmlwdGlvbgBNYWRl
+        IHdpdGggR0lNUPVUMbMAAAAHdElNRQfQCg4PJwSicehcAAAACXBIWXMAAAsSAAALEgHS3X78AAAA
+        BGdBTUEAALGPC/xhBQAAADBQTFRF////59Z758YIAAAAISEhe3tz5+fnra2tnIwI/94AEBAI1r0A
+        lJSUa1oAQkJCc2MAvdEc8AAAAAF0Uk5TAEDm2GYAAABcSURBVHjaY2BgCFnsmsDAwFBlbGxszsDA
+        bgwCBxi4wPQyhsNg2pThMZg2YXA2Nl4MZIDoZhD92Nh+M0j8sPGizSB1XMY3N4P0sa/S3Awyh6Fi
+        pjLIXAYGIWWgPQDKyhubd5G4owAAAABJRU5ErkJggg==
+
+        ------=_NextPart_000_0098_01CE7714.E3318E10
+        Content-Type: image/png
+        Content-Transfer-Encoding: base64
+        Content-Location: http://webstats-new-p.internal.epo.org/icon/clock/hr8.png
+
+        iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOBAMAAADtZjDiAAAAGnRFWHREZXNjcmlwdGlvbgBNYWRl
+        IHdpdGggR0lNUPVUMbMAAAAHdElNRQfQCg4PJwSicehcAAAACXBIWXMAAAsSAAALEgHS3X78AAAA
+        BGdBTUEAALGPC/xhBQAAADBQTFRF////5+fehIR7MTEYAAAAISEhe3tzc2sQEBAYnJyU/94Ara2t
+        xq0IvZwAa1oAQkJCBaeYxgAAAAF0Uk5TAEDm2GYAAABYSURBVHjaY2BgSHYJE2BgYNjh4uLiycDA
+        7QICGxg4wLQjwxQw7cbwBUy7MrS4uDwBMhhCXGzA9BfbVWDxuavWgdXxrLoC1se4KgRsDgM7kOoE
+        ms+oDLIHAGVZHbEvSCd4AAAAAElFTkSuQmCC
+
+        ------=_NextPart_000_0098_01CE7714.E3318E10
+        Content-Type: image/png
+        Content-Transfer-Encoding: base64
+        Content-Location: http://webstats-new-p.internal.epo.org/icon/clock/hr9.png
+
+        iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOBAMAAADtZjDiAAAAGnRFWHREZXNjcmlwdGlvbgBNYWRl
+        IHdpdGggR0lNUPVUMbMAAAAHdElNRQfQCg4PJwM8FX3/AAAACXBIWXMAAAsSAAALEgHS3X78AAAA
+        BGdBTUEAALGPC/xhBQAAADBQTFRF////hIR7KSkpAAAAe3tz597Wra2tGBAQSkIh/94Azr0xtZwA
+        c2MAY1oInIwAlJSUQX/1nQAAAAF0Uk5TAEDm2GYAAABQSURBVHjaY2BgcDJWCWBgYEg3NjauZ2Bg
+        MwaBBAZ2MG3K8BlMmzA0g2kjhrt33l0GMhhWzpxTDKZnF4PFI5sh6jig+mDmgM0tA5rPIASyBwCQ
+        LhkOSphqlAAAAABJRU5ErkJggg==
+
+        ------=_NextPart_000_0098_01CE7714.E3318E10
+        Content-Type: image/png
+        Content-Transfer-Encoding: base64
+        Content-Location: http://webstats-new-p.internal.epo.org/icon/clock/hr10.png
+
+        iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOBAMAAADtZjDiAAAAGnRFWHREZXNjcmlwdGlvbgBNYWRl
+        IHdpdGggR0lNUPVUMbMAAAAHdElNRQfQCg4PJwM8FX3/AAAACXBIWXMAAAsSAAALEgHS3X78AAAA
+        BGdBTUEAALGPC/xhBQAAADBQTFRF////e3tzKSkpAAAA597Wra2tGBAQlJSUSkIhY1oIc2MAnIwA
+        zr0x/94AtZwAhIR7eKUBUQAAAAF0Uk5TAEDm2GYAAABSSURBVHjaY2Bg+GSs6MDAwBBmbGycysDA
+        agwCAQwcYNqEwbcZRBsynL2XDKSNGM7evQViMMyctXsyiAZLA8WLjSHq2KD6YOaAzU0Hms8gBLIH
+        AKe2GIqbOyLiAAAAAElFTkSuQmCC
+
+        ------=_NextPart_000_0098_01CE7714.E3318E10
+        Content-Type: image/png
+        Content-Transfer-Encoding: base64
+        Content-Location: http://webstats-new-p.internal.epo.org/icon/clock/hr11.png
+
+        iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOBAMAAADtZjDiAAAAGnRFWHREZXNjcmlwdGlvbgBNYWRl
+        IHdpdGggR0lNUPVUMbMAAAAHdElNRQfQCg4PJwM8FX3/AAAACXBIWXMAAAsSAAALEgHS3X78AAAA
+        BGdBTUEAALGPC/xhBQAAADBQTFRF////e3tzMTEYAAAAISEh5+fera2tEBAYnJyUQkJCa1oAxq0I
+        vZwA/94Ac2sQhIR7ZOlVQgAAAAF0Uk5TAEDm2GYAAABeSURBVHjaY2Bg/WTsGMDAwMBnbGxcwcDA
+        etcZyEhg4L57GEibMvTcvQWkDRkm69wF0iYMzsbai4EMhmJjYzA92dgYLN4Mpg0Z2MG0KQMbmE5g
+        YEgHUhZA8xmEQPYAAAhRGQGRdb7HAAAAAElFTkSuQmCC
+
+        ------=_NextPart_000_0098_01CE7714.E3318E10
+        Content-Type: image/png
+        Content-Transfer-Encoding: base64
+        Content-Location: http://webstats-new-p.internal.epo.org/icon/clock/hr12.png
+
+        iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOBAMAAADtZjDiAAAAGnRFWHREZXNjcmlwdGlvbgBNYWRl
+        IHdpdGggR0lNUPVUMbMAAAAHdElNRQfQCg4PJwM8FX3/AAAACXBIWXMAAAsSAAALEgHS3X78AAAA
+        BGdBTUEAALGPC/xhBQAAADBQTFRF////e3tzISEhEBAIAAAA5+fnra2tlJSUQkJCnIwIc2MA1r0A
+        58YIa1oA/94A59Z7fJLT/gAAAAF0Uk5TAEDm2GYAAABgSURBVHjaY2Bg+HNEMYCBgSHz3REXNwYG
+        NuNzW1xcChiYXe4BaVOGEhcbIO3I0OLiBaSdGFRcXKa4uLiAaBMQ3eICAk5AdSDgCNQHAqYMbGC6
+        gIEhGUgBzWVgEDIB2gMACkkcfteVb5UAAAAASUVORK5CYII=
+
+        ------=_NextPart_000_0098_01CE7714.E3318E10
+        Content-Type: image/png
+        Content-Transfer-Encoding: base64
+        Content-Location: http://webstats-new-p.internal.epo.org/icon/flags/ip.png
+
+        iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOBAMAAADtZjDiAAAAGnRFWHREZXNjcmlwdGlvbgBNYWRl
+        IHdpdGggR0lNUPVUMbMAAAAHdElNRQfQCg4PKBA/MyDuAAAACXBIWXMAAAsSAAALEgHS3X78AAAA
+        BGdBTUEAALGPC/xhBQAAAAZQTFRF////AAAAVcLTfgAAAAF0Uk5TAEDm2GYAAAAkSURBVHjaY2CA
+        A0ZBCC0AhCAuGCFomDiYxQCVQaHRpOEAmQ8AJYsAmQisDb0AAAAASUVORK5CYII=
+
+        ------=_NextPart_000_0098_01CE7714.E3318E10
+        Content-Type: image/png
+        Content-Transfer-Encoding: base64
+        Content-Location: http://webstats-new-p.internal.epo.org/icon/other/hp.png
+
+        iVBORw0KGgoAAAANSUhEUgAAAAEAAAAQBAMAAAAlsQiEAAAAL3RFWHRDcmVhdGlvbiBUaW1lAGpl
+        dS4gMTYgamFudi4gMjAwMyAxMzo1NDoyMCArMDEwMAMUy00AAAAHdElNRQfTARAMNhs/ZBvzAAAA
+        CXBIWXMAAArwAAAK8AFCrDSYAAAABGdBTUEAALGPC/xhBQAAAC1QTFRFAEKUCErOIWPWQoTve63/
+        rcb/rb3/nL3/hKXvc5TnY4zeUnvOKVq9ADmtEFKtaQM7vgAAAChJREFUeNpjeMDAwHCB4QDDBoYF
+        DBMYGhgKGBIYAhgcGAwYFBjEGRgAh2UGmIMEawwAAAAASUVORK5CYII=
+
+        ------=_NextPart_000_0098_01CE7714.E3318E10
+        Content-Type: image/png
+        Content-Transfer-Encoding: base64
+        Content-Location: http://webstats-new-p.internal.epo.org/icon/other/hh.png
+
+        iVBORw0KGgoAAAANSUhEUgAAAAEAAAAQBAMAAAAlsQiEAAAAL3RFWHRDcmVhdGlvbiBUaW1lAGpl
+        dS4gMTYgamFudi4gMjAwMyAxMzo1MDoyNCArMDEwMP6wTyQAAAAHdElNRQfTARAMMiNzCmZpAAAA
+        CXBIWXMAAArwAAAK8AFCrDSYAAAABGdBTUEAALGPC/xhBQAAACpQTFRFAJSUCMbOIc7WQufve///
+        rff/nPf/hOfvc97nY9beUsbOMbW9AKWtEK2tI1eWNAAAAChJREFUeNpjuMnAyHCeYQPDEoYZDA0M
+        9QwJDCEMwQxeDPYMCgwiDPwAgV8GaPAqQ94AAAAASUVORK5CYII=
+
+        ------=_NextPart_000_0098_01CE7714.E3318E10
+        Content-Type: image/png
+        Content-Transfer-Encoding: base64
+        Content-Location: http://webstats-new-p.internal.epo.org/icon/other/hk.png
+
+        iVBORw0KGgoAAAANSUhEUgAAAAEAAAAQBAMAAAAlsQiEAAAAL3RFWHRDcmVhdGlvbiBUaW1lAGpl
+        dS4gMTYgamFudi4gMjAwMyAxMzo1MTo1MCArMDEwMO/4CRAAAAAHdElNRQfTARAMMzmXc65SAAAA
+        CXBIWXMAAArwAAAK8AFCrDSYAAAABGdBTUEAALGPC/xhBQAAACdQTFRFAE4yAIBRAIhWAKBxJbWc
+        UrKxP6uiLqSVE5WNCo59AIhtAHhMAGZBFzVRzQAAACdJREFUeNpjOMDAwHCAYQPDAoYJDA0MBQwJ
+        DAFA6MBgwKDAIM7AAAB5hQX4JoORLQAAAABJRU5ErkJggg==
+
+        ------=_NextPart_000_0098_01CE7714.E3318E10
+        Content-Type: image/png
+        Content-Transfer-Encoding: base64
+        Content-Location: http://webstats-new-p.internal.epo.org/icon/mime/unknown.png
+
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0
+        U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAKkSURBVDjLpZPdT5JhGMb9W+BPaK3matVq
+        ndXWOOigA6fmJ9DUcrUMlrN0mNMsKTUznQpq6pyKAm8CIogmypcg8GIiX8rHRHjhVbPt6o01nMvZ
+        Wge/k3vP9duuZ/edAyDnf/hjoCMP2Vr3gUDj3CdV6zT1xZ6iFDaKnLEkBFOmPfaZArWT5sw60iFP
+        +BAbOzTcQSqDZzsNRyCNkcVoaGghzDlVQKylOHJrMrUZ2Yf52y6kc36IxpyoH1lHF7EBgyMKV4jC
+        J5U/1UVscU4IZOYEa3I1HtwI01hwxlDLhDoJD/wxGr5YGmOLAdRIrVCuhmD3JdA6SQabx12srGB0
+        KSpc86ew4olDOGjH4x4z0gdHDD9+c4TaQQtq+k2Yt0egXYugTmoVZgV9cyHSxXTtJjZR3WNCVfcK
+        /NE0ppYDUNu2QTMCtS0IbrsOrVMOWL27eNJtJLOCDoWXdgeTEEosqPxoBK/TwDzWY9rowy51gJ1d
+        Gr2zLpS2aVH5QQ+Hbw88sZ7OClrGXbQrkMTTAQu4HXqUv9eh7J0OSfo7tiIU+GItilpUuM/AF2tg
+        98eR36Q+FryQ2kjbVhximQu8dgPKxPMoeTuH4tfqDIWvCBQ2KlDQKEe9dBlGTwR36+THFZg+QoUx
+        AL0jgsoOQzYYS+wjskcjTzSToVAkA7Hqg4Spc6tm4vgT+eIFVvmb+eCSMwLlih/cNg0KmpRoGzdl
+        +BXOb5jAsMYNjSWAm9VjwesPR1knFilPNMu510CkdPZtqK1BvJQsoaRZjqLGaTzv1UNp9EJl9uNq
+        xefU5QdDnFNX+Y5Qxrn9bDLUR6zjqzsMizeWYdG5gy6ZDbk8aehiuYRz5jHdeDTKvlY1IrhSMUxe
+        4g9SuVwpdaFsgDxf2i84V9zH/us1/is/AdevBaK9Tb3EAAAAAElFTkSuQmCC
+
+        ------=_NextPart_000_0098_01CE7714.E3318E10
+        Content-Type: image/png
+        Content-Transfer-Encoding: base64
+        Content-Location: http://webstats-new-p.internal.epo.org/icon/mime/jscript.png
+
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0
+        U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAALtSURBVBgZTcFLaFxVAIDh/5577jwzj0wS
+        UmqMtKIiBltbbJ1FUCxVoQu3FrHGVRU3BVcKrkTcKOhCUOtOAyJ23WIQtFawpoooZWKJpnbsNJN5
+        PzP3PO5xArPo93nOOfasXCgfAz48mE8UhzpiqCN0FLFrog7QA+qABVpAA/gC+FYyERlz/NC+qeIb
+        T85xt4GKckMV5Voju6A09ELLzXqfi38PTgLnJBORMfPZmMeectsSeB7SA19CPBAsxgW+EAQ+PLaQ
+        ZH8uXTj/S+UDwYTVOitxmAh6yqOjoR1CZwSdETR2Yadv2fPm6i2KB9IszQZzkgkVmvnLZcuP21Ve
+        O1rgs+tdAu1YOZxlKiHw8fA9iADPdvn5nxa/3epUBGOH39sqjETu2UJG4oUwDB2RcmRSHuevdtjp
+        WgZhxEBH4KDaDflobbNrlVoRh97demHpgfTth+5J5ZpNw5kjWQxw6mCa7aYlk4bPr7X54XqfkfGI
+        HNjAYpQ6cOH1x9fEw/cnP13M+Ik7bc3ZYxniMR9PQCElObmYptox7E97XK0MscbhHJgwxKrQMiZ+
+        v9Y9u3knHBUCn08ut6m2DQJHe6C5WOqQl4KbVcXR2QSxwENbS38wNEapLmNi4/0Hv/r3zxvHN0p1
+        YnGP1e/r4ODr9TbZlKBTU7xSnKG4lCUZQKMfYkJVvfT2c44xyVjKr6lpEUI3g3UOPIE1lu6O5aUT
+        cyRjPjhISUGttYtVYYUJuXxudRZ4p/jIvZx+eoHvSopmz/Ly8jyJwBFIkD7EfMimYLM8xChVZUJa
+        pU4Ap34tbdHalfRDh7aOUHsoE2FsROQchVyOV5/Zx3ZjiFWqxoS0Wh95/qlHk2+9+AR3sw60dSgD
+        OPj4UoVUAL3+EKt1gwlptd7arnf4cq1EfipJPpsgn46TS8fJpGLEY4K4FJxenicuodbsYbX+jwkZ
+        GfPNlfWNhSvrG/cBM8AMMA1MA7lELAgSiYBsOkk+m+KPv8o3gJ+Y+B9yFXCQeyJWrQAAAABJRU5E
+        rkJggg==
+
+        ------=_NextPart_000_0098_01CE7714.E3318E10
+        Content-Type: image/png
+        Content-Transfer-Encoding: base64
+        Content-Location: http://webstats-new-p.internal.epo.org/icon/mime/css.png
+
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAQAAAC1+jfqAAAABGdBTUEAAK/INwWK6QAAABl0RVh0
+        U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAEkSURBVCjPbdE9S0IBGIbhxxobWxP8D8r5
+        I60RLg0NNTS21VBRQwg1aA4VOAWBpBVCFhKUtkVJtPQx9GFFWh49x3P0bvAjjsWzXrzvcAtpREEZ
+        fQtoACEkpKBVdpouv7NYi3SJkAynWcXExKTCJ6+4PLPeIZJPhksdmzp1vilTwqVGlWhEgR6wsbGp
+        U+OLt94rGfJ1gIOLi4OFSYV3Sjx5QXdtkiHFx//gjiwlTshyT5LV3T8gwy3HFLnhkCuWmB3qA0Uu
+        2WGOZVIUmN/ru5CiwAsLNLCI8cg+i3hAggMeiNOgwQbXRJnwghoX5DkiTow0OcLJ8HAbtLpkkzwJ
+        CuTY4pQppgeFFLJNtxMrzSRFtlnhvDXO6Fk7ll8hb+wZxpChoPzoB6aiXIYcSLDWAAAAAElFTkSu
+        QmCC
+
+        ------=_NextPart_000_0098_01CE7714.E3318E10
+        Content-Type: image/png
+        Content-Transfer-Encoding: base64
+        Content-Location: http://webstats-new-p.internal.epo.org/icon/mime/php.png
+
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0
+        U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAGsSURBVDjLjZNLSwJRFICtFv2AgggS2vQL
+        DFvVpn0Pi4iItm1KItvWJqW1pYsRemyyNILARbZpm0WtrJ0kbmbUlHmr4+t0z60Z7oSSAx935txz
+        vrlPBwA4EPKMEVwE9z+ME/qtOkbgqtVqUqPRaDWbTegE6YdQKBRkJazAjcWapoGu6xayLIMoilAo
+        FKhEEAQIh8OWxCzuQwEmVKtVMAyDtoiqqiBJEhSLRSqoVCqAP+E47keCAvfU5sDQ8MRs/OYNtr1x
+        2PXdwuJShLLljcFlNAW5HA9khLYp0TUhSYMLHm7PLEDS7zyw3ybRqyfg+TyBtwl2sDP1nKWFiUSa
+        zFex3tk45sXjL1Aul20CGTs+syVY37igBbwg03eMsfH9gwSsrZ+Doig2QZsdNiZmMkVrKmwc18az
+        HKELyQrOMEHTDJp8HXu1hostG8dY8PiRngdWMEq467ZwbDxwlIR8XrQLcBvn5k9Gpmd8fn/gHlZW
+        T20C/D4k8eTDB3yVFKjX6xSbgD1If8G970Q3QbvbPehAyxL8SibJEdaxo5dikqvS28sInCjp4Tqb
+        4NV3fgPirZ4pD4KS4wAAAABJRU5ErkJggg==
+
+        ------=_NextPart_000_0098_01CE7714.E3318E10
+        Content-Type: image/png
+        Content-Transfer-Encoding: base64
+        Content-Location: http://webstats-new-p.internal.epo.org/icon/mime/image.png
+
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0
+        U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAHwSURBVDjLpZM9a1RBFIafM/fevfcmC7uQ
+        jWEjUZKAYBHEVEb/gIWFjVVSWEj6gI0/wt8gprPQykIsTP5BQLAIhBVBzRf52Gw22bk7c8YiZslu
+        gggZppuZ55z3nfdICIHrrBhg+ePaa1WZPyk0s+6KWwM1khiyhDcvns4uxQAaZOHJo4nRLMtEJPpn
+        xY6Cd10+fNl4DpwBTqymaZrJ8uoBHfZoyTqTYzvkSRMXlP2jnG8bFYbCXWJGePlsEq8iPQmFA2Mi
+        jEBhtpis7ZCWftC0LZx3xGnK1ESd741hqqUaqgMeAChgjGDDLqXkgMPTJtZ3KJzDhTZpmtK2OSO5
+        IRB6xvQDRAhOsb5Lx1lOu5ZCHV4B6RLUExvh4s+ZntHhDJAxSqs9TCDBqsc6j0iJdqtMuTROFBkI
+        cllCCGcSytFNfm1tU8k2GRo2pOI43h9ie6tOvTJFbORyDsJFQHKD8fw+P9dWqJZ/I96TdEa5Nb1A
+        OavjVfti0dfB+t4iXhWvyh27y9zEbRRobG7z6fgVeqSoKvB5oIMQEODx7FLvIJo55KS9R7b5ldrD
+        ReajpC+Z5z7GAHJFXn1exedVbG36ijwOmJgl0kS7lXtjD0DkLyqc70uPnSuIIwk9QCmWd+9XGnOF
+        DzP/M5xxBInhLYBcd5z/AAZv2pOvFcS/AAAAAElFTkSuQmCC
+
+        ------=_NextPart_000_0098_01CE7714.E3318E10
+        Content-Type: image/png
+        Content-Transfer-Encoding: base64
+        Content-Location: http://webstats-new-p.internal.epo.org/icon/other/he.png
+
+        iVBORw0KGgoAAAANSUhEUgAAAAEAAAAQBAMAAAAlsQiEAAAAL3RFWHRDcmVhdGlvbiBUaW1lAGpl
+        dS4gMTYgamFudi4gMjAwMyAxMzo0OTozOCArMDEwMMgh0cQAAAAHdElNRQfTARAMMTmlRczQAAAA
+        CXBIWXMAAArwAAAK8AFCrDSYAAAABGdBTUEAALGPC/xhBQAAAC1QTFRFq5TJvJTev57hx63r0MXx
+        2Nvx29vx1tXx0cnszsLoybvlxLTevKPYtZTSsZjS/hVZOAAAAChJREFUeNpjeMDAwHCB4QDDBoYF
+        DBMYGhgKGBIYAhgcGAwYFBgEGBgAh1AGkQSpuFAAAAAASUVORK5CYII=
+
+        ------=_NextPart_000_0098_01CE7714.E3318E10
+        Content-Type: image/png
+        Content-Transfer-Encoding: base64
+        Content-Location: http://webstats-new-p.internal.epo.org/icon/other/hx.png
+
+        iVBORw0KGgoAAAANSUhEUgAAAAEAAAAQBAMAAAAlsQiEAAAAL3RFWHRDcmVhdGlvbiBUaW1lAGpl
+        dS4gMTYgamFudi4gMjAwMyAxMzo0MjoxOCArMDEwMHLkLU4AAAAHdElNRQfTARAMMx9FfiuvAAAA
+        CXBIWXMAAArwAAAK8AFCrDSYAAAABGdBTUEAALGPC/xhBQAAAC1QTFRFlHi7q3jWr4XauJfmxLfu
+        zdLu0tLuy8ruxbvnwbLiu6nftKDWq4rOonjHnHzG8hHONAAAAChJREFUeNpjeMDAwHCB4QDDBoYF
+        DBMYGhgKGBIYAhgcGAwYFBgEGBgAh1AGkQSpuFAAAAAASUVORK5CYII=
+
+        ------=_NextPart_000_0098_01CE7714.E3318E10
+        Content-Type: image/png
+        Content-Transfer-Encoding: base64
+        Content-Location: http://webstats-new-p.internal.epo.org/icon/os/win.png
+
+        iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOBAMAAADtZjDiAAAAGnRFWHREZXNjcmlwdGlvbgBNYWRl
+        IHdpdGggR0lNUPVUMbMAAAAHdElNRQfQCg4PKSuXI/iLAAAACXBIWXMAAAsSAAALEgHS3X78AAAA
+        BGdBTUEAALGPC/xhBQAAADBQTFRF9//32qxaKTExWlJSEBAYUjkxtdbea8bvGFpjMRgQWhgIEIe5
+        d2853tbG4T8QY84xf/lkSQAAAAF0Uk5TAEDm2GYAAABuSURBVHjaY2AAAkFDEMlo4uLizCAobDRz
+        iYUKw2Vh43cv/7cwCN4zevcESDNeNAXyTRgE5UxfTVFyYbgoaKqicmYKg6iR6e4WwSMMaelGuzuB
+        NHs6hJ+ebtShMkuFgS3d2MVJxYVByMRUkIFBGACK5yIpc7WlhQAAAABJRU5ErkJggg==
+
+        ------=_NextPart_000_0098_01CE7714.E3318E10
+        Content-Type: image/png
+        Content-Transfer-Encoding: base64
+        Content-Location: http://webstats-new-p.internal.epo.org/icon/os/linux.png
+
+        iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOBAMAAADtZjDiAAAAGnRFWHREZXNjcmlwdGlvbgBNYWRl
+        IHdpdGggR0lNUPVUMbMAAAAHdElNRQfSAwIQHjCQNQncAAAACXBIWXMAAArwAAAK8AFCrDSYAAAA
+        BGdBTUEAALGPC/xhBQAAADBQTFRF////zsa9770YpXMQjIx7ta2UnJyUxpwYc2taCAgI7961////
+        7+/nKSkYvb21RUE9FQlMSQAAAAF0Uk5TAEDm2GYAAABgSURBVHjaY2BgYJmbwAACnDMngGn+L/Mg
+        tPpVMM1R+gNMO67JfACkGH/vXnkBJPxm95ZpQJp39+mt84H0i9O7jwJpLqWe3ccvMTAwKZXsFlda
+        AKRVMiYBaQYhk9DkAgYAywAeF0NihlEAAAAASUVORK5CYII=
+
+        ------=_NextPart_000_0098_01CE7714.E3318E10
+        Content-Type: image/png
+        Content-Transfer-Encoding: base64
+        Content-Location: http://webstats-new-p.internal.epo.org/icon/browser/firefox.png
+
+        iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOBAMAAADtZjDiAAAAL3RFWHRDcmVhdGlvbiBUaW1lAHZl
+        bi4gMjAgZul2ci4gMjAwNCAxOTo1MjowMiArMDEwMFN0HFMAAAAHdElNRQfUAhQSNiE6F5EEAAAA
+        CXBIWXMAAArwAAAK8AFCrDSYAAAABGdBTUEAALGPC/xhBQAAADBQTFRF+/v/8vDw1s7LmKO3cE5H
+        N0Ban5CGo0oi3FUO6Xse6pUzrH1K97lAB3Wx461mSJS/FhLbFQAAAAF0Uk5TAEDm2GYAAAB7SURB
+        VHjaAXAAj/8AAhET8zZiEAAWImY/9sphAB7u5jMzbOMALszrX//+ywBsqu7d39bKAGqpdd3d1MsA
+        SZl1tN3bywBImqmLXVvLACeZl0XVvsYAFImZdEnMQgADd4iZmathAAFkd4iHRhAAABNFVFRiAAAA
+        ASIzIhAANMkuPNGikBAAAAAASUVORK5CYII=
+
+        ------=_NextPart_000_0098_01CE7714.E3318E10
+        Content-Type: image/png
+        Content-Transfer-Encoding: base64
+        Content-Location: http://webstats-new-p.internal.epo.org/icon/browser/msie.png
+
+        iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOBAMAAADtZjDiAAAAB3RJTUUH0wMBATMpEHlO/wAAAAlw
+        SFlzAAAK8AAACvABQqw0mAAAAARnQU1BAACxjwv8YQUAAAAwUExURT1Wly5XwCld4UBt51iM63yW
+        15Cn3Hm197G9z8nW7bHL987b+Onx8ff3//f//////8NLOSgAAAAQdFJOU///////////////////
+        /wDgI10ZAAAAcUlEQVR42mP4DwJ3/zOAyKlZ84H0UmPX/WsZ/n8TcXGp3M/wvyHVxL1kP8NfjqQ1
+        6cvXM/xlUwpLKa9n+MOspOziUs/wVVBo5bS09QwfFIQ8g4z7gTSjkpLKfYavPgyCQj7/GX5LpaZl
+        3weaf2I+yCYA0gs2nxhyu9oAAAAASUVORK5CYII=
+
+        ------=_NextPart_000_0098_01CE7714.E3318E10
+        Content-Type: image/png
+        Content-Transfer-Encoding: base64
+        Content-Location: http://webstats-new-p.internal.epo.org/icon/browser/chrome.png
+
+        iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAALnRFWHRDcmVhdGlvbiBUaW1lAGRp
+        bS4gNyBzZXB0LiAyMDA4IDE0OjU1OjAxICswMTAwFx8inAAAAAd0SU1FB9gJBww5HLHhRrsAAAAJ
+        cEhZcwAACxIAAAsSAdLdfvwAAAAEZ0FNQQAAsY8L/GEFAAABelBMVEX/9//v7+/e3ufW3tbe1t6U
+        vaWEpYS1vYTOznvGvYy9taXOxs739/f3//9zrXtjnFrOzkL/3hj/1iHv1jnexlq9rYzGxsb3//fv
+        9+9rrWsYhCmMpVr/50L/3iH/1hDvxhDevUK9rXv39++t1q0YjCkQlBg5jEKcpXP351L/3jH/3hD/
+        1gjnxiHOvUrOxr3n7+darVohpSFCvVJ7tXuEhGv352v3zgjevSHOvZTe3t5CpUo5tUJ7vYQ5WlIp
+        UowhUnNrY1r33krnxhDOvXPW5/dCrUohtTFaxmNjhHMpc61CnO85nOdCa4TWvVrWxnO91vdrxmtz
+        1ntjjHs5jMZ7ve9rtfdKjKWlnHOce0KMSjHW1q3O3ve1562Mxoy9e3tja4RajM5Kc7WMc4TeMSnv
+        CBDvSkLn9/+l3qWUnHveMTnWSkq1Y1LGWlrnOULnAAjWCAj3vbW1nIzWOTnWAADWAAjGISHvnJT/
+        9+/3zr3nlIzehHPnjHvvrZz3596CUqAKAAAAAXRSTlMAQObYZgAAALpJREFUeNpjYIACcRiDobyi
+        sqq6ppYXwpMoLMovLskvLeMB89IzMrOyc3Lz8gtAGmLcY+PiExKTklNSJdIYeAKsA4OCQ0LDwiMi
+        o6IZ9F3d3D08vbx9fLV0/PwZLK0MrW1s7ewdHOWcnF0Y9A1UDY2MTRRNBc3MLSQYlJRVVNXUNTS1
+        tHV09ZQYxCUkpaRlZOXk5BUUmYAW8TLz8QsICgmLiIqB3cHAwsrGzsHJxc0DdTQjEzMLEyOIBQAG
+        rSJaz22tTAAAAABJRU5ErkJggg==
+
+        ------=_NextPart_000_0098_01CE7714.E3318E10
+        Content-Type: application/octet-stream
+        Content-Transfer-Encoding: quoted-printable
+        Content-Location: http://webstats-new-p.internal.epo.org/awstats/awstats.pl?month=05&year=2013&output=main&config=dataaccess-httpd&framename=mainright
+
+        =EF=BB=BF<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML lang=3Den><HEAD><TITLE>Statistics for =
+    dataaccess-p.internal.epo.org (2013-05) - main</TITLE>
+<META name=3DGENERATOR content=3D"MSHTML 8.00.6001.23501">
+<META name=3Drobots content=3Dnoindex,nofollow>
+<META content=3D"text/html; charset=3Dutf-8" http-equiv=3Dcontent-type>
+<META=20
+content=3D"Awstats - Advanced Web Statistics for =
+dataaccess-p.internal.epo.org (2013-05) - main"=20
+http-equiv=3Ddescription>
+<STYLE type=3Dtext/css>BODY {
+BACKGROUND-COLOR: #ffffff; MARGIN-TOP: 0px; FONT: 11px verdana, arial, =
+helvetica, sans-serif; MARGIN-BOTTOM: 0px
+}
+.aws_bodyl {
+=09
+}
+.aws_border {
+PADDING-BOTTOM: 1px; BACKGROUND-COLOR: #ccccdd; MARGIN-TOP: 0px; =
+PADDING-LEFT: 1px; PADDING-RIGHT: 1px; BORDER-COLLAPSE: collapse; =
+MARGIN-BOTTOM: 0px; PADDING-TOP: 1px
+}
+.aws_title {
+TEXT-ALIGN: center; PADDING-BOTTOM: 1px; BACKGROUND-COLOR: #ccccdd; =
+MARGIN-TOP: 0px; PADDING-LEFT: 1px; PADDING-RIGHT: 1px; FONT: bold 13px =
+verdana, arial, helvetica, sans-serif; MARGIN-BOTTOM: 0px; COLOR: =
+#000000; PADDING-TOP: 1px
+}
+.aws_blank {
+TEXT-ALIGN: center; PADDING-BOTTOM: 1px; BACKGROUND-COLOR: #ffffff; =
+PADDING-LEFT: 1px; PADDING-RIGHT: 1px; FONT: 13px verdana, arial, =
+helvetica, sans-serif; MARGIN-BOTTOM: 0px; PADDING-TOP: 1px
+}
+.aws_data {
+BORDER-RIGHT-WIDTH: 0px; BACKGROUND-COLOR: #ffffff; BORDER-TOP-WIDTH: =
+1px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px
+}
+.aws_formfield {
+FONT: 13px verdana, arial, helvetica
+}
+.aws_button {
+BACKGROUND-IMAGE: url(/icon/other/button.gif); BORDER-BOTTOM: #ccd7e0 =
+1px solid; BORDER-LEFT: #ccd7e0 1px solid; FONT-FAMILY: =
+arial,verdana,helvetica, sans-serif; FONT-SIZE: 12px; BORDER-TOP: =
+#ccd7e0 1px solid; BORDER-RIGHT: #ccd7e0 1px solid
+}
+TH {
+BORDER-BOTTOM-COLOR: #ececec; TEXT-ALIGN: center; PADDING-BOTTOM: 1px; =
+BORDER-RIGHT-WIDTH: 1px; BORDER-TOP-COLOR: #ececec; PADDING-LEFT: 1px; =
+PADDING-RIGHT: 2px; FONT: 11px verdana, arial, helvetica, sans-serif; =
+BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 1px; COLOR: #000000; =
+BORDER-RIGHT-COLOR: #ececec; BORDER-LEFT-COLOR: #ececec; =
+BORDER-LEFT-WIDTH: 0px; PADDING-TOP: 1px
+}
+TH.aws {
+BORDER-BOTTOM-COLOR: #ececec; PADDING-BOTTOM: 1px; BORDER-RIGHT-WIDTH: =
+1px; BORDER-TOP-COLOR: #ececec; PADDING-LEFT: 1px; PADDING-RIGHT: 2px; =
+BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 1px; BORDER-RIGHT-COLOR: =
+#ececec; FONT-SIZE: 13px; BORDER-LEFT-COLOR: #ececec; BORDER-LEFT-WIDTH: =
+0px; FONT-WEIGHT: bold; PADDING-TOP: 1px
+}
+TD {
+BORDER-BOTTOM-COLOR: #ececec; TEXT-ALIGN: center; BORDER-RIGHT-WIDTH: =
+1px; BORDER-TOP-COLOR: #ececec; FONT: 11px verdana, arial, helvetica, =
+sans-serif; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 1px; COLOR: =
+#000000; BORDER-RIGHT-COLOR: #ececec; BORDER-LEFT-COLOR: #ececec; =
+BORDER-LEFT-WIDTH: 0px
+}
+TD.aws {
+BORDER-BOTTOM-COLOR: #ececec; TEXT-ALIGN: left; PADDING-BOTTOM: 0px; =
+BORDER-RIGHT-WIDTH: 1px; BORDER-TOP-COLOR: #ececec; PADDING-LEFT: 0px; =
+PADDING-RIGHT: 0px; FONT: 11px verdana, arial, helvetica, sans-serif; =
+BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 1px; COLOR: #000000; =
+BORDER-RIGHT-COLOR: #ececec; BORDER-LEFT-COLOR: #ececec; =
+BORDER-LEFT-WIDTH: 0px; PADDING-TOP: 0px
+}
+TD.awsm {
+TEXT-ALIGN: left; PADDING-BOTTOM: 0px; BORDER-RIGHT-WIDTH: 0px; =
+PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT: 11px verdana, arial, =
+helvetica, sans-serif; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; =
+COLOR: #000000; BORDER-LEFT-WIDTH: 0px; PADDING-TOP: 0px
+}
+B {
+FONT-WEIGHT: bold
+}
+A {
+FONT: 11px verdana, arial, helvetica, sans-serif
+}
+A:link {
+COLOR: #0011bb; TEXT-DECORATION: none
+}
+A:visited {
+COLOR: #0011bb; TEXT-DECORATION: none
+}
+A:hover {
+COLOR: #605040; TEXT-DECORATION: underline
+}
+.currentday {
+FONT-WEIGHT: bold
+}
+DIV {
+TEXT-ALIGN: justify; FONT: 12px 'Arial','Verdana','Helvetica', =
+sans-serif
+}
+.CTooltip {
+Z-INDEX: 2; BORDER-BOTTOM: black 1px solid; POSITION: absolute; =
+BORDER-LEFT: black 1px solid; PADDING-BOTTOM: 8px; BACKGROUND-COLOR: =
+#ffffe6; PADDING-LEFT: 8px; WIDTH: 380px; PADDING-RIGHT: 8px; FONT: 8pt =
+'MS Comic Sans','Arial',sans-serif; VISIBILITY: hidden; BORDER-TOP: =
+black 1px solid; TOP: 0px; BORDER-RIGHT: black 1px solid; PADDING-TOP: =
+8px; LEFT: 0px
+}
+</STYLE>
+        </HEAD>
+<BODY style=3D"MARGIN-TOP: 0px"><A name=3Dtop></A>
+<DIV id=3Dtt1 class=3DCTooltip>A new visits is defined as each new =
+<B>incoming=20
+visitor</B> (viewing or browsing a page) who was not connected to your =
+        site=20
+        during last <B>60 mn</B>. </DIV>
+<DIV id=3Dtt2 class=3DCTooltip>Number of client hosts (<B>IP =
+address</B>) who came=20
+        to visit the site (and who viewed at least one <B>page</B>).<BR>This =
+data refers=20
+to the number of <B>different physical persons</B> who had reached the =
+site.=20
+</DIV>
+<DIV id=3Dtt3 class=3DCTooltip>Number of times a <B>page</B> of the site =
+        is=20
+<B>viewed</B> (Sum for all visitors for all visits).<BR>This piece of =
+data=20
+differs from "hits" in that it counts only HTML pages as oppose to =
+images and=20
+other files. </DIV>
+<DIV id=3Dtt4 class=3DCTooltip>Number of times a <B>page, image, =
+file</B> of the=20
+        site is <B>viewed</B> or <B>downloaded</B> by someone.<BR>This piece of =
+data is=20
+provided as a reference only, since the number of "pages" viewed is =
+often=20
+prefered for marketing purposes. </DIV>
+<DIV id=3Dtt5 class=3DCTooltip>This piece of information refers to the =
+        amount of=20
+        data downloaded by all <B>pages</B>, <B>images</B> and <B>files</B> =
+        within your=20
+        site.<BR>Units are in KB, MB or GB (KiloBytes, MegaBytes or GigaBytes) =
+</DIV>
+<DIV id=3Dtt13 class=3DCTooltip>Awstats recognizes each access to your =
+        site after a=20
+<B>search</B> from the <B>228 most popular Internet Search Engines and=20
+Directories</B> (such as Yahoo, Altavista, Lycos, Google, Voila, =
+        etc...). </DIV>
+<DIV id=3Dtt14 class=3DCTooltip>List of all <B>external pages</B> which =
+        were used to=20
+        link (and enter) to your site (Only the <B>10</B> most often used =
+        external pages=20
+        are shown). Links used by the results of the search engines are excluded =
+        here=20
+        because they have already been included on the previous line within this =
+        table.=20
+        </DIV>
+<DIV id=3Dtt15 class=3DCTooltip>This table shows the list of the most =
+        frequent=20
+<B>keyphrases or keywords</B> used to find your site from Internet =
+        Search=20
+        Engines and Directories. (Keywords from the <B>228</B> most popular =
+        Search=20
+        Engines and Directories are recognized by Awstats, such as Yahoo, =
+        Altavista,=20
+        Lycos, Google, Voila, etc...).<BR>Note that total number of searches for =
+
+keywords might be greater than total number of searches for keyphrases =
+(real=20
+number of searches) because when 2 keywords were used on same search, =
+search is=20
+counted twice for keywords (once for each word). </DIV>
+<DIV id=3Dtt16 class=3DCTooltip>Robots (sometimes refer to Spiders) are =
+<B>automatic=20
+computer visitors</B> used by many search engines that scan your web =
+        site to=20
+        index it and rank it, collect statistics on Internet Web sites and/or =
+        see if=20
+        your site is still online.<BR>Awstats is able to recognize up to =
+<B>643</B>=20
+robots. </DIV>
+<DIV id=3Dtt17 class=3DCTooltip>All time related statistics are based on =
+        server=20
+        time. </DIV>
+<DIV id=3Dtt18 class=3DCTooltip>Here, reported data are: <B>average =
+values</B>=20
+        (calculated from all data between the first and last visit in analyzed =
+        range).=20
+        </DIV>
+<DIV id=3Dtt19 class=3DCTooltip>Here, reported data are: <B>cumulative =
+sums</B>=20
+        (calculated from all data between the first and last visit in analyzed =
+        range).=20
+        </DIV>
+<DIV id=3Dtt20 class=3DCTooltip>Some <B>Visits durations</B> are =
+        'unknown' because=20
+        they can't always be calculated. This is the major reason for this:<BR>- =
+Visit=20
+was not finished when 'update' occured.<BR>- Visit started the last hour =
+    (after=20
+    23:00) of the last day of a month (A technical reason prevents Awstats =
+    from=20
+    calculating duration of such sessions) </DIV>
+<DIV id=3Dtt21 class=3DCTooltip>Worms are <B>automatic computer =
+    visitors</B> that=20
+are in fact external servers, infected by a virus, that try to make =
+particular=20
+hits on your server to infect it. In most cases, such worms exploit some =
+bugs of=20
+not up to date or commercial servers. If your system is not the =
+<B>sensitive=20
+    target</B> of the worm, you can simply ignore those hits.<BR>There is =
+    very few=20
+    'server worms' in the world but they are very active at some times. =
+    Awstats is=20
+    able to recognize <B>0</B> known worm's signatures (nimda,code red,...). =
+</DIV>
+<DIV id=3Dtt201 class=3DCTooltip>No description for this error.</DIV>
+<DIV id=3Dtt202 class=3DCTooltip>Request was understood by server but =
+        will be=20
+        processed later.</DIV>
+<DIV id=3Dtt204 class=3DCTooltip>Server has processed the request but =
+        there is no=20
+        document to send.</DIV>
+<DIV id=3Dtt206 class=3DCTooltip>Partial content.</DIV>
+<DIV id=3Dtt301 class=3DCTooltip>Requested document was moved and is now =
+        at another=20
+        address given in answer.</DIV>
+<DIV id=3Dtt302 class=3DCTooltip>No description for this error.</DIV>
+<DIV id=3Dtt400 class=3DCTooltip>Syntax error, server didn't understand=20
+        request.</DIV>
+<DIV id=3Dtt401 class=3DCTooltip>Tried to reach an <B>URL where a =
+login/password=20
+pair was required</B>.<BR>A high number within this item could mean that =
+someone=20
+(such as a hacker) is attempting to crack, or enter into your site =
+(hoping to=20
+enter a secured area by trying different login/password pairs, for=20
+instance).</DIV>
+<DIV id=3Dtt403 class=3DCTooltip>Tried to reach an <B>URL not configured =
+to be=20
+reachable, even with an login/password pair</B> (for example, an URL =
+        within a=20
+        directory not defined as "browsable".).</DIV>
+<DIV id=3Dtt404 class=3DCTooltip>Tried to reach a <B>non existing =
+URL</B>. This=20
+        error often means that there is an invalid link somewhere in your site =
+        or that a=20
+        visitor mistyped a certain URL.</DIV>
+<DIV id=3Dtt408 class=3DCTooltip>Server has taken <B>too much time</B> =
+        to respond to=20
+        a request. This error frequently involves either a slow CGI script which =
+        the=20
+        server was required to kill or an extremely congested web server.</DIV>
+<DIV id=3Dtt500 class=3DCTooltip>Internal error. This error is often =
+        caused by a CGI=20
+        program that had finished abnormally (coredump for example).</DIV>
+<DIV id=3Dtt501 class=3DCTooltip>Unknown requested action.</DIV>
+<DIV id=3Dtt502 class=3DCTooltip>Code returned by a HTTP server that =
+        works as a=20
+        proxy or gateway when a real, targeted server doesn't answer =
+        successfully to the=20
+        client's request.</DIV>
+<DIV id=3Dtt503 class=3DCTooltip>Internal server error.</DIV>
+<DIV id=3Dtt504 class=3DCTooltip>Gateway Time-out.</DIV>
+<DIV id=3Dtt505 class=3DCTooltip>HTTP Version Not Supported.</DIV>
+<SCRIPT type=3Dtext/javascript>=0A=
+        function ShowTip(fArg)=0A=
+        {=0A=
+        var tooltipOBJ =3D (document.getElementById) ? =
+        document.getElementById('tt' + fArg) : eval("document.all['tt" + fArg + =
+        "']");=0A=
+        if (tooltipOBJ !=3D null) {=0A=
+        var tooltipLft =3D =
+        (document.body.offsetWidth?document.body.offsetWidth:document.body.style.=
+        pixelWidth) - =
+        (tooltipOBJ.offsetWidth?tooltipOBJ.offsetWidth:(tooltipOBJ.style.pixelWid=
+        th?tooltipOBJ.style.pixelWidth:380)) - 30;=0A=
+        var tooltipTop =3D 10;=0A=
+        if (navigator.appName =3D=3D 'Netscape') {=0A=
+        tooltipTop =3D =
+        (document.body.scrollTop>=3D0?document.body.scrollTop+10:event.clientY+10=
+        );=0A=
+        tooltipOBJ.style.top =3D tooltipTop+"px";=0A=
+        tooltipOBJ.style.left =3D tooltipLft+"px";=0A=
+        }=0A=
+        else {=0A=
+        tooltipTop =3D =
+        (document.body.scrollTop>=3D0?document.body.scrollTop+10:event.clientY+10=
+        );=0A=
+        tooltipTop =3D =
+        (document.body.scrollTop>=3D0?document.body.scrollTop+10:event.clientY+10=
+        );=0A=
+        if ((event.clientX > tooltipLft) && (event.clientY < =
+        (tooltipOBJ.scrollHeight?tooltipOBJ.scrollHeight:tooltipOBJ.style.pixelHe=
+        ight) + 10)) {=0A=
+        tooltipTop =3D =
+        (document.body.scrollTop?document.body.scrollTop:document.body.offsetTop)=
+        + event.clientY + 20;=0A=
+        }=0A=
+        tooltipOBJ.style.left =3D tooltipLft;=0A=
+        tooltipOBJ.style.top =3D tooltipTop;=0A=
+        }=0A=
+        tooltipOBJ.style.visibility =3D "visible";=0A=
+        }=0A=
+        }=0A=
+        function HideTip(fArg)=0A=
+        {=0A=
+        var tooltipOBJ =3D (document.getElementById) ? =
+        document.getElementById('tt' + fArg) : eval("document.all['tt" + fArg + =
+        "']");=0A=
+        if (tooltipOBJ !=3D null) {=0A=
+        tooltipOBJ.style.visibility =3D "hidden";=0A=
+        }=0A=
+        }=0A=
+        </SCRIPT>
+<A name=3Dmenu>&nbsp;</A>=20
+<FORM=20
+        style=3D"PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; PADDING-LEFT: 0px; =
+        PADDING-RIGHT: 0px; PADDING-TOP: 0px"=20
+        name=3DFormDateFilter =
+        action=3Dawstats.pl?output=3Dmain&amp;config=3Ddataaccess-httpd=20
+        target=3D_parent>
+<TABLE class=3Daws_border border=3D0 cellSpacing=3D0 cellPadding=3D2 =
+        width=3D"100%">
+<TBODY>
+<TR>
+    <TD>
+        <TABLE class=3D"aws_data sortable" border=3D0 cellSpacing=3D0 =
+        cellPadding=3D1=20
+        width=3D"100%">
+        <TBODY>
+        <TR vAlign=3Dcenter>
+        <TD class=3Daws vAlign=3Dcenter width=3D150><B>Last =
+        Update:</B>&nbsp;</TD>
+    <TD class=3Daws vAlign=3Dcenter><SPAN style=3D"FONT-SIZE: =
+    12px">02 Jul=20
+    2013 - 11:04</SPAN></TD>
+<TD rowSpan=3D2 align=3Dright><A =
+        href=3D"http://awstats.sourceforge.net/"=20
+        target=3Dawstatshome><IMG title=3D"Awstats Web Site" =
+        border=3D0=20
+        alt=3D"Awstats Web Site"=20
+        =
+        src=3D"http://webstats-new-p.internal.epo.org/icon/other/awstats_logo6.pn=
+        g"></A>=20
+<BR></TD></TR>
+<TR>
+<TD class=3Daws vAlign=3Dcenter><B>Reported period:</B></TD>
+<TD class=3Daws vAlign=3Dcenter><SELECT class=3Daws_formfield =
+        name=3Dmonth>=20
+<OPTION value=3D01>Jan</OPTION> <OPTION =
+        value=3D02>Feb</OPTION>=20
+<OPTION value=3D03>Mar</OPTION> <OPTION =
+        value=3D04>Apr</OPTION>=20
+<OPTION selected value=3D05>May</OPTION> <OPTION=20
+        value=3D06>Jun</OPTION> <OPTION value=3D07>Jul</OPTION> =
+<OPTION=20
+        value=3D08>Aug</OPTION> <OPTION value=3D09>Sep</OPTION> =
+<OPTION=20
+        value=3D10>Oct</OPTION> <OPTION value=3D11>Nov</OPTION> =
+<OPTION=20
+        value=3D12>Dec</OPTION> <OPTION value=3Dall>- Year =
+        -</OPTION></SELECT>=20
+<SELECT class=3Daws_formfield name=3Dyear> <OPTION selected=20
+        value=3D2013>2013</OPTION></SELECT> <INPUT value=3Dmain =
+        type=3Dhidden=20
+        name=3Doutput> <INPUT value=3Ddataaccess-httpd type=3Dhidden =
+        name=3Dconfig>=20
+<INPUT value=3Dindex type=3Dhidden name=3Dframename> <INPUT =
+        class=3Daws_button value=3D" OK " =
+        type=3Dsubmit></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></FORM>=
+
+<TABLE class=3D"aws_border sortable" border=3D0 cellSpacing=3D0 =
+        cellPadding=3D2=20
+        width=3D"100%">
+<TBODY>
+<TR>
+    <TD class=3Daws_title width=3D"70%">Summary </TD>
+<TD class=3Daws_blank>&nbsp;</TD></TR>
+<TR>
+<TD colSpan=3D2>
+<TABLE class=3Daws_data border=3D1 cellSpacing=3D0 cellPadding=3D2 =
+width=3D"100%">
+<TBODY>
+    <TR bgColor=3D#ececec>
+    <TD class=3Daws><B>Reported period</B></TD>
+<TD class=3Daws colSpan=3D5>Month May 2013</TD></TR>
+<TR bgColor=3D#ececec>
+<TD class=3Daws><B>First visit</B></TD>
+<TD class=3Daws colSpan=3D5>NA</TD></TR>
+<TR bgColor=3D#ececec>
+<TD class=3Daws><B>Last visit</B></TD>
+<TD class=3Daws colSpan=3D5>31 May 2013 - 20:03</TD></TR>
+<TR>
+<TD bgColor=3D#ccccdd>&nbsp;</TD>
+<TD onmouseover=3DShowTip(2); onmouseout=3DHideTip(2); =
+        bgColor=3D#ffaa66=20
+        width=3D"17%">Unique visitors</TD>
+<TD onmouseover=3DShowTip(1); onmouseout=3DHideTip(1); =
+        bgColor=3D#f4f090=20
+        width=3D"17%">Number of visits</TD>
+<TD onmouseover=3DShowTip(3); onmouseout=3DHideTip(3); =
+        bgColor=3D#4477dd=20
+        width=3D"17%">Pages</TD>
+<TD onmouseover=3DShowTip(4); onmouseout=3DHideTip(4); =
+        bgColor=3D#66ddee=20
+        width=3D"17%">Hits</TD>
+<TD onmouseover=3DShowTip(5); onmouseout=3DHideTip(5); =
+        bgColor=3D#2ea495=20
+        width=3D"17%">Bandwidth</TD></TR>
+<TR>
+<TD class=3Daws>Viewed traffic&nbsp;*</TD>
+<TD><B>1,024</B><BR>&nbsp;</TD>
+<TD><B>2,915</B><BR>(2.84&nbsp;visits/visitor)</TD>
+<TD><B>29,741</B><BR>(10.2&nbsp;Pages/Visit)</TD>
+<TD><B>29,773</B><BR>(10.21&nbsp;Hits/Visit)</TD>
+<TD><B>728.86 MB</B><BR>(256.03&nbsp;KB/Visit)</TD></TR>
+<TR>
+<TD class=3Daws>Not viewed traffic&nbsp;*</TD>
+<TD colSpan=3D2>&nbsp;<BR>&nbsp;</TD>
+<TD><B>92,529</B></TD>
+<TD><B>92,594</B></TD>
+<TD><B>1.08 =
+    GB</B></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE><SPAN=20
+        style=3D"FONT: 11px verdana, arial, helvetica">* Not viewed traffic =
+        includes=20
+        traffic generated by robots, worms, or replies with special HTTP status=20
+        codes.</SPAN><BR><BR><A name=3Dmonth>&nbsp;</A><BR>
+    <TABLE class=3D"aws_border sortable" border=3D0 cellSpacing=3D0 =
+    cellPadding=3D2=20
+    width=3D"100%">
+    <TBODY>
+        <TR>
+            <TD class=3Daws_title width=3D"70%">Monthly history </TD>
+        <TD class=3Daws_blank>&nbsp;</TD></TR>
+<TR>
+    <TD colSpan=3D2>
+    <TABLE class=3Daws_data border=3D1 cellSpacing=3D0 cellPadding=3D2 =
+    width=3D"100%">
+    <TBODY>
+    <TR>
+        <TD align=3Dmiddle>
+        <CENTER>
+        <TABLE>
+        <TBODY>
+        <TR vAlign=3Dbottom>
+        <TD>&nbsp;</TD>
+        <TD><IMG title=3D"Unique visitors: 0" alt=3D"Unique =
+            visitors: 0"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vu.png"=20
+            width=3D6 height=3D1><IMG title=3D"Number of visits: =
+            0"=20
+            alt=3D"Number of visits: 0" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vv.png"=20
+            width=3D6 height=3D1><IMG title=3D"Pages: 0" =
+            alt=3D"Pages: 0"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vp.png"=20
+            width=3D6 height=3D1><IMG title=3D"Hits: 0" =
+            alt=3D"Hits: 0"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vh.png"=20
+            width=3D6 height=3D1><IMG title=3D"Bandwidth: 0" =
+            alt=3D"Bandwidth: 0"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vk.png"=20
+            width=3D6 height=3D1></TD>
+        <TD><IMG title=3D"Unique visitors: 296"=20
+            alt=3D"Unique visitors: 296" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vu.png"=20
+            width=3D6 height=3D9><IMG title=3D"Number of visits: =
+            483"=20
+            alt=3D"Number of visits: 483" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vv.png"=20
+            width=3D6 height=3D14><IMG title=3D"Pages: 2384" =
+            alt=3D"Pages: 2384"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vp.png"=20
+            width=3D6 height=3D7><IMG title=3D"Hits: 2395" =
+            alt=3D"Hits: 2395"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vh.png"=20
+            width=3D6 height=3D7><IMG title=3D"Bandwidth: 160.34 =
+            MB"=20
+            alt=3D"Bandwidth: 160.34 MB" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vk.png"=20
+            width=3D6 height=3D16></TD>
+        <TD><IMG title=3D"Unique visitors: 913"=20
+            alt=3D"Unique visitors: 913" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vu.png"=20
+            width=3D6 height=3D25><IMG title=3D"Number of visits: =
+            3050"=20
+            alt=3D"Number of visits: 3050" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vv.png"=20
+            width=3D6 height=3D84><IMG title=3D"Pages: 28883" =
+            alt=3D"Pages: 28883"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vp.png"=20
+            width=3D6 height=3D74><IMG title=3D"Hits: 28907" =
+            alt=3D"Hits: 28907"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vh.png"=20
+            width=3D6 height=3D74><IMG title=3D"Bandwidth: 721.21 =
+            MB"=20
+            alt=3D"Bandwidth: 721.21 MB" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vk.png"=20
+            width=3D6 height=3D70></TD>
+        <TD><IMG title=3D"Unique visitors: 951"=20
+            alt=3D"Unique visitors: 951" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vu.png"=20
+            width=3D6 height=3D26><IMG title=3D"Number of visits: =
+            3301"=20
+            alt=3D"Number of visits: 3301" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vv.png"=20
+            width=3D6 height=3D91><IMG title=3D"Pages: 30778" =
+            alt=3D"Pages: 30778"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vp.png"=20
+            width=3D6 height=3D79><IMG title=3D"Hits: 30794" =
+            alt=3D"Hits: 30794"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vh.png"=20
+            width=3D6 height=3D79><IMG title=3D"Bandwidth: 725.64 =
+            MB"=20
+            alt=3D"Bandwidth: 725.64 MB" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vk.png"=20
+            width=3D6 height=3D71></TD>
+        <TD><IMG title=3D"Unique visitors: 1024"=20
+            alt=3D"Unique visitors: 1024" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vu.png"=20
+            width=3D6 height=3D28><IMG title=3D"Number of visits: =
+            2915"=20
+            alt=3D"Number of visits: 2915" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vv.png"=20
+            width=3D6 height=3D80><IMG title=3D"Pages: 29741" =
+            alt=3D"Pages: 29741"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vp.png"=20
+            width=3D6 height=3D76><IMG title=3D"Hits: 29773" =
+            alt=3D"Hits: 29773"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vh.png"=20
+            width=3D6 height=3D76><IMG title=3D"Bandwidth: 728.86 =
+            MB"=20
+            alt=3D"Bandwidth: 728.86 MB" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vk.png"=20
+            width=3D6 height=3D71></TD>
+        <TD><IMG title=3D"Unique visitors: 1107"=20
+            alt=3D"Unique visitors: 1107" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vu.png"=20
+            width=3D6 height=3D31><IMG title=3D"Number of visits: =
+            2751"=20
+            alt=3D"Number of visits: 2751" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vv.png"=20
+            width=3D6 height=3D76><IMG title=3D"Pages: 35297" =
+            alt=3D"Pages: 35297"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vp.png"=20
+            width=3D6 height=3D90><IMG title=3D"Hits: 35321" =
+            alt=3D"Hits: 35321"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vh.png"=20
+            width=3D6 height=3D91><IMG title=3D"Bandwidth: 932.63 =
+            MB"=20
+            alt=3D"Bandwidth: 932.63 MB" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vk.png"=20
+            width=3D6 height=3D91></TD>
+        <TD><IMG title=3D"Unique visitors: 152"=20
+            alt=3D"Unique visitors: 152" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vu.png"=20
+            width=3D6 height=3D5><IMG title=3D"Number of visits: =
+            202"=20
+            alt=3D"Number of visits: 202" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vv.png"=20
+            width=3D6 height=3D6><IMG title=3D"Pages: 2081" =
+            alt=3D"Pages: 2081"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vp.png"=20
+            width=3D6 height=3D6><IMG title=3D"Hits: 2105" =
+            alt=3D"Hits: 2105"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vh.png"=20
+            width=3D6 height=3D6><IMG title=3D"Bandwidth: 63.76 =
+            MB"=20
+            alt=3D"Bandwidth: 63.76 MB" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vk.png"=20
+            width=3D6 height=3D7></TD>
+        <TD><IMG title=3D"Unique visitors: 0" alt=3D"Unique =
+            visitors: 0"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vu.png"=20
+            width=3D6 height=3D1><IMG title=3D"Number of visits: =
+            0"=20
+            alt=3D"Number of visits: 0" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vv.png"=20
+            width=3D6 height=3D1><IMG title=3D"Pages: 0" =
+            alt=3D"Pages: 0"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vp.png"=20
+            width=3D6 height=3D1><IMG title=3D"Hits: 0" =
+            alt=3D"Hits: 0"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vh.png"=20
+            width=3D6 height=3D1><IMG title=3D"Bandwidth: 0" =
+            alt=3D"Bandwidth: 0"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vk.png"=20
+            width=3D6 height=3D1></TD>
+        <TD><IMG title=3D"Unique visitors: 0" alt=3D"Unique =
+            visitors: 0"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vu.png"=20
+            width=3D6 height=3D1><IMG title=3D"Number of visits: =
+            0"=20
+            alt=3D"Number of visits: 0" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vv.png"=20
+            width=3D6 height=3D1><IMG title=3D"Pages: 0" =
+            alt=3D"Pages: 0"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vp.png"=20
+            width=3D6 height=3D1><IMG title=3D"Hits: 0" =
+            alt=3D"Hits: 0"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vh.png"=20
+            width=3D6 height=3D1><IMG title=3D"Bandwidth: 0" =
+            alt=3D"Bandwidth: 0"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vk.png"=20
+            width=3D6 height=3D1></TD>
+        <TD><IMG title=3D"Unique visitors: 0" alt=3D"Unique =
+            visitors: 0"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vu.png"=20
+            width=3D6 height=3D1><IMG title=3D"Number of visits: =
+            0"=20
+            alt=3D"Number of visits: 0" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vv.png"=20
+            width=3D6 height=3D1><IMG title=3D"Pages: 0" =
+            alt=3D"Pages: 0"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vp.png"=20
+            width=3D6 height=3D1><IMG title=3D"Hits: 0" =
+            alt=3D"Hits: 0"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vh.png"=20
+            width=3D6 height=3D1><IMG title=3D"Bandwidth: 0" =
+            alt=3D"Bandwidth: 0"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vk.png"=20
+            width=3D6 height=3D1></TD>
+        <TD><IMG title=3D"Unique visitors: 0" alt=3D"Unique =
+            visitors: 0"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vu.png"=20
+            width=3D6 height=3D1><IMG title=3D"Number of visits: =
+            0"=20
+            alt=3D"Number of visits: 0" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vv.png"=20
+            width=3D6 height=3D1><IMG title=3D"Pages: 0" =
+            alt=3D"Pages: 0"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vp.png"=20
+            width=3D6 height=3D1><IMG title=3D"Hits: 0" =
+            alt=3D"Hits: 0"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vh.png"=20
+            width=3D6 height=3D1><IMG title=3D"Bandwidth: 0" =
+            alt=3D"Bandwidth: 0"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vk.png"=20
+            width=3D6 height=3D1></TD>
+        <TD><IMG title=3D"Unique visitors: 0" alt=3D"Unique =
+            visitors: 0"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vu.png"=20
+            width=3D6 height=3D1><IMG title=3D"Number of visits: =
+            0"=20
+            alt=3D"Number of visits: 0" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vv.png"=20
+            width=3D6 height=3D1><IMG title=3D"Pages: 0" =
+            alt=3D"Pages: 0"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vp.png"=20
+            width=3D6 height=3D1><IMG title=3D"Hits: 0" =
+            alt=3D"Hits: 0"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vh.png"=20
+            width=3D6 height=3D1><IMG title=3D"Bandwidth: 0" =
+            alt=3D"Bandwidth: 0"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vk.png"=20
+            width=3D6 height=3D1></TD>
+        <TD>&nbsp;</TD></TR>
+    <TR vAlign=3Dcenter>
+    <TD>&nbsp;</TD>
+    <TD>Jan<BR>2013</TD>
+    <TD>Feb<BR>2013</TD>
+    <TD>Mar<BR>2013</TD>
+    <TD>Apr<BR>2013</TD>
+    <TD>May<BR>2013</TD>
+    <TD>Jun<BR>2013</TD>
+    <TD><FONT class=3Dcurrentday>Jul<BR>2013</FONT></TD>
+    <TD>Aug<BR>2013</TD>
+    <TD>Sep<BR>2013</TD>
+    <TD>Oct<BR>2013</TD>
+    <TD>Nov<BR>2013</TD>
+    <TD>Dec<BR>2013</TD>
+    <TD>&nbsp;</TD></TR></TBODY></TABLE><BR>
+<TABLE>
+    <TBODY>
+        <TR>
+            <TD bgColor=3D#ececec width=3D80>Month</TD>
+        <TD onmouseover=3DShowTip(2); onmouseout=3DHideTip(2);=20
+        bgColor=3D#ffaa66 width=3D80>Unique visitors</TD>
+    <TD onmouseover=3DShowTip(1); onmouseout=3DHideTip(1);=20
+    bgColor=3D#f4f090 width=3D80>Number of visits</TD>
+<TD onmouseover=3DShowTip(3); onmouseout=3DHideTip(3);=20
+bgColor=3D#4477dd width=3D80>Pages</TD>
+<TD onmouseover=3DShowTip(4); onmouseout=3DHideTip(4);=20
+        bgColor=3D#66ddee width=3D80>Hits</TD>
+<TD onmouseover=3DShowTip(5); onmouseout=3DHideTip(5);=20
+        bgColor=3D#2ea495 width=3D80>Bandwidth</TD></TR>
+<TR>
+<TD>Jan 2013</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD></TR>
+<TR>
+<TD>Feb 2013</TD>
+<TD>296</TD>
+<TD>483</TD>
+<TD>2,384</TD>
+<TD>2,395</TD>
+<TD>160.34 MB</TD></TR>
+<TR>
+<TD>Mar 2013</TD>
+<TD>913</TD>
+<TD>3,050</TD>
+<TD>28,883</TD>
+<TD>28,907</TD>
+<TD>721.21 MB</TD></TR>
+<TR>
+<TD>Apr 2013</TD>
+<TD>951</TD>
+<TD>3,301</TD>
+<TD>30,778</TD>
+<TD>30,794</TD>
+<TD>725.64 MB</TD></TR>
+<TR>
+<TD>May 2013</TD>
+<TD>1,024</TD>
+<TD>2,915</TD>
+<TD>29,741</TD>
+<TD>29,773</TD>
+<TD>728.86 MB</TD></TR>
+<TR>
+<TD>Jun 2013</TD>
+<TD>1,107</TD>
+<TD>2,751</TD>
+<TD>35,297</TD>
+<TD>35,321</TD>
+<TD>932.63 MB</TD></TR>
+<TR>
+<TD><FONT class=3Dcurrentday>Jul 2013</FONT></TD>
+<TD>152</TD>
+<TD>202</TD>
+<TD>2,081</TD>
+<TD>2,105</TD>
+<TD>63.76 MB</TD></TR>
+<TR>
+<TD>Aug 2013</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD></TR>
+<TR>
+<TD>Sep 2013</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD></TR>
+<TR>
+<TD>Oct 2013</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD></TR>
+<TR>
+<TD>Nov 2013</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD></TR>
+<TR>
+<TD>Dec 2013</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD></TR>
+<TR>
+<TD bgColor=3D#ececec>Total</TD>
+<TD bgColor=3D#ececec>4,443</TD>
+<TD bgColor=3D#ececec>12,702</TD>
+<TD bgColor=3D#ececec>129,164</TD>
+<TD bgColor=3D#ececec>129,295</TD>
+<TD bgColor=3D#ececec>3.25=20
+        =
+        GB</TD></TR></TBODY></TABLE><BR></CENTER></TD></TR></TBODY></TABLE></TD><=
+        /TR></TBODY></TABLE><BR><A=20
+name=3Dwhen>&nbsp;</A> <A name=3Ddaysofmonth>&nbsp;</A><BR>
+<TABLE class=3D"aws_border sortable" border=3D0 cellSpacing=3D0 =
+cellPadding=3D2=20
+width=3D"100%">
+<TBODY>
+    <TR>
+        <TD class=3Daws_title width=3D"70%">Days of month </TD>
+    <TD class=3Daws_blank>&nbsp;</TD></TR>
+<TR>
+<TD colSpan=3D2>
+<TABLE class=3Daws_data border=3D1 cellSpacing=3D0 cellPadding=3D2 =
+width=3D"100%">
+<TBODY>
+    <TR>
+        <TD align=3Dmiddle>
+        <CENTER>
+        <TABLE>
+        <TBODY>
+        <TR vAlign=3Dbottom>
+        <TD><IMG title=3D"Number of visits: 6" alt=3D"Number of =
+            visits: 6"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vv.png"=20
+            width=3D4 height=3D3><IMG title=3D"Pages: 36" =
+            alt=3D"Pages: 36"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vp.png"=20
+            width=3D4 height=3D2><IMG title=3D"Hits: 36" =
+            alt=3D"Hits: 36"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vh.png"=20
+            width=3D4 height=3D2><IMG title=3D"Bandwidth: 4.18 MB" =
+
+            alt=3D"Bandwidth: 4.18 MB" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vk.png"=20
+            width=3D4 height=3D8></TD>
+        <TD><IMG title=3D"Number of visits: 132"=20
+            alt=3D"Number of visits: 132" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vv.png"=20
+            width=3D4 height=3D62><IMG title=3D"Pages: 1030" =
+            alt=3D"Pages: 1030"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vp.png"=20
+            width=3D4 height=3D31><IMG title=3D"Hits: 1030" =
+            alt=3D"Hits: 1030"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vh.png"=20
+            width=3D4 height=3D31><IMG title=3D"Bandwidth: 33.15 =
+            MB"=20
+            alt=3D"Bandwidth: 33.15 MB" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vk.png"=20
+            width=3D4 height=3D64></TD>
+        <TD><IMG title=3D"Number of visits: 152"=20
+            alt=3D"Number of visits: 152" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vv.png"=20
+            width=3D4 height=3D71><IMG title=3D"Pages: 1344" =
+            alt=3D"Pages: 1344"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vp.png"=20
+            width=3D4 height=3D40><IMG title=3D"Hits: 1344" =
+            alt=3D"Hits: 1344"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vh.png"=20
+            width=3D4 height=3D40><IMG title=3D"Bandwidth: 33.42 =
+            MB"=20
+            alt=3D"Bandwidth: 33.42 MB" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vk.png"=20
+            width=3D4 height=3D64></TD>
+        <TD><IMG title=3D"Number of visits: 0" alt=3D"Number of =
+            visits: 0"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vv.png"=20
+            width=3D4 height=3D1><IMG title=3D"Pages: 0" =
+            alt=3D"Pages: 0"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vp.png"=20
+            width=3D4 height=3D1><IMG title=3D"Hits: 0" =
+            alt=3D"Hits: 0"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vh.png"=20
+            width=3D4 height=3D1><IMG title=3D"Bandwidth: 0" =
+            alt=3D"Bandwidth: 0"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vk.png"=20
+            width=3D4 height=3D1></TD>
+        <TD><IMG title=3D"Number of visits: 0" alt=3D"Number of =
+            visits: 0"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vv.png"=20
+            width=3D4 height=3D1><IMG title=3D"Pages: 0" =
+            alt=3D"Pages: 0"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vp.png"=20
+            width=3D4 height=3D1><IMG title=3D"Hits: 0" =
+            alt=3D"Hits: 0"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vh.png"=20
+            width=3D4 height=3D1><IMG title=3D"Bandwidth: 0" =
+            alt=3D"Bandwidth: 0"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vk.png"=20
+            width=3D4 height=3D1></TD>
+        <TD><IMG title=3D"Number of visits: 121"=20
+            alt=3D"Number of visits: 121" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vv.png"=20
+            width=3D4 height=3D57><IMG title=3D"Pages: 742" =
+            alt=3D"Pages: 742"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vp.png"=20
+            width=3D4 height=3D22><IMG title=3D"Hits: 750" =
+            alt=3D"Hits: 750"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vh.png"=20
+            width=3D4 height=3D23><IMG title=3D"Bandwidth: 29.53 =
+            MB"=20
+            alt=3D"Bandwidth: 29.53 MB" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vk.png"=20
+            width=3D4 height=3D57></TD>
+        <TD><IMG title=3D"Number of visits: 168"=20
+            alt=3D"Number of visits: 168" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vv.png"=20
+            width=3D4 height=3D78><IMG title=3D"Pages: 922" =
+            alt=3D"Pages: 922"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vp.png"=20
+            width=3D4 height=3D28><IMG title=3D"Hits: 922" =
+            alt=3D"Hits: 922"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vh.png"=20
+            width=3D4 height=3D28><IMG title=3D"Bandwidth: 44.77 =
+            MB"=20
+            alt=3D"Bandwidth: 44.77 MB" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vk.png"=20
+            width=3D4 height=3D86></TD>
+        <TD><IMG title=3D"Number of visits: 157"=20
+            alt=3D"Number of visits: 157" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vv.png"=20
+            width=3D4 height=3D73><IMG title=3D"Pages: 1240" =
+            alt=3D"Pages: 1240"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vp.png"=20
+            width=3D4 height=3D37><IMG title=3D"Hits: 1240" =
+            alt=3D"Hits: 1240"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vh.png"=20
+            width=3D4 height=3D37><IMG title=3D"Bandwidth: 29.54 =
+            MB"=20
+            alt=3D"Bandwidth: 29.54 MB" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vk.png"=20
+            width=3D4 height=3D57></TD>
+        <TD><IMG title=3D"Number of visits: 6" alt=3D"Number of =
+            visits: 6"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vv.png"=20
+            width=3D4 height=3D3><IMG title=3D"Pages: 142" =
+            alt=3D"Pages: 142"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vp.png"=20
+            width=3D4 height=3D5><IMG title=3D"Hits: 142" =
+            alt=3D"Hits: 142"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vh.png"=20
+            width=3D4 height=3D5><IMG title=3D"Bandwidth: 1.37 MB" =
+
+            alt=3D"Bandwidth: 1.37 MB" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vk.png"=20
+            width=3D4 height=3D3></TD>
+        <TD><IMG title=3D"Number of visits: 108"=20
+            alt=3D"Number of visits: 108" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vv.png"=20
+            width=3D4 height=3D51><IMG title=3D"Pages: 3054" =
+            alt=3D"Pages: 3054"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vp.png"=20
+            width=3D4 height=3D91><IMG title=3D"Hits: 3054" =
+            alt=3D"Hits: 3054"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vh.png"=20
+            width=3D4 height=3D91><IMG title=3D"Bandwidth: 17.77 =
+            MB"=20
+            alt=3D"Bandwidth: 17.77 MB" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vk.png"=20
+            width=3D4 height=3D34></TD>
+        <TD><IMG title=3D"Number of visits: 0" alt=3D"Number of =
+            visits: 0"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vv.png"=20
+            width=3D4 height=3D1><IMG title=3D"Pages: 0" =
+            alt=3D"Pages: 0"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vp.png"=20
+            width=3D4 height=3D1><IMG title=3D"Hits: 0" =
+            alt=3D"Hits: 0"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vh.png"=20
+            width=3D4 height=3D1><IMG title=3D"Bandwidth: 0" =
+            alt=3D"Bandwidth: 0"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vk.png"=20
+            width=3D4 height=3D1></TD>
+        <TD><IMG title=3D"Number of visits: 0" alt=3D"Number of =
+            visits: 0"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vv.png"=20
+            width=3D4 height=3D1><IMG title=3D"Pages: 0" =
+            alt=3D"Pages: 0"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vp.png"=20
+            width=3D4 height=3D1><IMG title=3D"Hits: 0" =
+            alt=3D"Hits: 0"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vh.png"=20
+            width=3D4 height=3D1><IMG title=3D"Bandwidth: 0" =
+            alt=3D"Bandwidth: 0"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vk.png"=20
+            width=3D4 height=3D1></TD>
+        <TD><IMG title=3D"Number of visits: 194"=20
+            alt=3D"Number of visits: 194" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vv.png"=20
+            width=3D4 height=3D91><IMG title=3D"Pages: 2239" =
+            alt=3D"Pages: 2239"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vp.png"=20
+            width=3D4 height=3D66><IMG title=3D"Hits: 2247" =
+            alt=3D"Hits: 2247"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vh.png"=20
+            width=3D4 height=3D67><IMG title=3D"Bandwidth: 40.75 =
+            MB"=20
+            alt=3D"Bandwidth: 40.75 MB" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vk.png"=20
+            width=3D4 height=3D78></TD>
+        <TD><IMG title=3D"Number of visits: 171"=20
+            alt=3D"Number of visits: 171" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vv.png"=20
+            width=3D4 height=3D80><IMG title=3D"Pages: 1351" =
+            alt=3D"Pages: 1351"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vp.png"=20
+            width=3D4 height=3D40><IMG title=3D"Hits: 1351" =
+            alt=3D"Hits: 1351"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vh.png"=20
+            width=3D4 height=3D40><IMG title=3D"Bandwidth: 45.88 =
+            MB"=20
+            alt=3D"Bandwidth: 45.88 MB" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vk.png"=20
+            width=3D4 height=3D88></TD>
+        <TD><IMG title=3D"Number of visits: 169"=20
+            alt=3D"Number of visits: 169" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vv.png"=20
+            width=3D4 height=3D79><IMG title=3D"Pages: 1494" =
+            alt=3D"Pages: 1494"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vp.png"=20
+            width=3D4 height=3D45><IMG title=3D"Hits: 1494" =
+            alt=3D"Hits: 1494"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vh.png"=20
+            width=3D4 height=3D45><IMG title=3D"Bandwidth: 42.77 =
+            MB"=20
+            alt=3D"Bandwidth: 42.77 MB" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vk.png"=20
+            width=3D4 height=3D82></TD>
+        <TD><IMG title=3D"Number of visits: 189"=20
+            alt=3D"Number of visits: 189" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vv.png"=20
+            width=3D4 height=3D88><IMG title=3D"Pages: 1973" =
+            alt=3D"Pages: 1973"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vp.png"=20
+            width=3D4 height=3D59><IMG title=3D"Hits: 1973" =
+            alt=3D"Hits: 1973"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vh.png"=20
+            width=3D4 height=3D59><IMG title=3D"Bandwidth: 41.80 =
+            MB"=20
+            alt=3D"Bandwidth: 41.80 MB" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vk.png"=20
+            width=3D4 height=3D80></TD>
+        <TD><IMG title=3D"Number of visits: 119"=20
+            alt=3D"Number of visits: 119" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vv.png"=20
+            width=3D4 height=3D56><IMG title=3D"Pages: 1439" =
+            alt=3D"Pages: 1439"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vp.png"=20
+            width=3D4 height=3D43><IMG title=3D"Hits: 1439" =
+            alt=3D"Hits: 1439"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vh.png"=20
+            width=3D4 height=3D43><IMG title=3D"Bandwidth: 31.34 =
+            MB"=20
+            alt=3D"Bandwidth: 31.34 MB" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vk.png"=20
+            width=3D4 height=3D60></TD>
+        <TD><IMG title=3D"Number of visits: 0" alt=3D"Number of =
+            visits: 0"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vv.png"=20
+            width=3D4 height=3D1><IMG title=3D"Pages: 0" =
+            alt=3D"Pages: 0"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vp.png"=20
+            width=3D4 height=3D1><IMG title=3D"Hits: 0" =
+            alt=3D"Hits: 0"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vh.png"=20
+            width=3D4 height=3D1><IMG title=3D"Bandwidth: 0" =
+            alt=3D"Bandwidth: 0"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vk.png"=20
+            width=3D4 height=3D1></TD>
+        <TD><IMG title=3D"Number of visits: 0" alt=3D"Number of =
+            visits: 0"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vv.png"=20
+            width=3D4 height=3D1><IMG title=3D"Pages: 0" =
+            alt=3D"Pages: 0"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vp.png"=20
+            width=3D4 height=3D1><IMG title=3D"Hits: 0" =
+            alt=3D"Hits: 0"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vh.png"=20
+            width=3D4 height=3D1><IMG title=3D"Bandwidth: 0" =
+            alt=3D"Bandwidth: 0"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vk.png"=20
+            width=3D4 height=3D1></TD>
+        <TD><IMG title=3D"Number of visits: 0" alt=3D"Number of =
+            visits: 0"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vv.png"=20
+            width=3D4 height=3D1><IMG title=3D"Pages: 0" =
+            alt=3D"Pages: 0"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vp.png"=20
+            width=3D4 height=3D1><IMG title=3D"Hits: 0" =
+            alt=3D"Hits: 0"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vh.png"=20
+            width=3D4 height=3D1><IMG title=3D"Bandwidth: 0" =
+            alt=3D"Bandwidth: 0"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vk.png"=20
+            width=3D4 height=3D1></TD>
+        <TD><IMG title=3D"Number of visits: 151"=20
+            alt=3D"Number of visits: 151" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vv.png"=20
+            width=3D4 height=3D71><IMG title=3D"Pages: 1507" =
+            alt=3D"Pages: 1507"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vp.png"=20
+            width=3D4 height=3D45><IMG title=3D"Hits: 1515" =
+            alt=3D"Hits: 1515"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vh.png"=20
+            width=3D4 height=3D45><IMG title=3D"Bandwidth: 28.42 =
+            MB"=20
+            alt=3D"Bandwidth: 28.42 MB" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vk.png"=20
+            width=3D4 height=3D55></TD>
+        <TD><IMG title=3D"Number of visits: 184"=20
+            alt=3D"Number of visits: 184" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vv.png"=20
+            width=3D4 height=3D86><IMG title=3D"Pages: 1399" =
+            alt=3D"Pages: 1399"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vp.png"=20
+            width=3D4 height=3D42><IMG title=3D"Hits: 1399" =
+            alt=3D"Hits: 1399"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vh.png"=20
+            width=3D4 height=3D42><IMG title=3D"Bandwidth: 47.14 =
+            MB"=20
+            alt=3D"Bandwidth: 47.14 MB" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vk.png"=20
+            width=3D4 height=3D91></TD>
+        <TD><IMG title=3D"Number of visits: 158"=20
+            alt=3D"Number of visits: 158" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vv.png"=20
+            width=3D4 height=3D74><IMG title=3D"Pages: 2010" =
+            alt=3D"Pages: 2010"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vp.png"=20
+            width=3D4 height=3D60><IMG title=3D"Hits: 2018" =
+            alt=3D"Hits: 2018"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vh.png"=20
+            width=3D4 height=3D60><IMG title=3D"Bandwidth: 44.12 =
+            MB"=20
+            alt=3D"Bandwidth: 44.12 MB" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vk.png"=20
+            width=3D4 height=3D85></TD>
+        <TD><IMG title=3D"Number of visits: 158"=20
+            alt=3D"Number of visits: 158" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vv.png"=20
+            width=3D4 height=3D74><IMG title=3D"Pages: 1638" =
+            alt=3D"Pages: 1638"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vp.png"=20
+            width=3D4 height=3D49><IMG title=3D"Hits: 1638" =
+            alt=3D"Hits: 1638"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vh.png"=20
+            width=3D4 height=3D49><IMG title=3D"Bandwidth: 44.89 =
+            MB"=20
+            alt=3D"Bandwidth: 44.89 MB" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vk.png"=20
+            width=3D4 height=3D86></TD>
+        <TD><IMG title=3D"Number of visits: 0" alt=3D"Number of =
+            visits: 0"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vv.png"=20
+            width=3D4 height=3D1><IMG title=3D"Pages: 0" =
+            alt=3D"Pages: 0"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vp.png"=20
+            width=3D4 height=3D1><IMG title=3D"Hits: 0" =
+            alt=3D"Hits: 0"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vh.png"=20
+            width=3D4 height=3D1><IMG title=3D"Bandwidth: 0" =
+            alt=3D"Bandwidth: 0"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vk.png"=20
+            width=3D4 height=3D1></TD>
+        <TD><IMG title=3D"Number of visits: 0" alt=3D"Number of =
+            visits: 0"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vv.png"=20
+            width=3D4 height=3D1><IMG title=3D"Pages: 0" =
+            alt=3D"Pages: 0"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vp.png"=20
+            width=3D4 height=3D1><IMG title=3D"Hits: 0" =
+            alt=3D"Hits: 0"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vh.png"=20
+            width=3D4 height=3D1><IMG title=3D"Bandwidth: 0" =
+            alt=3D"Bandwidth: 0"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vk.png"=20
+            width=3D4 height=3D1></TD>
+        <TD><IMG title=3D"Number of visits: 162"=20
+            alt=3D"Number of visits: 162" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vv.png"=20
+            width=3D4 height=3D76><IMG title=3D"Pages: 1537" =
+            alt=3D"Pages: 1537"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vp.png"=20
+            width=3D4 height=3D46><IMG title=3D"Hits: 1537" =
+            alt=3D"Hits: 1537"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vh.png"=20
+            width=3D4 height=3D46><IMG title=3D"Bandwidth: 44.70 =
+            MB"=20
+            alt=3D"Bandwidth: 44.70 MB" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vk.png"=20
+            width=3D4 height=3D86></TD>
+        <TD><IMG title=3D"Number of visits: 122"=20
+            alt=3D"Number of visits: 122" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vv.png"=20
+            width=3D4 height=3D57><IMG title=3D"Pages: 1351" =
+            alt=3D"Pages: 1351"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vp.png"=20
+            width=3D4 height=3D40><IMG title=3D"Hits: 1351" =
+            alt=3D"Hits: 1351"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vh.png"=20
+            width=3D4 height=3D40><IMG title=3D"Bandwidth: 36.50 =
+            MB"=20
+            alt=3D"Bandwidth: 36.50 MB" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vk.png"=20
+            width=3D4 height=3D70></TD>
+        <TD><IMG title=3D"Number of visits: 136"=20
+            alt=3D"Number of visits: 136" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vv.png"=20
+            width=3D4 height=3D64><IMG title=3D"Pages: 2123" =
+            alt=3D"Pages: 2123"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vp.png"=20
+            width=3D4 height=3D63><IMG title=3D"Hits: 2123" =
+            alt=3D"Hits: 2123"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vh.png"=20
+            width=3D4 height=3D63><IMG title=3D"Bandwidth: 39.76 =
+            MB"=20
+            alt=3D"Bandwidth: 39.76 MB" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vk.png"=20
+            width=3D4 height=3D76></TD>
+        <TD><IMG title=3D"Number of visits: 68"=20
+            alt=3D"Number of visits: 68" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vv.png"=20
+            width=3D4 height=3D32><IMG title=3D"Pages: 649" =
+            alt=3D"Pages: 649"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vp.png"=20
+            width=3D4 height=3D20><IMG title=3D"Hits: 649" =
+            alt=3D"Hits: 649"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vh.png"=20
+            width=3D4 height=3D20><IMG title=3D"Bandwidth: 27.77 =
+            MB"=20
+            alt=3D"Bandwidth: 27.77 MB" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vk.png"=20
+            width=3D4 height=3D54></TD>
+        <TD><IMG title=3D"Number of visits: 84"=20
+            alt=3D"Number of visits: 84" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vv.png"=20
+            width=3D4 height=3D39><IMG title=3D"Pages: 521" =
+            alt=3D"Pages: 521"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vp.png"=20
+            width=3D4 height=3D16><IMG title=3D"Hits: 521" =
+            alt=3D"Hits: 521"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vh.png"=20
+            width=3D4 height=3D16><IMG title=3D"Bandwidth: 19.25 =
+            MB"=20
+            alt=3D"Bandwidth: 19.25 MB" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vk.png"=20
+            width=3D4 height=3D37></TD>
+        <TD>&nbsp;</TD>
+        <TD><IMG title=3D"Number of visits: 94.03"=20
+            alt=3D"Number of visits: 94.03" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vv.png"=20
+            width=3D4 height=3D44><IMG title=3D"Pages: 959.39"=20
+            alt=3D"Pages: 959.39" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vp.png"=20
+            width=3D4 height=3D29><IMG title=3D"Hits: 960.42" =
+            alt=3D"Hits: 960.42"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vh.png"=20
+            width=3D4 height=3D29><IMG title=3D"Bandwidth: =
+            24653574.26"=20
+            alt=3D"Bandwidth: 24653574.26" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vk.png"=20
+            width=3D4 height=3D45></TD></TR>
+    <TR vAlign=3Dcenter>
+    <TD>01<BR><SPAN style=3D"FONT-SIZE: 8px">May</SPAN></TD>
+    <TD>02<BR><SPAN style=3D"FONT-SIZE: 8px">May</SPAN></TD>
+    <TD>03<BR><SPAN style=3D"FONT-SIZE: 8px">May</SPAN></TD>
+    <TD bgColor=3D#eaeaea>04<BR><SPAN=20
+    style=3D"FONT-SIZE: 8px">May</SPAN></TD>
+<TD bgColor=3D#eaeaea>05<BR><SPAN=20
+    style=3D"FONT-SIZE: 8px">May</SPAN></TD>
+<TD>06<BR><SPAN style=3D"FONT-SIZE: 8px">May</SPAN></TD>
+<TD>07<BR><SPAN style=3D"FONT-SIZE: 8px">May</SPAN></TD>
+<TD>08<BR><SPAN style=3D"FONT-SIZE: 8px">May</SPAN></TD>
+<TD>09<BR><SPAN style=3D"FONT-SIZE: 8px">May</SPAN></TD>
+<TD>10<BR><SPAN style=3D"FONT-SIZE: 8px">May</SPAN></TD>
+<TD bgColor=3D#eaeaea>11<BR><SPAN=20
+style=3D"FONT-SIZE: 8px">May</SPAN></TD>
+<TD bgColor=3D#eaeaea>12<BR><SPAN=20
+style=3D"FONT-SIZE: 8px">May</SPAN></TD>
+<TD>13<BR><SPAN style=3D"FONT-SIZE: 8px">May</SPAN></TD>
+<TD>14<BR><SPAN style=3D"FONT-SIZE: 8px">May</SPAN></TD>
+<TD>15<BR><SPAN style=3D"FONT-SIZE: 8px">May</SPAN></TD>
+<TD>16<BR><SPAN style=3D"FONT-SIZE: 8px">May</SPAN></TD>
+<TD>17<BR><SPAN style=3D"FONT-SIZE: 8px">May</SPAN></TD>
+<TD bgColor=3D#eaeaea>18<BR><SPAN=20
+style=3D"FONT-SIZE: 8px">May</SPAN></TD>
+<TD bgColor=3D#eaeaea>19<BR><SPAN=20
+style=3D"FONT-SIZE: 8px">May</SPAN></TD>
+<TD>20<BR><SPAN style=3D"FONT-SIZE: 8px">May</SPAN></TD>
+<TD>21<BR><SPAN style=3D"FONT-SIZE: 8px">May</SPAN></TD>
+<TD>22<BR><SPAN style=3D"FONT-SIZE: 8px">May</SPAN></TD>
+<TD>23<BR><SPAN style=3D"FONT-SIZE: 8px">May</SPAN></TD>
+<TD>24<BR><SPAN style=3D"FONT-SIZE: 8px">May</SPAN></TD>
+<TD bgColor=3D#eaeaea>25<BR><SPAN=20
+style=3D"FONT-SIZE: 8px">May</SPAN></TD>
+<TD bgColor=3D#eaeaea>26<BR><SPAN=20
+style=3D"FONT-SIZE: 8px">May</SPAN></TD>
+<TD>27<BR><SPAN style=3D"FONT-SIZE: 8px">May</SPAN></TD>
+<TD>28<BR><SPAN style=3D"FONT-SIZE: 8px">May</SPAN></TD>
+<TD>29<BR><SPAN style=3D"FONT-SIZE: 8px">May</SPAN></TD>
+<TD>30<BR><SPAN style=3D"FONT-SIZE: 8px">May</SPAN></TD>
+<TD>31<BR><SPAN style=3D"FONT-SIZE: 8px">May</SPAN></TD>
+<TD>&nbsp;</TD>
+<TD onmouseover=3DShowTip(18); onmouseout=3DHideTip(18); =
+
+        vAlign=3Dcenter>Average</TD></TR></TBODY></TABLE><BR>
+<TABLE>
+    <TBODY>
+        <TR>
+            <TD bgColor=3D#ececec width=3D80>componentStatistics.Day</TD>
+        <TD onmouseover=3DShowTip(1); onmouseout=3DHideTip(1);=20
+        bgColor=3D#f4f090 width=3D80>Number of visits</TD>
+    <TD onmouseover=3DShowTip(3); onmouseout=3DHideTip(3);=20
+    bgColor=3D#4477dd width=3D80>Pages</TD>
+<TD onmouseover=3DShowTip(4); onmouseout=3DHideTip(4);=20
+bgColor=3D#66ddee width=3D80>Hits</TD>
+<TD onmouseover=3DShowTip(5); onmouseout=3DHideTip(5);=20
+        bgColor=3D#2ea495 width=3D80>Bandwidth</TD></TR>
+<TR>
+<TD>01 May 2013</TD>
+<TD>6</TD>
+<TD>36</TD>
+<TD>36</TD>
+<TD>4.18 MB</TD></TR>
+<TR>
+<TD>02 May 2013</TD>
+<TD>132</TD>
+<TD>1,030</TD>
+<TD>1,030</TD>
+<TD>33.15 MB</TD></TR>
+<TR>
+<TD>03 May 2013</TD>
+<TD>152</TD>
+<TD>1,344</TD>
+<TD>1,344</TD>
+<TD>33.42 MB</TD></TR>
+<TR bgColor=3D#eaeaea>
+<TD>04 May 2013</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD></TR>
+<TR bgColor=3D#eaeaea>
+<TD>05 May 2013</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD></TR>
+<TR>
+<TD>06 May 2013</TD>
+<TD>121</TD>
+<TD>742</TD>
+<TD>750</TD>
+<TD>29.53 MB</TD></TR>
+<TR>
+<TD>07 May 2013</TD>
+<TD>168</TD>
+<TD>922</TD>
+<TD>922</TD>
+<TD>44.77 MB</TD></TR>
+<TR>
+<TD>08 May 2013</TD>
+<TD>157</TD>
+<TD>1,240</TD>
+<TD>1,240</TD>
+<TD>29.54 MB</TD></TR>
+<TR>
+<TD>09 May 2013</TD>
+<TD>6</TD>
+<TD>142</TD>
+<TD>142</TD>
+<TD>1.37 MB</TD></TR>
+<TR>
+<TD>10 May 2013</TD>
+<TD>108</TD>
+<TD>3,054</TD>
+<TD>3,054</TD>
+<TD>17.77 MB</TD></TR>
+<TR bgColor=3D#eaeaea>
+<TD>11 May 2013</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD></TR>
+<TR bgColor=3D#eaeaea>
+<TD>12 May 2013</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD></TR>
+<TR>
+<TD>13 May 2013</TD>
+<TD>194</TD>
+<TD>2,239</TD>
+<TD>2,247</TD>
+<TD>40.75 MB</TD></TR>
+<TR>
+<TD>14 May 2013</TD>
+<TD>171</TD>
+<TD>1,351</TD>
+<TD>1,351</TD>
+<TD>45.88 MB</TD></TR>
+<TR>
+<TD>15 May 2013</TD>
+<TD>169</TD>
+<TD>1,494</TD>
+<TD>1,494</TD>
+<TD>42.77 MB</TD></TR>
+<TR>
+<TD>16 May 2013</TD>
+<TD>189</TD>
+<TD>1,973</TD>
+<TD>1,973</TD>
+<TD>41.80 MB</TD></TR>
+<TR>
+<TD>17 May 2013</TD>
+<TD>119</TD>
+<TD>1,439</TD>
+<TD>1,439</TD>
+<TD>31.34 MB</TD></TR>
+<TR bgColor=3D#eaeaea>
+<TD>18 May 2013</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD></TR>
+<TR bgColor=3D#eaeaea>
+<TD>19 May 2013</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD></TR>
+<TR>
+<TD>20 May 2013</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD></TR>
+<TR>
+<TD>21 May 2013</TD>
+<TD>151</TD>
+<TD>1,507</TD>
+<TD>1,515</TD>
+<TD>28.42 MB</TD></TR>
+<TR>
+<TD>22 May 2013</TD>
+<TD>184</TD>
+<TD>1,399</TD>
+<TD>1,399</TD>
+<TD>47.14 MB</TD></TR>
+<TR>
+<TD>23 May 2013</TD>
+<TD>158</TD>
+<TD>2,010</TD>
+<TD>2,018</TD>
+<TD>44.12 MB</TD></TR>
+<TR>
+<TD>24 May 2013</TD>
+<TD>158</TD>
+<TD>1,638</TD>
+<TD>1,638</TD>
+<TD>44.89 MB</TD></TR>
+<TR bgColor=3D#eaeaea>
+<TD>25 May 2013</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD></TR>
+<TR bgColor=3D#eaeaea>
+<TD>26 May 2013</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD></TR>
+<TR>
+<TD>27 May 2013</TD>
+<TD>162</TD>
+<TD>1,537</TD>
+<TD>1,537</TD>
+<TD>44.70 MB</TD></TR>
+<TR>
+<TD>28 May 2013</TD>
+<TD>122</TD>
+<TD>1,351</TD>
+<TD>1,351</TD>
+<TD>36.50 MB</TD></TR>
+<TR>
+<TD>29 May 2013</TD>
+<TD>136</TD>
+<TD>2,123</TD>
+<TD>2,123</TD>
+<TD>39.76 MB</TD></TR>
+<TR>
+<TD>30 May 2013</TD>
+<TD>68</TD>
+<TD>649</TD>
+<TD>649</TD>
+<TD>27.77 MB</TD></TR>
+<TR>
+<TD>31 May 2013</TD>
+<TD>84</TD>
+<TD>521</TD>
+<TD>521</TD>
+<TD>19.25 MB</TD></TR>
+<TR bgColor=3D#ececec>
+<TD>Average</TD>
+<TD>94</TD>
+<TD>959</TD>
+<TD>960</TD>
+<TD>23.51 MB</TD></TR>
+<TR bgColor=3D#ececec>
+<TD>Total</TD>
+<TD>2,915</TD>
+<TD>29,741</TD>
+<TD>29,773</TD>
+<TD>728.86=20
+=
+MB</TD></TR></TBODY></TABLE><BR></CENTER></TD></TR></TBODY></TABLE></TD><=
+        /TR></TBODY></TABLE><BR><A=20
+name=3Ddaysofweek>&nbsp;</A><BR>
+<TABLE class=3D"aws_border sortable" border=3D0 cellSpacing=3D0 =
+cellPadding=3D2=20
+width=3D"100%">
+<TBODY>
+    <TR>
+        <TD class=3Daws_title onmouseover=3DShowTip(18); =
+        onmouseout=3DHideTip(18);=20
+        width=3D"70%">Days of week </TD>
+    <TD class=3Daws_blank>&nbsp;</TD></TR>
+<TR>
+<TD colSpan=3D2>
+<TABLE class=3Daws_data border=3D1 cellSpacing=3D0 cellPadding=3D2 =
+width=3D"100%">
+<TBODY>
+    <TR>
+        <TD align=3Dmiddle>
+        <CENTER>
+            <TABLE>
+                <TBODY>
+                    <TR vAlign=3Dbottom>
+                    <TD vAlign=3Dbottom><IMG title=3D"Pages: 1129.50"=20
+                    alt=3D"Pages: 1129.50" align=3Dbottom=20
+                    =
+                    src=3D"http://webstats-new-p.internal.epo.org/icon/other/vp.png"=20
+                    width=3D6 height=3D64><IMG title=3D"Hits: 1133.50"=20
+                    alt=3D"Hits: 1133.50" align=3Dbottom=20
+                    =
+                    src=3D"http://webstats-new-p.internal.epo.org/icon/other/vh.png"=20
+                    width=3D6 height=3D64><IMG title=3D"Bandwidth: 28.75 =
+                    MB"=20
+                    alt=3D"Bandwidth: 28.75 MB" align=3Dbottom=20
+                    =
+                    src=3D"http://webstats-new-p.internal.epo.org/icon/other/vk.png"=20
+                    width=3D6 height=3D67></TD>
+                <TD vAlign=3Dbottom><IMG title=3D"Pages: 1282.75"=20
+                alt=3D"Pages: 1282.75" align=3Dbottom=20
+                =
+                src=3D"http://webstats-new-p.internal.epo.org/icon/other/vp.png"=20
+                width=3D6 height=3D73><IMG title=3D"Hits: 1284.75"=20
+                alt=3D"Hits: 1284.75" align=3Dbottom=20
+                =
+                src=3D"http://webstats-new-p.internal.epo.org/icon/other/vh.png"=20
+                width=3D6 height=3D73><IMG title=3D"Bandwidth: 38.89 =
+                MB"=20
+                alt=3D"Bandwidth: 38.89 MB" align=3Dbottom=20
+                =
+                src=3D"http://webstats-new-p.internal.epo.org/icon/other/vk.png"=20
+                width=3D6 height=3D91></TD>
+            <TD vAlign=3Dbottom><IMG title=3D"Pages: 1258.40"=20
+            alt=3D"Pages: 1258.40" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vp.png"=20
+            width=3D6 height=3D71><IMG title=3D"Hits: 1258.40"=20
+            alt=3D"Hits: 1258.40" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vh.png"=20
+            width=3D6 height=3D71><IMG title=3D"Bandwidth: 32.68 =
+            MB"=20
+            alt=3D"Bandwidth: 32.68 MB" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vk.png"=20
+            width=3D6 height=3D76></TD>
+        <TD vAlign=3Dbottom><IMG title=3D"Pages: 1160.80"=20
+        alt=3D"Pages: 1160.80" align=3Dbottom=20
+        =
+        src=3D"http://webstats-new-p.internal.epo.org/icon/other/vp.png"=20
+        width=3D6 height=3D66><IMG title=3D"Hits: 1162.40"=20
+        alt=3D"Hits: 1162.40" align=3Dbottom=20
+        =
+        src=3D"http://webstats-new-p.internal.epo.org/icon/other/vh.png"=20
+        width=3D6 height=3D66><IMG title=3D"Bandwidth: 29.65 =
+        MB"=20
+        alt=3D"Bandwidth: 29.65 MB" align=3Dbottom=20
+        =
+        src=3D"http://webstats-new-p.internal.epo.org/icon/other/vk.png"=20
+        width=3D6 height=3D69></TD>
+    <TD vAlign=3Dbottom><IMG title=3D"Pages: 1599.20"=20
+    alt=3D"Pages: 1599.20" align=3Dbottom=20
+    =
+    src=3D"http://webstats-new-p.internal.epo.org/icon/other/vp.png"=20
+    width=3D6 height=3D91><IMG title=3D"Hits: 1599.20"=20
+    alt=3D"Hits: 1599.20" align=3Dbottom=20
+    =
+    src=3D"http://webstats-new-p.internal.epo.org/icon/other/vh.png"=20
+    width=3D6 height=3D91><IMG title=3D"Bandwidth: 29.34 =
+    MB"=20
+    alt=3D"Bandwidth: 29.34 MB" align=3Dbottom=20
+    =
+    src=3D"http://webstats-new-p.internal.epo.org/icon/other/vk.png"=20
+    width=3D6 height=3D68></TD>
+<TD vAlign=3Dbottom><IMG title=3D"Pages: 0" =
+alt=3D"Pages: 0"=20
+align=3Dbottom=20
+=
+src=3D"http://webstats-new-p.internal.epo.org/icon/other/vp.png"=20
+width=3D6 height=3D1><IMG title=3D"Hits: 0" =
+alt=3D"Hits: 0"=20
+align=3Dbottom=20
+=
+src=3D"http://webstats-new-p.internal.epo.org/icon/other/vh.png"=20
+width=3D6 height=3D1><IMG title=3D"Bandwidth: 0" =
+alt=3D"Bandwidth: 0"=20
+align=3Dbottom=20
+=
+src=3D"http://webstats-new-p.internal.epo.org/icon/other/vk.png"=20
+width=3D6 height=3D1></TD>
+<TD vAlign=3Dbottom><IMG title=3D"Pages: 0" =
+        alt=3D"Pages: 0"=20
+        align=3Dbottom=20
+        =
+        src=3D"http://webstats-new-p.internal.epo.org/icon/other/vp.png"=20
+        width=3D6 height=3D1><IMG title=3D"Hits: 0" =
+        alt=3D"Hits: 0"=20
+        align=3Dbottom=20
+        =
+        src=3D"http://webstats-new-p.internal.epo.org/icon/other/vh.png"=20
+        width=3D6 height=3D1><IMG title=3D"Bandwidth: 0" =
+        alt=3D"Bandwidth: 0"=20
+        align=3Dbottom=20
+        =
+        src=3D"http://webstats-new-p.internal.epo.org/icon/other/vk.png"=20
+        width=3D6 height=3D1></TD></TR>
+<TR onmouseover=3DShowTip(17); onmouseout=3DHideTip(17);>
+<TD>Mon</TD>
+<TD>Tue</TD>
+<TD>Wed</TD>
+<TD>Thu</TD>
+<TD>Fri</TD>
+<TD bgColor=3D#eaeaea>Sat</TD>
+<TD bgColor=3D#eaeaea>Sun</TD></TR></TBODY></TABLE><BR>
+<TABLE>
+    <TBODY>
+        <TR>
+            <TD bgColor=3D#ececec width=3D80>componentStatistics.Day</TD>
+        <TD onmouseover=3DShowTip(3); onmouseout=3DHideTip(3);=20
+        bgColor=3D#4477dd width=3D80>Pages</TD>
+    <TD onmouseover=3DShowTip(4); onmouseout=3DHideTip(4);=20
+    bgColor=3D#66ddee width=3D80>Hits</TD>
+<TD onmouseover=3DShowTip(5); onmouseout=3DHideTip(5);=20
+bgColor=3D#2ea495 width=3D80>Bandwidth</TD></TR>
+<TR>
+<TD>Mon</TD>
+<TD>1,129</TD>
+<TD>1,133</TD>
+<TD>28.75 MB</TD></TR>
+<TR>
+<TD>Tue</TD>
+<TD>1,282</TD>
+<TD>1,284</TD>
+<TD>38.89 MB</TD></TR>
+<TR>
+<TD>Wed</TD>
+<TD>1,258</TD>
+<TD>1,258</TD>
+<TD>32.68 MB</TD></TR>
+<TR>
+<TD>Thu</TD>
+<TD>1,160</TD>
+<TD>1,162</TD>
+<TD>29.65 MB</TD></TR>
+<TR>
+<TD>Fri</TD>
+<TD>1,599</TD>
+<TD>1,599</TD>
+<TD>29.34 MB</TD></TR>
+<TR bgColor=3D#eaeaea>
+<TD>Sat</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD></TR>
+<TR bgColor=3D#eaeaea>
+<TD>Sun</TD>
+<TD>0</TD>
+<TD>0</TD>
+        =
+<TD>0</TD></TR></TBODY></TABLE><BR></CENTER></TD></TR></TBODY></TABLE></T=
+        D></TR></TBODY></TABLE><BR><A=20
+name=3Dhours>&nbsp;</A><BR>
+<TABLE class=3D"aws_border sortable" border=3D0 cellSpacing=3D0 =
+cellPadding=3D2=20
+width=3D"100%">
+<TBODY>
+    <TR>
+        <TD class=3Daws_title onmouseover=3DShowTip(19); =
+        onmouseout=3DHideTip(19);=20
+        width=3D"70%">Hours </TD>
+    <TD class=3Daws_blank>&nbsp;</TD></TR>
+<TR>
+<TD colSpan=3D2>
+<TABLE class=3Daws_data border=3D1 cellSpacing=3D0 cellPadding=3D2 =
+width=3D"100%">
+<TBODY>
+    <TR>
+        <TD align=3Dmiddle>
+        <CENTER>
+        <TABLE>
+        <TBODY>
+        <TR vAlign=3Dbottom>
+        <TD><IMG title=3D"Pages: 0" alt=3D"Pages: 0" =
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vp.png"=20
+            width=3D6 height=3D1><IMG title=3D"Hits: 0" =
+            alt=3D"Hits: 0"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vh.png"=20
+            width=3D6 height=3D1><IMG title=3D"Bandwidth: 0" =
+            alt=3D"Bandwidth: 0"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vk.png"=20
+            width=3D6 height=3D1></TD>
+        <TD><IMG title=3D"Pages: 0" alt=3D"Pages: 0" =
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vp.png"=20
+            width=3D6 height=3D1><IMG title=3D"Hits: 0" =
+            alt=3D"Hits: 0"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vh.png"=20
+            width=3D6 height=3D1><IMG title=3D"Bandwidth: 0" =
+            alt=3D"Bandwidth: 0"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vk.png"=20
+            width=3D6 height=3D1></TD>
+        <TD><IMG title=3D"Pages: 0" alt=3D"Pages: 0" =
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vp.png"=20
+            width=3D6 height=3D1><IMG title=3D"Hits: 0" =
+            alt=3D"Hits: 0"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vh.png"=20
+            width=3D6 height=3D1><IMG title=3D"Bandwidth: 0" =
+            alt=3D"Bandwidth: 0"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vk.png"=20
+            width=3D6 height=3D1></TD>
+        <TD><IMG title=3D"Pages: 0" alt=3D"Pages: 0" =
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vp.png"=20
+            width=3D6 height=3D1><IMG title=3D"Hits: 0" =
+            alt=3D"Hits: 0"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vh.png"=20
+            width=3D6 height=3D1><IMG title=3D"Bandwidth: 0" =
+            alt=3D"Bandwidth: 0"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vk.png"=20
+            width=3D6 height=3D1></TD>
+        <TD><IMG title=3D"Pages: 0" alt=3D"Pages: 0" =
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vp.png"=20
+            width=3D6 height=3D1><IMG title=3D"Hits: 0" =
+            alt=3D"Hits: 0"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vh.png"=20
+            width=3D6 height=3D1><IMG title=3D"Bandwidth: 0" =
+            alt=3D"Bandwidth: 0"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vk.png"=20
+            width=3D6 height=3D1></TD>
+        <TD><IMG title=3D"Pages: 0" alt=3D"Pages: 0" =
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vp.png"=20
+            width=3D6 height=3D1><IMG title=3D"Hits: 0" =
+            alt=3D"Hits: 0"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vh.png"=20
+            width=3D6 height=3D1><IMG title=3D"Bandwidth: 0" =
+            alt=3D"Bandwidth: 0"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vk.png"=20
+            width=3D6 height=3D1></TD>
+        <TD><IMG title=3D"Pages: 6" alt=3D"Pages: 6" =
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vp.png"=20
+            width=3D6 height=3D1><IMG title=3D"Hits: 6" =
+            alt=3D"Hits: 6"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vh.png"=20
+            width=3D6 height=3D1><IMG title=3D"Bandwidth: 687.18 =
+            KB"=20
+            alt=3D"Bandwidth: 687.18 KB" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vk.png"=20
+            width=3D6 height=3D1></TD>
+        <TD><IMG title=3D"Pages: 23" alt=3D"Pages: 23" =
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vp.png"=20
+            width=3D6 height=3D1><IMG title=3D"Hits: 23" =
+            alt=3D"Hits: 23"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vh.png"=20
+            width=3D6 height=3D1><IMG title=3D"Bandwidth: 2.06 MB" =
+
+            alt=3D"Bandwidth: 2.06 MB" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vk.png"=20
+            width=3D6 height=3D2></TD>
+        <TD><IMG title=3D"Pages: 671" alt=3D"Pages: 671" =
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vp.png"=20
+            width=3D6 height=3D13><IMG title=3D"Hits: 679" =
+            alt=3D"Hits: 679"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vh.png"=20
+            width=3D6 height=3D13><IMG title=3D"Bandwidth: 18.90 =
+            MB"=20
+            alt=3D"Bandwidth: 18.90 MB" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vk.png"=20
+            width=3D6 height=3D16></TD>
+        <TD><IMG title=3D"Pages: 1480" alt=3D"Pages: 1480" =
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vp.png"=20
+            width=3D6 height=3D29><IMG title=3D"Hits: 1480" =
+            alt=3D"Hits: 1480"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vh.png"=20
+            width=3D6 height=3D29><IMG title=3D"Bandwidth: 47.71 =
+            MB"=20
+            alt=3D"Bandwidth: 47.71 MB" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vk.png"=20
+            width=3D6 height=3D40></TD>
+        <TD><IMG title=3D"Pages: 4508" alt=3D"Pages: 4508" =
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vp.png"=20
+            width=3D6 height=3D86><IMG title=3D"Hits: 4516" =
+            alt=3D"Hits: 4516"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vh.png"=20
+            width=3D6 height=3D87><IMG title=3D"Bandwidth: 80.78 =
+            MB"=20
+            alt=3D"Bandwidth: 80.78 MB" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vk.png"=20
+            width=3D6 height=3D67></TD>
+        <TD><IMG title=3D"Pages: 4711" alt=3D"Pages: 4711" =
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vp.png"=20
+            width=3D6 height=3D90><IMG title=3D"Hits: 4719" =
+            alt=3D"Hits: 4719"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vh.png"=20
+            width=3D6 height=3D91><IMG title=3D"Bandwidth: 101.90 =
+            MB"=20
+            alt=3D"Bandwidth: 101.90 MB" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vk.png"=20
+            width=3D6 height=3D84></TD>
+        <TD><IMG title=3D"Pages: 1649" alt=3D"Pages: 1649" =
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vp.png"=20
+            width=3D6 height=3D32><IMG title=3D"Hits: 1649" =
+            alt=3D"Hits: 1649"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vh.png"=20
+            width=3D6 height=3D32><IMG title=3D"Bandwidth: 47.68 =
+            MB"=20
+            alt=3D"Bandwidth: 47.68 MB" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vk.png"=20
+            width=3D6 height=3D40></TD>
+        <TD><IMG title=3D"Pages: 3409" alt=3D"Pages: 3409" =
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vp.png"=20
+            width=3D6 height=3D66><IMG title=3D"Hits: 3417" =
+            alt=3D"Hits: 3417"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vh.png"=20
+            width=3D6 height=3D66><IMG title=3D"Bandwidth: 60.97 =
+            MB"=20
+            alt=3D"Bandwidth: 60.97 MB" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vk.png"=20
+            width=3D6 height=3D51></TD>
+        <TD><IMG title=3D"Pages: 3455" alt=3D"Pages: 3455" =
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vp.png"=20
+            width=3D6 height=3D66><IMG title=3D"Hits: 3455" =
+            alt=3D"Hits: 3455"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vh.png"=20
+            width=3D6 height=3D66><IMG title=3D"Bandwidth: 109.41 =
+            MB"=20
+            alt=3D"Bandwidth: 109.41 MB" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vk.png"=20
+            width=3D6 height=3D91></TD>
+        <TD><IMG title=3D"Pages: 3921" alt=3D"Pages: 3921" =
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vp.png"=20
+            width=3D6 height=3D75><IMG title=3D"Hits: 3921" =
+            alt=3D"Hits: 3921"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vh.png"=20
+            width=3D6 height=3D75><IMG title=3D"Bandwidth: 101.25 =
+            MB"=20
+            alt=3D"Bandwidth: 101.25 MB" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vk.png"=20
+            width=3D6 height=3D84></TD>
+        <TD><IMG title=3D"Pages: 3536" alt=3D"Pages: 3536" =
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vp.png"=20
+            width=3D6 height=3D68><IMG title=3D"Hits: 3536" =
+            alt=3D"Hits: 3536"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vh.png"=20
+            width=3D6 height=3D68><IMG title=3D"Bandwidth: 82.67 =
+            MB"=20
+            alt=3D"Bandwidth: 82.67 MB" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vk.png"=20
+            width=3D6 height=3D68></TD>
+        <TD><IMG title=3D"Pages: 1893" alt=3D"Pages: 1893" =
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vp.png"=20
+            width=3D6 height=3D37><IMG title=3D"Hits: 1893" =
+            alt=3D"Hits: 1893"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vh.png"=20
+            width=3D6 height=3D37><IMG title=3D"Bandwidth: 46.39 =
+            MB"=20
+            alt=3D"Bandwidth: 46.39 MB" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vk.png"=20
+            width=3D6 height=3D39></TD>
+        <TD><IMG title=3D"Pages: 362" alt=3D"Pages: 362" =
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vp.png"=20
+            width=3D6 height=3D7><IMG title=3D"Hits: 362" =
+            alt=3D"Hits: 362"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vh.png"=20
+            width=3D6 height=3D7><IMG title=3D"Bandwidth: 16.36 =
+            MB"=20
+            alt=3D"Bandwidth: 16.36 MB" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vk.png"=20
+            width=3D6 height=3D14></TD>
+        <TD><IMG title=3D"Pages: 70" alt=3D"Pages: 70" =
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vp.png"=20
+            width=3D6 height=3D2><IMG title=3D"Hits: 70" =
+            alt=3D"Hits: 70"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vh.png"=20
+            width=3D6 height=3D2><IMG title=3D"Bandwidth: 6.77 MB" =
+
+            alt=3D"Bandwidth: 6.77 MB" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vk.png"=20
+            width=3D6 height=3D6></TD>
+        <TD><IMG title=3D"Pages: 13" alt=3D"Pages: 13" =
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vp.png"=20
+            width=3D6 height=3D1><IMG title=3D"Hits: 13" =
+            alt=3D"Hits: 13"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vh.png"=20
+            width=3D6 height=3D1><IMG title=3D"Bandwidth: 1.42 MB" =
+
+            alt=3D"Bandwidth: 1.42 MB" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vk.png"=20
+            width=3D6 height=3D2></TD>
+        <TD><IMG title=3D"Pages: 19" alt=3D"Pages: 19" =
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vp.png"=20
+            width=3D6 height=3D1><IMG title=3D"Hits: 19" =
+            alt=3D"Hits: 19"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vh.png"=20
+            width=3D6 height=3D1><IMG title=3D"Bandwidth: 2.14 MB" =
+
+            alt=3D"Bandwidth: 2.14 MB" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vk.png"=20
+            width=3D6 height=3D2></TD>
+        <TD><IMG title=3D"Pages: 5" alt=3D"Pages: 5" =
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vp.png"=20
+            width=3D6 height=3D1><IMG title=3D"Hits: 5" =
+            alt=3D"Hits: 5"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vh.png"=20
+            width=3D6 height=3D1><IMG title=3D"Bandwidth: 546.42 =
+            KB"=20
+            alt=3D"Bandwidth: 546.42 KB" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vk.png"=20
+            width=3D6 height=3D1></TD>
+        <TD><IMG title=3D"Pages: 10" alt=3D"Pages: 10" =
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vp.png"=20
+            width=3D6 height=3D1><IMG title=3D"Hits: 10" =
+            alt=3D"Hits: 10"=20
+            align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vh.png"=20
+            width=3D6 height=3D1><IMG title=3D"Bandwidth: 1.25 MB" =
+
+            alt=3D"Bandwidth: 1.25 MB" align=3Dbottom=20
+            =
+            src=3D"http://webstats-new-p.internal.epo.org/icon/other/vk.png"=20
+            width=3D6 height=3D2></TD></TR>
+    <TR onmouseover=3DShowTip(17); onmouseout=3DHideTip(17);>
+    <TH width=3D19>0</TH>
+<TH width=3D19>1</TH>
+<TH width=3D19>2</TH>
+<TH width=3D19>3</TH>
+<TH width=3D19>4</TH>
+<TH width=3D19>5</TH>
+<TH width=3D19>6</TH>
+<TH width=3D19>7</TH>
+<TH width=3D19>8</TH>
+<TH width=3D19>9</TH>
+<TH width=3D19>10</TH>
+<TH width=3D19>11</TH>
+<TH width=3D19>12</TH>
+<TH width=3D19>13</TH>
+<TH width=3D19>14</TH>
+<TH width=3D19>15</TH>
+<TH width=3D19>16</TH>
+<TH width=3D19>17</TH>
+<TH width=3D19>18</TH>
+<TH width=3D19>19</TH>
+<TH width=3D19>20</TH>
+<TH width=3D19>21</TH>
+<TH width=3D19>22</TH>
+<TH width=3D19>23</TH></TR>
+<TR onmouseover=3DShowTip(17); onmouseout=3DHideTip(17);>
+<TD><IMG alt=3D"0:00 - 1:00 am"=20
+=
+src=3D"http://webstats-new-p.internal.epo.org/icon/clock/hr1.png"=20
+width=3D12></TD>
+<TD><IMG alt=3D"1:00 - 2:00 am"=20
+=
+src=3D"http://webstats-new-p.internal.epo.org/icon/clock/hr2.png"=20
+width=3D12></TD>
+<TD><IMG alt=3D"2:00 - 3:00 am"=20
+=
+src=3D"http://webstats-new-p.internal.epo.org/icon/clock/hr3.png"=20
+width=3D12></TD>
+<TD><IMG alt=3D"3:00 - 4:00 am"=20
+=
+src=3D"http://webstats-new-p.internal.epo.org/icon/clock/hr4.png"=20
+width=3D12></TD>
+<TD><IMG alt=3D"4:00 - 5:00 am"=20
+=
+src=3D"http://webstats-new-p.internal.epo.org/icon/clock/hr5.png"=20
+width=3D12></TD>
+<TD><IMG alt=3D"5:00 - 6:00 am"=20
+=
+src=3D"http://webstats-new-p.internal.epo.org/icon/clock/hr6.png"=20
+width=3D12></TD>
+<TD><IMG alt=3D"6:00 - 7:00 am"=20
+=
+src=3D"http://webstats-new-p.internal.epo.org/icon/clock/hr7.png"=20
+width=3D12></TD>
+<TD><IMG alt=3D"7:00 - 8:00 am"=20
+=
+src=3D"http://webstats-new-p.internal.epo.org/icon/clock/hr8.png"=20
+width=3D12></TD>
+<TD><IMG alt=3D"8:00 - 9:00 am"=20
+=
+src=3D"http://webstats-new-p.internal.epo.org/icon/clock/hr9.png"=20
+width=3D12></TD>
+<TD><IMG alt=3D"9:00 - 10:00 am"=20
+=
+src=3D"http://webstats-new-p.internal.epo.org/icon/clock/hr10.png"=20
+width=3D12></TD>
+<TD><IMG alt=3D"10:00 - 11:00 am"=20
+=
+src=3D"http://webstats-new-p.internal.epo.org/icon/clock/hr11.png"=20
+width=3D12></TD>
+<TD><IMG alt=3D"11:00 - 12:00 am"=20
+=
+src=3D"http://webstats-new-p.internal.epo.org/icon/clock/hr12.png"=20
+width=3D12></TD>
+<TD><IMG alt=3D"0:00 - 1:00 pm"=20
+=
+src=3D"http://webstats-new-p.internal.epo.org/icon/clock/hr1.png"=20
+width=3D12></TD>
+<TD><IMG alt=3D"1:00 - 2:00 pm"=20
+=
+src=3D"http://webstats-new-p.internal.epo.org/icon/clock/hr2.png"=20
+width=3D12></TD>
+<TD><IMG alt=3D"2:00 - 3:00 pm"=20
+=
+src=3D"http://webstats-new-p.internal.epo.org/icon/clock/hr3.png"=20
+width=3D12></TD>
+<TD><IMG alt=3D"3:00 - 4:00 pm"=20
+=
+src=3D"http://webstats-new-p.internal.epo.org/icon/clock/hr4.png"=20
+width=3D12></TD>
+<TD><IMG alt=3D"4:00 - 5:00 pm"=20
+=
+src=3D"http://webstats-new-p.internal.epo.org/icon/clock/hr5.png"=20
+width=3D12></TD>
+<TD><IMG alt=3D"5:00 - 6:00 pm"=20
+=
+src=3D"http://webstats-new-p.internal.epo.org/icon/clock/hr6.png"=20
+width=3D12></TD>
+<TD><IMG alt=3D"6:00 - 7:00 pm"=20
+=
+src=3D"http://webstats-new-p.internal.epo.org/icon/clock/hr7.png"=20
+width=3D12></TD>
+<TD><IMG alt=3D"7:00 - 8:00 pm"=20
+=
+src=3D"http://webstats-new-p.internal.epo.org/icon/clock/hr8.png"=20
+width=3D12></TD>
+<TD><IMG alt=3D"8:00 - 9:00 pm"=20
+=
+src=3D"http://webstats-new-p.internal.epo.org/icon/clock/hr9.png"=20
+width=3D12></TD>
+<TD><IMG alt=3D"9:00 - 10:00 pm"=20
+=
+src=3D"http://webstats-new-p.internal.epo.org/icon/clock/hr10.png"=20
+width=3D12></TD>
+<TD><IMG alt=3D"10:00 - 11:00 pm"=20
+=
+src=3D"http://webstats-new-p.internal.epo.org/icon/clock/hr11.png"=20
+width=3D12></TD>
+<TD><IMG alt=3D"11:00 - 12:00 pm"=20
+=
+src=3D"http://webstats-new-p.internal.epo.org/icon/clock/hr12.png"=20
+width=3D12></TD></TR></TBODY></TABLE><BR>
+<TABLE width=3D650>
+<TBODY>
+    <TR>
+        <TD align=3Dmiddle>
+        <CENTER>
+            <TABLE>
+                <TBODY>
+                    <TR>
+                        <TD bgColor=3D#ececec width=3D80>Hours</TD>
+                    <TD onmouseover=3DShowTip(3); =
+                    onmouseout=3DHideTip(3);=20
+                    bgColor=3D#4477dd width=3D80>Pages</TD>
+                <TD onmouseover=3DShowTip(4); =
+                onmouseout=3DHideTip(4);=20
+                bgColor=3D#66ddee width=3D80>Hits</TD>
+            <TD onmouseover=3DShowTip(5); =
+            onmouseout=3DHideTip(5);=20
+            bgColor=3D#2ea495 width=3D80>Bandwidth</TD></TR>
+    <TR>
+        <TD>00</TD>
+        <TD>0</TD>
+        <TD>0</TD>
+        <TD>0</TD></TR>
+    <TR>
+        <TD>01</TD>
+        <TD>0</TD>
+        <TD>0</TD>
+        <TD>0</TD></TR>
+    <TR>
+        <TD>02</TD>
+        <TD>0</TD>
+        <TD>0</TD>
+        <TD>0</TD></TR>
+    <TR>
+        <TD>03</TD>
+        <TD>0</TD>
+        <TD>0</TD>
+        <TD>0</TD></TR>
+    <TR>
+        <TD>04</TD>
+        <TD>0</TD>
+        <TD>0</TD>
+        <TD>0</TD></TR>
+    <TR>
+        <TD>05</TD>
+        <TD>0</TD>
+        <TD>0</TD>
+        <TD>0</TD></TR>
+    <TR>
+        <TD>06</TD>
+        <TD>6</TD>
+        <TD>6</TD>
+        <TD>687.18 KB</TD></TR>
+    <TR>
+        <TD>07</TD>
+        <TD>23</TD>
+        <TD>23</TD>
+        <TD>2.06 MB</TD></TR>
+    <TR>
+        <TD>08</TD>
+        <TD>671</TD>
+        <TD>679</TD>
+        <TD>18.90 MB</TD></TR>
+    <TR>
+        <TD>09</TD>
+        <TD>1,480</TD>
+        <TD>1,480</TD>
+        <TD>47.71 MB</TD></TR>
+    <TR>
+        <TD>10</TD>
+        <TD>4,508</TD>
+        <TD>4,516</TD>
+        <TD>80.78 MB</TD></TR>
+    <TR>
+        <TD>11</TD>
+        <TD>4,711</TD>
+        <TD>4,719</TD>
+        <TD>101.90 =
+            MB</TD></TR></TBODY></TABLE></CENTER></TD>
+<TD width=3D10>&nbsp;</TD>
+<TD align=3Dmiddle>
+<CENTER>
+<TABLE>
+    <TBODY>
+        <TR>
+            <TD bgColor=3D#ececec width=3D80>Hours</TD>
+        <TD onmouseover=3DShowTip(3); =
+        onmouseout=3DHideTip(3);=20
+        bgColor=3D#4477dd width=3D80>Pages</TD>
+    <TD onmouseover=3DShowTip(4); =
+    onmouseout=3DHideTip(4);=20
+    bgColor=3D#66ddee width=3D80>Hits</TD>
+<TD onmouseover=3DShowTip(5); =
+onmouseout=3DHideTip(5);=20
+bgColor=3D#2ea495 width=3D80>Bandwidth</TD></TR>
+<TR>
+<TD>12</TD>
+<TD>1,649</TD>
+<TD>1,649</TD>
+<TD>47.68 MB</TD></TR>
+<TR>
+<TD>13</TD>
+<TD>3,409</TD>
+<TD>3,417</TD>
+<TD>60.97 MB</TD></TR>
+<TR>
+<TD>14</TD>
+<TD>3,455</TD>
+<TD>3,455</TD>
+<TD>109.41 MB</TD></TR>
+<TR>
+<TD>15</TD>
+<TD>3,921</TD>
+<TD>3,921</TD>
+<TD>101.25 MB</TD></TR>
+<TR>
+<TD>16</TD>
+<TD>3,536</TD>
+<TD>3,536</TD>
+<TD>82.67 MB</TD></TR>
+<TR>
+<TD>17</TD>
+<TD>1,893</TD>
+<TD>1,893</TD>
+<TD>46.39 MB</TD></TR>
+<TR>
+<TD>18</TD>
+<TD>362</TD>
+<TD>362</TD>
+<TD>16.36 MB</TD></TR>
+<TR>
+<TD>19</TD>
+<TD>70</TD>
+<TD>70</TD>
+<TD>6.77 MB</TD></TR>
+<TR>
+<TD>20</TD>
+<TD>13</TD>
+<TD>13</TD>
+<TD>1.42 MB</TD></TR>
+<TR>
+<TD>21</TD>
+<TD>19</TD>
+<TD>19</TD>
+<TD>2.14 MB</TD></TR>
+<TR>
+<TD>22</TD>
+<TD>5</TD>
+<TD>5</TD>
+<TD>546.42 KB</TD></TR>
+<TR>
+<TD>23</TD>
+<TD>10</TD>
+<TD>10</TD>
+<TD>1.25=20
+    =
+    MB</TD></TR></TBODY></TABLE></CENTER></TD></TR></TBODY></TABLE><BR></CENT=
+        ER></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE><BR><A=20
+name=3Dwho>&nbsp;</A> <A name=3Dcountries>&nbsp;</A><BR>
+<TABLE class=3D"aws_border sortable" border=3D0 cellSpacing=3D0 =
+cellPadding=3D2=20
+width=3D"100%">
+<TBODY>
+    <TR>
+        <TD class=3Daws_title onmouseover=3DShowTip(19); =
+        onmouseout=3DHideTip(19);=20
+        width=3D"70%">Visitors domains/countries (Top 10) &nbsp; - &nbsp; <A =
+
+        =
+        href=3D"http://webstats-new-p.internal.epo.org/awstats/awstats.pl?month=3D=
+        05&amp;year=3D2013&amp;config=3Ddataaccess-httpd&amp;framename=3Dmainrigh=
+        t&amp;output=3Dalldomains"=20
+        target=3Dmainright>Full list</A> </TD>
+<TD class=3Daws_blank>&nbsp;</TD></TR>
+<TR>
+<TD colSpan=3D2>
+<TABLE class=3Daws_data border=3D1 cellSpacing=3D0 cellPadding=3D2 =
+width=3D"100%">
+<TBODY>
+    <TR bgColor=3D#ececec>
+    <TH width=3D32>&nbsp;</TH>
+<TH colSpan=3D2>Domains/Countries</TH>
+<TH onmouseover=3DShowTip(3); onmouseout=3DHideTip(3); =
+        bgColor=3D#4477dd=20
+        width=3D80>Pages</TH>
+<TH onmouseover=3DShowTip(4); onmouseout=3DHideTip(4); =
+        bgColor=3D#66ddee=20
+        width=3D80>Hits</TH>
+<TH onmouseover=3DShowTip(5); onmouseout=3DHideTip(5); =
+        bgColor=3D#2ea495=20
+        width=3D80>Bandwidth</TH>
+<TH>&nbsp;</TH></TR>
+<TR>
+<TD width=3D32><IMG title=3DUnknown alt=3DUnknown=20
+=
+src=3D"http://webstats-new-p.internal.epo.org/icon/flags/ip.png"=20
+height=3D14></TD>
+<TD class=3Daws>Unknown</TD>
+<TD>ip</TD>
+<TD>29,741</TD>
+<TD>29,773</TD>
+<TD>728.86 MB</TD>
+<TD class=3Daws><IMG title=3D"" alt=3D""=20
+        =
+        src=3D"http://webstats-new-p.internal.epo.org/icon/other/hp.png"=20
+        width=3D260 height=3D5><BR><IMG title=3D"" alt=3D""=20
+=
+src=3D"http://webstats-new-p.internal.epo.org/icon/other/hh.png"=20
+width=3D261 height=3D5><BR><IMG title=3D"" alt=3D""=20
+    =
+    src=3D"http://webstats-new-p.internal.epo.org/icon/other/hk.png"=20
+    width=3D261 height=3D5></TD></TR>
+<TR>
+<TD width=3D32>&nbsp;</TD>
+<TD class=3Daws colSpan=3D2><SPAN=20
+        style=3D"COLOR: #666688">Others</SPAN></TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD =
+        class=3Daws>&nbsp;</TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE><BR=
+        ><A=20
+        name=3Dvisitors>&nbsp;</A><BR>
+<TABLE class=3D"aws_border sortable" border=3D0 cellSpacing=3D0 =
+cellPadding=3D2=20
+width=3D"100%">
+<TBODY>
+    <TR>
+        <TD class=3Daws_title onmouseover=3DShowTip(19); =
+        onmouseout=3DHideTip(19);=20
+        width=3D"70%">Hosts (Top 10) &nbsp; - &nbsp; <A=20
+        =
+        href=3D"http://webstats-new-p.internal.epo.org/awstats/awstats.pl?month=3D=
+        05&amp;year=3D2013&amp;config=3Ddataaccess-httpd&amp;framename=3Dmainrigh=
+        t&amp;output=3Dallhosts"=20
+        target=3Dmainright>Full list</A> &nbsp; - &nbsp; <A=20
+    =
+    href=3D"http://webstats-new-p.internal.epo.org/awstats/awstats.pl?month=3D=
+    05&amp;year=3D2013&amp;config=3Ddataaccess-httpd&amp;framename=3Dmainrigh=
+    t&amp;output=3Dlasthosts"=20
+    target=3Dmainright>Last visit</A> &nbsp; - &nbsp; <A=20
+=
+href=3D"http://webstats-new-p.internal.epo.org/awstats/awstats.pl?month=3D=
+05&amp;year=3D2013&amp;config=3Ddataaccess-httpd&amp;framename=3Dmainrigh=
+t&amp;output=3Dunknownip"=20
+target=3Dmainright>Unresolved IP Address</A> </TD>
+<TD class=3Daws_blank>&nbsp;</TD></TR>
+<TR>
+<TD colSpan=3D2>
+<TABLE class=3Daws_data border=3D1 cellSpacing=3D0 cellPadding=3D2 =
+width=3D"100%">
+<TBODY>
+    <TR bgColor=3D#ececec>
+    <TH>Hosts : 0 Known, 1,024 Unknown (unresolved ip)<BR>1,024 =
+        Unique=20
+        visitors</TH>
+    <TH onmouseover=3DShowTip(3); onmouseout=3DHideTip(3); =
+    bgColor=3D#4477dd=20
+    width=3D80>Pages</TH>
+<TH onmouseover=3DShowTip(4); onmouseout=3DHideTip(4); =
+bgColor=3D#66ddee=20
+width=3D80>Hits</TH>
+<TH onmouseover=3DShowTip(5); onmouseout=3DHideTip(5); =
+        bgColor=3D#2ea495=20
+        width=3D80>Bandwidth</TH>
+<TH width=3D120>Last visit</TH></TR>
+<TR>
+<TD class=3Daws>10.27.103.155</TD>
+<TD>1,820</TD>
+<TD>1,820</TD>
+<TD>802.62 KB</TD>
+<TD noWrap>29 May 2013 - 13:49</TD></TR>
+<TR>
+<TD class=3Daws>10.27.102.193</TD>
+<TD>1,519</TD>
+<TD>1,519</TD>
+<TD>1.07 MB</TD>
+<TD noWrap>29 May 2013 - 16:35</TD></TR>
+<TR>
+<TD class=3Daws>10.5.2.72</TD>
+<TD>1,368</TD>
+<TD>1,368</TD>
+<TD>1.13 MB</TD>
+<TD noWrap>30 May 2013 - 12:41</TD></TR>
+<TR>
+<TD class=3Daws>10.27.104.27</TD>
+<TD>1,214</TD>
+<TD>1,214</TD>
+<TD>1.59 MB</TD>
+<TD noWrap>14 May 2013 - 10:55</TD></TR>
+<TR>
+<TD class=3Daws>10.22.206.37</TD>
+<TD>1,175</TD>
+<TD>1,175</TD>
+<TD>595.70 KB</TD>
+<TD noWrap>31 May 2013 - 17:36</TD></TR>
+<TR>
+<TD class=3Daws>10.27.104.41</TD>
+<TD>1,080</TD>
+<TD>1,080</TD>
+<TD>2.72 MB</TD>
+<TD noWrap>29 May 2013 - 11:25</TD></TR>
+<TR>
+<TD class=3Daws>10.3.101.27</TD>
+<TD>987</TD>
+<TD>987</TD>
+<TD>860.78 KB</TD>
+<TD noWrap>30 May 2013 - 11:32</TD></TR>
+<TR>
+<TD class=3Daws>10.22.206.55</TD>
+<TD>854</TD>
+<TD>854</TD>
+<TD>896.13 KB</TD>
+<TD noWrap>23 May 2013 - 16:45</TD></TR>
+<TR>
+<TD class=3Daws>10.23.115.135</TD>
+<TD>816</TD>
+<TD>816</TD>
+<TD>2.21 MB</TD>
+<TD noWrap>31 May 2013 - 13:39</TD></TR>
+<TR>
+<TD class=3Daws>10.24.231.98</TD>
+<TD>693</TD>
+<TD>693</TD>
+<TD>1.01 MB</TD>
+<TD noWrap>22 May 2013 - 08:50</TD></TR>
+<TR>
+<TD class=3Daws><SPAN style=3D"COLOR: =
+#666688">Others</SPAN></TD>
+<TD>18,215</TD>
+<TD>18,247</TD>
+<TD>716.05 MB</TD>
+        =
+<TD>&nbsp;</TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE><BR><A=20
+name=3Drobots>&nbsp;</A><BR>
+<TABLE class=3D"aws_border sortable" border=3D0 cellSpacing=3D0 =
+cellPadding=3D2=20
+width=3D"100%">
+<TBODY>
+    <TR>
+        <TD class=3Daws_title onmouseover=3DShowTip(19); =
+        onmouseout=3DHideTip(19);=20
+        width=3D"70%">Robots/Spiders visitors (Top 10) &nbsp; - &nbsp; <A=20
+        =
+        href=3D"http://webstats-new-p.internal.epo.org/awstats/awstats.pl?month=3D=
+        05&amp;year=3D2013&amp;config=3Ddataaccess-httpd&amp;framename=3Dmainrigh=
+        t&amp;output=3Dallrobots"=20
+        target=3Dmainright>Full list</A> &nbsp; - &nbsp; <A=20
+    =
+    href=3D"http://webstats-new-p.internal.epo.org/awstats/awstats.pl?month=3D=
+    05&amp;year=3D2013&amp;config=3Ddataaccess-httpd&amp;framename=3Dmainrigh=
+    t&amp;output=3Dlastrobots"=20
+    target=3Dmainright>Last visit</A> </TD>
+<TD class=3Daws_blank>&nbsp;</TD></TR>
+<TR>
+<TD colSpan=3D2>
+<TABLE class=3Daws_data border=3D1 cellSpacing=3D0 cellPadding=3D2 =
+width=3D"100%">
+<TBODY>
+    <TR onmouseover=3DShowTip(16); onmouseout=3DHideTip(16); =
+    bgColor=3D#ececec>
+    <TH>2 different robots*</TH>
+    <TH bgColor=3D#66ddee width=3D80>Hits</TH>
+<TH bgColor=3D#2ea495 width=3D80>Bandwidth</TH>
+<TH width=3D120>Last visit</TH></TR>
+<TR>
+<TD class=3Daws><A title=3D"Bot home page [new window]"=20
+=
+href=3D"http://www.projecthoneypot.org/harvester_useragents.php"=20
+target=3D_blank>Java (Often spam bot)</A></TD>
+<TD>22,012</TD>
+<TD>1.01 GB</TD>
+<TD>31 May 2013 - 23:57</TD></TR>
+<TR>
+<TD class=3Daws><A title=3D"Bot home page [new window]"=20
+href=3D"http://jakarta.apache.org/commons/httpclient/"=20
+target=3D_blank>Jakarta commons-httpclient</A></TD>
+<TD>17,531</TD>
+<TD>5.76 MB</TD>
+<TD>31 May 2013 - =
+21:14</TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE><SPAN=20
+        style=3D"FONT: 11px verdana, arial, helvetica">* Robots shown here gave =
+        hits or=20
+        traffic "not viewed" by visitors, so they are not included in other=20
+        charts.</SPAN><BR><BR><A name=3Dhow>&nbsp;</A> <A =
+name=3Dsessions>&nbsp;</A><BR>
+<TABLE class=3D"aws_border sortable" border=3D0 cellSpacing=3D0 =
+cellPadding=3D2=20
+width=3D"100%">
+<TBODY>
+    <TR>
+        <TD class=3Daws_title onmouseover=3DShowTip(19); =
+        onmouseout=3DHideTip(19);=20
+        width=3D"70%">Visits duration </TD>
+    <TD class=3Daws_blank>&nbsp;</TD></TR>
+<TR>
+<TD colSpan=3D2>
+<TABLE class=3Daws_data border=3D1 cellSpacing=3D0 cellPadding=3D2 =
+width=3D"100%">
+<TBODY>
+    <TR onmouseover=3DShowTip(1); onmouseout=3DHideTip(1); =
+    bgColor=3D#ececec>
+    <TH>Number of visits: 2,915 - Average: 529 s</TH>
+    <TH bgColor=3D#8888dd width=3D80>Number of visits</TH>
+<TH bgColor=3D#8888dd width=3D80>Percent</TH></TR>
+<TR>
+<TD class=3Daws>0s-30s</TD>
+<TD>1,665</TD>
+<TD>57.1 %</TD></TR>
+<TR>
+<TD class=3Daws>30s-2mn</TD>
+<TD>219</TD>
+<TD>7.5 %</TD></TR>
+<TR>
+<TD class=3Daws>2mn-5mn</TD>
+<TD>206</TD>
+<TD>7 %</TD></TR>
+<TR>
+<TD class=3Daws>5mn-15mn</TD>
+<TD>300</TD>
+<TD>10.2 %</TD></TR>
+<TR>
+<TD class=3Daws>15mn-30mn</TD>
+<TD>185</TD>
+<TD>6.3 %</TD></TR>
+<TR>
+<TD class=3Daws>30mn-1h</TD>
+<TD>217</TD>
+<TD>7.4 %</TD></TR>
+<TR>
+<TD class=3Daws>1h+</TD>
+<TD>123</TD>
+<TD>4.2 =
+%</TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE><BR><A=20
+name=3Dfiletypes>&nbsp;</A><BR>
+<TABLE class=3D"aws_border sortable" border=3D0 cellSpacing=3D0 =
+cellPadding=3D2=20
+width=3D"100%">
+<TBODY>
+    <TR>
+        <TD class=3Daws_title onmouseover=3DShowTip(19); =
+        onmouseout=3DHideTip(19);=20
+        width=3D"70%">File type </TD>
+    <TD class=3Daws_blank>&nbsp;</TD></TR>
+<TR>
+<TD colSpan=3D2>
+<TABLE class=3Daws_data border=3D1 cellSpacing=3D0 cellPadding=3D2 =
+width=3D"100%">
+<TBODY>
+    <TR bgColor=3D#ececec>
+    <TH colSpan=3D3>File type</TH>
+<TH onmouseover=3DShowTip(4); onmouseout=3DHideTip(4); =
+bgColor=3D#66ddee=20
+width=3D80>Hits</TH>
+<TH bgColor=3D#66ddee width=3D80>Percent</TH>
+<TH onmouseover=3DShowTip(5); onmouseout=3DHideTip(5); =
+        bgColor=3D#2ea495=20
+        width=3D80>Bandwidth</TH>
+<TH bgColor=3D#2ea495 width=3D80>Percent</TH></TR>
+<TR>
+<TD width=3D32><IMG title=3D"" alt=3D""=20
+=
+src=3D"http://webstats-new-p.internal.epo.org/icon/mime/unknown.png"></TD=
+        >
+<TD class=3Daws colSpan=3D2><SPAN=20
+        style=3D"COLOR: #666688">Unknown</SPAN></TD>
+<TD>29,737</TD>
+<TD>99.8 %</TD>
+<TD noWrap>728.21 MB</TD>
+<TD>99.9 %</TD></TR>
+<TR>
+<TD><IMG title=3D"" alt=3D""=20
+    =
+    src=3D"http://webstats-new-p.internal.epo.org/icon/mime/jscript.png"></TD=
+        >
+<TD class=3Daws>js</TD>
+<TD class=3Daws>JavaScript file</TD>
+<TD>20</TD>
+<TD>0 %</TD>
+<TD noWrap>550.95 KB</TD>
+<TD>0 %</TD></TR>
+<TR>
+<TD><IMG title=3D"" alt=3D""=20
+    =
+    src=3D"http://webstats-new-p.internal.epo.org/icon/mime/css.png"></TD>
+<TD class=3Daws>css</TD>
+<TD class=3Daws>Cascading Style Sheet file</TD>
+<TD>4</TD>
+<TD>0 %</TD>
+<TD noWrap>3.50 KB</TD>
+<TD>0 %</TD></TR>
+<TR>
+<TD><IMG title=3D"" alt=3D""=20
+    =
+    src=3D"http://webstats-new-p.internal.epo.org/icon/mime/php.png"></TD>
+<TD class=3Daws>php</TD>
+<TD class=3Daws>Dynamic PHP Script file</TD>
+<TD>4</TD>
+<TD>0 %</TD>
+<TD noWrap>11.08 KB</TD>
+<TD>0 %</TD></TR>
+<TR>
+<TD><IMG title=3D"" alt=3D""=20
+    =
+    src=3D"http://webstats-new-p.internal.epo.org/icon/mime/image.png"></TD>
+<TD class=3Daws>jpg</TD>
+<TD class=3Daws>Image</TD>
+<TD>4</TD>
+<TD>0 %</TD>
+<TD noWrap>90.27 KB</TD>
+<TD>0 %</TD></TR>
+<TR>
+<TD><IMG title=3D"" alt=3D""=20
+    =
+    src=3D"http://webstats-new-p.internal.epo.org/icon/mime/image.png"></TD>
+<TD class=3Daws>gif</TD>
+<TD class=3Daws>Image</TD>
+<TD>4</TD>
+<TD>0 %</TD>
+<TD noWrap>9.59 KB</TD>
+<TD>0 =
+%</TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE><BR><A=20
+name=3Ddownloads>&nbsp;</A><BR>
+<TABLE class=3D"aws_border sortable" border=3D0 cellSpacing=3D0 =
+cellPadding=3D2=20
+width=3D"100%">
+<TBODY>
+    <TR>
+        <TD class=3Daws_title width=3D"70%">Downloads (Top 10) &nbsp; - =
+        &nbsp; <A=20
+        =
+        href=3D"http://webstats-new-p.internal.epo.org/awstats/awstats.pl?month=3D=
+        05&amp;year=3D2013&amp;config=3Ddataaccess-httpd&amp;framename=3Dmainrigh=
+        t&amp;output=3Ddownloads"=20
+        target=3Dmainright>Full list</A> </TD>
+<TD class=3Daws_blank>&nbsp;</TD></TR>
+<TR>
+<TD colSpan=3D2>
+<TABLE class=3Daws_data border=3D1 cellSpacing=3D0 cellPadding=3D2 =
+width=3D"100%">
+<TBODY>
+    <TR bgColor=3D#ececec>
+    <TH colSpan=3D2>Downloads: 0</TH>
+<TH bgColor=3D#66ddee width=3D80>Hits</TH>
+<TH bgColor=3D#66ddee width=3D80>206 Hits</TH>
+<TH bgColor=3D#2ea495 width=3D80>Bandwidth</TH>
+<TH bgColor=3D#2ea495 width=3D80>Average=20
+        size</TH></TR></TBODY></TABLE></TD></TR></TBODY></TABLE><BR><A=20
+name=3Durls>&nbsp;</A><A name=3Dentry>&nbsp;</A><A =
+        name=3Dexit>&nbsp;</A><BR>
+<TABLE class=3D"aws_border sortable" border=3D0 cellSpacing=3D0 =
+cellPadding=3D2=20
+width=3D"100%">
+<TBODY>
+    <TR>
+        <TD class=3Daws_title onmouseover=3DShowTip(19); =
+        onmouseout=3DHideTip(19);=20
+        width=3D"70%">Pages-URL (Top 10) &nbsp; - &nbsp; <A=20
+        =
+        href=3D"http://webstats-new-p.internal.epo.org/awstats/awstats.pl?month=3D=
+        05&amp;year=3D2013&amp;config=3Ddataaccess-httpd&amp;framename=3Dmainrigh=
+        t&amp;output=3Durldetail"=20
+        target=3Dmainright>Full list</A> &nbsp; - &nbsp; <A=20
+    =
+    href=3D"http://webstats-new-p.internal.epo.org/awstats/awstats.pl?month=3D=
+    05&amp;year=3D2013&amp;config=3Ddataaccess-httpd&amp;framename=3Dmainrigh=
+    t&amp;output=3Durlentry"=20
+    target=3Dmainright>Entry</A> &nbsp; - &nbsp; <A=20
+=
+href=3D"http://webstats-new-p.internal.epo.org/awstats/awstats.pl?month=3D=
+05&amp;year=3D2013&amp;config=3Ddataaccess-httpd&amp;framename=3Dmainrigh=
+t&amp;output=3Durlexit"=20
+target=3Dmainright>Exit</A> </TD>
+<TD class=3Daws_blank>&nbsp;</TD></TR>
+<TR>
+<TD colSpan=3D2>
+<TABLE class=3Daws_data border=3D1 cellSpacing=3D0 cellPadding=3D2 =
+width=3D"100%">
+<TBODY>
+    <TR bgColor=3D#ececec>
+    <TH>4,554 different pages-url</TH>
+    <TH bgColor=3D#4477dd width=3D80>Viewed</TH>
+<TH bgColor=3D#2ea495 width=3D80>Average size</TH>
+<TH bgColor=3D#cec2e8 width=3D80>Entry</TH>
+<TH bgColor=3D#c1b2e2 width=3D80>Exit</TH>
+<TH>&nbsp;</TH></TR>
+<TR>
+<TD class=3Daws><A=20
+=
+href=3D"http://dataaccess-p.internal.epo.org/dal/data/documents/nonpatent=
+/match"=20
+target=3Durl>/dal/data/documents/nonpatent/match</A></TD>
+<TD>23,390</TD>
+<TD>475 Bytes</TD>
+<TD>859</TD>
+<TD>841</TD>
+<TD class=3Daws><IMG title=3D"" alt=3D""=20
+        =
+        src=3D"http://webstats-new-p.internal.epo.org/icon/other/hp.png"=20
+        width=3D261 height=3D4><BR><IMG title=3D"" alt=3D""=20
+=
+src=3D"http://webstats-new-p.internal.epo.org/icon/other/hk.png"=20
+width=3D2 height=3D4><BR><IMG title=3D"" alt=3D""=20
+    =
+    src=3D"http://webstats-new-p.internal.epo.org/icon/other/he.png"=20
+    width=3D10 height=3D4><BR><IMG title=3D"" alt=3D""=20
+        =
+        src=3D"http://webstats-new-p.internal.epo.org/icon/other/hx.png"=20
+        width=3D10 height=3D4></TD></TR>
+<TR>
+    <TD class=3Daws><A=20
+    =
+    href=3D"http://dataaccess-p.internal.epo.org/dal/data/documents/nonpatent=
+    /image/4304579"=20
+    =
+    target=3Durl>/dal/data/documents/nonpatent/image/4304579</A></TD>
+<TD>109</TD>
+<TD>84.29 KB</TD>
+<TD>12</TD>
+<TD>13</TD>
+<TD class=3Daws><IMG title=3D"" alt=3D""=20
+        =
+        src=3D"http://webstats-new-p.internal.epo.org/icon/other/hp.png"=20
+        width=3D2 height=3D4><BR><IMG title=3D"" alt=3D""=20
+=
+src=3D"http://webstats-new-p.internal.epo.org/icon/other/hk.png"=20
+width=3D140 height=3D4><BR><IMG title=3D"" alt=3D""=20
+    =
+    src=3D"http://webstats-new-p.internal.epo.org/icon/other/he.png"=20
+    width=3D2 height=3D4><BR><IMG title=3D"" alt=3D""=20
+        =
+        src=3D"http://webstats-new-p.internal.epo.org/icon/other/hx.png"=20
+        width=3D2 height=3D4></TD></TR>
+<TR>
+    <TD class=3Daws><A=20
+    =
+    href=3D"http://dataaccess-p.internal.epo.org/dal/data/documents/nonpatent=
+    /image/607949"=20
+    =
+    target=3Durl>/dal/data/documents/nonpatent/image/607949</A></TD>
+<TD>23</TD>
+<TD>90.05 KB</TD>
+<TD>1</TD>
+<TD>1</TD>
+<TD class=3Daws><IMG title=3D"" alt=3D""=20
+        =
+        src=3D"http://webstats-new-p.internal.epo.org/icon/other/hp.png"=20
+        width=3D2 height=3D4><BR><IMG title=3D"" alt=3D""=20
+=
+src=3D"http://webstats-new-p.internal.epo.org/icon/other/hk.png"=20
+width=3D149 height=3D4><BR><IMG title=3D"" alt=3D""=20
+    =
+    src=3D"http://webstats-new-p.internal.epo.org/icon/other/he.png"=20
+    width=3D2 height=3D4><BR><IMG title=3D"" alt=3D""=20
+        =
+        src=3D"http://webstats-new-p.internal.epo.org/icon/other/hx.png"=20
+        width=3D2 height=3D4></TD></TR>
+<TR>
+    <TD class=3Daws><A=20
+    =
+    href=3D"http://dataaccess-p.internal.epo.org/dal/data/documents/nonpatent=
+    /image/11293642"=20
+    =
+    target=3Durl>/dal/data/documents/nonpatent/image/11293642</A></TD>
+<TD>13</TD>
+<TD>126.38 KB</TD>
+<TD>&nbsp;</TD>
+<TD>1</TD>
+<TD class=3Daws><IMG title=3D"" alt=3D""=20
+        =
+        src=3D"http://webstats-new-p.internal.epo.org/icon/other/hp.png"=20
+        width=3D2 height=3D4><BR><IMG title=3D"" alt=3D""=20
+=
+src=3D"http://webstats-new-p.internal.epo.org/icon/other/hk.png"=20
+width=3D209 height=3D4><BR><IMG title=3D"" alt=3D""=20
+    =
+    src=3D"http://webstats-new-p.internal.epo.org/icon/other/he.png"=20
+    width=3D1 height=3D4><BR><IMG title=3D"" alt=3D""=20
+        =
+        src=3D"http://webstats-new-p.internal.epo.org/icon/other/hx.png"=20
+        width=3D2 height=3D4></TD></TR>
+<TR>
+    <TD class=3Daws><A=20
+    =
+    href=3D"http://dataaccess-p.internal.epo.org/dal/data/documents/nonpatent=
+    /image/4524452"=20
+    =
+    target=3Durl>/dal/data/documents/nonpatent/image/4524452</A></TD>
+<TD>13</TD>
+<TD>110.96 KB</TD>
+<TD>1</TD>
+<TD>&nbsp;</TD>
+<TD class=3Daws><IMG title=3D"" alt=3D""=20
+        =
+        src=3D"http://webstats-new-p.internal.epo.org/icon/other/hp.png"=20
+        width=3D2 height=3D4><BR><IMG title=3D"" alt=3D""=20
+=
+src=3D"http://webstats-new-p.internal.epo.org/icon/other/hk.png"=20
+width=3D184 height=3D4><BR><IMG title=3D"" alt=3D""=20
+    =
+    src=3D"http://webstats-new-p.internal.epo.org/icon/other/he.png"=20
+    width=3D2 height=3D4><BR><IMG title=3D"" alt=3D""=20
+        =
+        src=3D"http://webstats-new-p.internal.epo.org/icon/other/hx.png"=20
+        width=3D1 height=3D4></TD></TR>
+<TR>
+    <TD class=3Daws><A=20
+    =
+    href=3D"http://dataaccess-p.internal.epo.org/dal/data/documents/nonpatent=
+    /image/4607152"=20
+    =
+    target=3Durl>/dal/data/documents/nonpatent/image/4607152</A></TD>
+<TD>13</TD>
+<TD>88.15 KB</TD>
+<TD>2</TD>
+<TD>&nbsp;</TD>
+<TD class=3Daws><IMG title=3D"" alt=3D""=20
+        =
+        src=3D"http://webstats-new-p.internal.epo.org/icon/other/hp.png"=20
+        width=3D2 height=3D4><BR><IMG title=3D"" alt=3D""=20
+=
+src=3D"http://webstats-new-p.internal.epo.org/icon/other/hk.png"=20
+width=3D146 height=3D4><BR><IMG title=3D"" alt=3D""=20
+    =
+    src=3D"http://webstats-new-p.internal.epo.org/icon/other/he.png"=20
+    width=3D2 height=3D4><BR><IMG title=3D"" alt=3D""=20
+        =
+        src=3D"http://webstats-new-p.internal.epo.org/icon/other/hx.png"=20
+        width=3D1 height=3D4></TD></TR>
+<TR>
+    <TD class=3Daws><A=20
+    =
+    href=3D"http://dataaccess-p.internal.epo.org/dal/data/documents/nonpatent=
+    /image/1201040"=20
+    =
+    target=3Durl>/dal/data/documents/nonpatent/image/1201040</A></TD>
+<TD>12</TD>
+<TD>110.35 KB</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD class=3Daws><IMG title=3D"" alt=3D""=20
+        =
+        src=3D"http://webstats-new-p.internal.epo.org/icon/other/hp.png"=20
+        width=3D2 height=3D4><BR><IMG title=3D"" alt=3D""=20
+=
+src=3D"http://webstats-new-p.internal.epo.org/icon/other/hk.png"=20
+width=3D183 height=3D4><BR><IMG title=3D"" alt=3D""=20
+    =
+    src=3D"http://webstats-new-p.internal.epo.org/icon/other/he.png"=20
+    width=3D1 height=3D4><BR><IMG title=3D"" alt=3D""=20
+        =
+        src=3D"http://webstats-new-p.internal.epo.org/icon/other/hx.png"=20
+        width=3D1 height=3D4></TD></TR>
+<TR>
+    <TD class=3Daws><A=20
+    =
+    href=3D"http://dataaccess-p.internal.epo.org/dal/data/documents/nonpatent=
+    /image/31998212"=20
+    =
+    target=3Durl>/dal/data/documents/nonpatent/image/31998212</A></TD>
+<TD>12</TD>
+<TD>157.35 KB</TD>
+<TD>&nbsp;</TD>
+<TD>2</TD>
+<TD class=3Daws><IMG title=3D"" alt=3D""=20
+        =
+        src=3D"http://webstats-new-p.internal.epo.org/icon/other/hp.png"=20
+        width=3D2 height=3D4><BR><IMG title=3D"" alt=3D""=20
+=
+src=3D"http://webstats-new-p.internal.epo.org/icon/other/hk.png"=20
+width=3D261 height=3D4><BR><IMG title=3D"" alt=3D""=20
+    =
+    src=3D"http://webstats-new-p.internal.epo.org/icon/other/he.png"=20
+    width=3D1 height=3D4><BR><IMG title=3D"" alt=3D""=20
+        =
+        src=3D"http://webstats-new-p.internal.epo.org/icon/other/hx.png"=20
+        width=3D2 height=3D4></TD></TR>
+<TR>
+    <TD class=3Daws><A=20
+    =
+    href=3D"http://dataaccess-p.internal.epo.org/dal/data/documents/nonpatent=
+    /image/8022007"=20
+    =
+    target=3Durl>/dal/data/documents/nonpatent/image/8022007</A></TD>
+<TD>11</TD>
+<TD>141.68 KB</TD>
+<TD>&nbsp;</TD>
+<TD>1</TD>
+<TD class=3Daws><IMG title=3D"" alt=3D""=20
+        =
+        src=3D"http://webstats-new-p.internal.epo.org/icon/other/hp.png"=20
+        width=3D2 height=3D4><BR><IMG title=3D"" alt=3D""=20
+=
+src=3D"http://webstats-new-p.internal.epo.org/icon/other/hk.png"=20
+width=3D235 height=3D4><BR><IMG title=3D"" alt=3D""=20
+    =
+    src=3D"http://webstats-new-p.internal.epo.org/icon/other/he.png"=20
+    width=3D1 height=3D4><BR><IMG title=3D"" alt=3D""=20
+        =
+        src=3D"http://webstats-new-p.internal.epo.org/icon/other/hx.png"=20
+        width=3D2 height=3D4></TD></TR>
+<TR>
+    <TD class=3Daws><A=20
+    =
+    href=3D"http://dataaccess-p.internal.epo.org/dal/data/documents/nonpatent=
+    /image/8160888"=20
+    =
+    target=3Durl>/dal/data/documents/nonpatent/image/8160888</A></TD>
+<TD>11</TD>
+<TD>45.22 KB</TD>
+<TD>1</TD>
+<TD>&nbsp;</TD>
+<TD class=3Daws><IMG title=3D"" alt=3D""=20
+        =
+        src=3D"http://webstats-new-p.internal.epo.org/icon/other/hp.png"=20
+        width=3D2 height=3D4><BR><IMG title=3D"" alt=3D""=20
+=
+src=3D"http://webstats-new-p.internal.epo.org/icon/other/hk.png"=20
+width=3D75 height=3D4><BR><IMG title=3D"" alt=3D""=20
+    =
+    src=3D"http://webstats-new-p.internal.epo.org/icon/other/he.png"=20
+    width=3D2 height=3D4><BR><IMG title=3D"" alt=3D""=20
+        =
+        src=3D"http://webstats-new-p.internal.epo.org/icon/other/hx.png"=20
+        width=3D1 height=3D4></TD></TR>
+<TR>
+    <TD class=3Daws><SPAN style=3D"COLOR: =
+    #666688">Others</SPAN></TD>
+<TD>6,134</TD>
+<TD>116.41 KB</TD>
+<TD>2,039</TD>
+<TD>2,056</TD>
+        =
+<TD>&nbsp;</TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE><BR><A=20
+name=3Dos>&nbsp;</A><BR>
+<TABLE class=3D"aws_border sortable" border=3D0 cellSpacing=3D0 =
+cellPadding=3D2=20
+width=3D"100%">
+<TBODY>
+    <TR>
+        <TD class=3Daws_title onmouseover=3DShowTip(19); =
+        onmouseout=3DHideTip(19);=20
+        width=3D"70%">Operating Systems (Top 10) &nbsp; - &nbsp; <A=20
+        =
+        href=3D"http://webstats-new-p.internal.epo.org/awstats/awstats.pl?month=3D=
+        05&amp;year=3D2013&amp;config=3Ddataaccess-httpd&amp;framename=3Dmainrigh=
+        t&amp;output=3Dosdetail"=20
+        target=3Dmainright>Full list/Versions</A> &nbsp; - &nbsp; <A=20
+    =
+    href=3D"http://webstats-new-p.internal.epo.org/awstats/awstats.pl?month=3D=
+    05&amp;year=3D2013&amp;config=3Ddataaccess-httpd&amp;framename=3Dmainrigh=
+    t&amp;output=3Dunknownos"=20
+    target=3Dmainright>Unknown</A> </TD>
+<TD class=3Daws_blank>&nbsp;</TD></TR>
+<TR>
+<TD colSpan=3D2>
+<TABLE class=3Daws_data border=3D1 cellSpacing=3D0 cellPadding=3D2 =
+width=3D"100%">
+<TBODY>
+    <TR bgColor=3D#ececec>
+    <TH width=3D32>&nbsp;</TH>
+<TH>Operating Systems</TH>
+<TH bgColor=3D#66ddee width=3D80>Hits</TH>
+<TH bgColor=3D#66ddee width=3D80>Percent</TH></TR>
+<TR>
+<TD width=3D32><IMG title=3D"" alt=3D""=20
+=
+src=3D"http://webstats-new-p.internal.epo.org/icon/os/win.png"></TD>
+<TD class=3Daws><B>Windows</B></TD>
+<TD>29,770</TD>
+<TD>99.9 %</TD></TR>
+<TR>
+<TD><IMG title=3D"" alt=3D""=20
+    =
+    src=3D"http://webstats-new-p.internal.epo.org/icon/os/linux.png"></TD>
+<TD class=3Daws><B>Linux</B></TD>
+<TD>3</TD>
+<TD>0 =
+%</TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE><BR><A=20
+name=3Dbrowsers>&nbsp;</A><BR>
+<TABLE class=3D"aws_border sortable" border=3D0 cellSpacing=3D0 =
+cellPadding=3D2=20
+width=3D"100%">
+<TBODY>
+    <TR>
+        <TD class=3Daws_title onmouseover=3DShowTip(19); =
+        onmouseout=3DHideTip(19);=20
+        width=3D"70%">Browsers (Top 10) &nbsp; - &nbsp; <A=20
+        =
+        href=3D"http://webstats-new-p.internal.epo.org/awstats/awstats.pl?month=3D=
+        05&amp;year=3D2013&amp;config=3Ddataaccess-httpd&amp;framename=3Dmainrigh=
+        t&amp;output=3Dbrowserdetail"=20
+        target=3Dmainright>Full list/Versions</A> &nbsp; - &nbsp; <A=20
+    =
+    href=3D"http://webstats-new-p.internal.epo.org/awstats/awstats.pl?month=3D=
+    05&amp;year=3D2013&amp;config=3Ddataaccess-httpd&amp;framename=3Dmainrigh=
+    t&amp;output=3Dunknownbrowser"=20
+    target=3Dmainright>Unknown</A> </TD>
+<TD class=3Daws_blank>&nbsp;</TD></TR>
+<TR>
+<TD colSpan=3D2>
+<TABLE class=3Daws_data border=3D1 cellSpacing=3D0 cellPadding=3D2 =
+width=3D"100%">
+<TBODY>
+    <TR bgColor=3D#ececec>
+    <TH width=3D32>&nbsp;</TH>
+<TH>Browsers</TH>
+<TH width=3D80>Grabber</TH>
+<TH bgColor=3D#66ddee width=3D80>Hits</TH>
+<TH bgColor=3D#66ddee width=3D80>Percent</TH></TR>
+<TR>
+<TD width=3D32><IMG title=3D"" alt=3D""=20
+=
+src=3D"http://webstats-new-p.internal.epo.org/icon/browser/firefox.png"><=
+/TD>
+<TD class=3Daws><B>Firefox</B></TD>
+<TD>No</TD>
+<TD>29,706</TD>
+<TD>99.7 %</TD></TR>
+<TR>
+<TD><IMG title=3D"" alt=3D""=20
+    =
+    src=3D"http://webstats-new-p.internal.epo.org/icon/browser/msie.png"></TD=
+        >
+<TD class=3Daws><B>MS Internet Explorer</B></TD>
+<TD>No</TD>
+<TD>63</TD>
+<TD>0.2 %</TD></TR>
+<TR>
+<TD><IMG title=3D"" alt=3D""=20
+    =
+    src=3D"http://webstats-new-p.internal.epo.org/icon/browser/chrome.png"></=
+        TD>
+<TD class=3Daws><B>Google Chrome</B></TD>
+<TD>No</TD>
+<TD>4</TD>
+<TD>0 =
+%</TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE><BR><A=20
+name=3Drefering>&nbsp;</A> <A name=3Dreferer>&nbsp;</A><BR>
+<TABLE class=3D"aws_border sortable" border=3D0 cellSpacing=3D0 =
+cellPadding=3D2=20
+width=3D"100%">
+<TBODY>
+    <TR>
+        <TD class=3Daws_title onmouseover=3DShowTip(19); =
+        onmouseout=3DHideTip(19);=20
+        width=3D"70%">Connect to site from </TD>
+    <TD class=3Daws_blank>&nbsp;</TD></TR>
+<TR>
+<TD colSpan=3D2>
+<TABLE class=3Daws_data border=3D1 cellSpacing=3D0 cellPadding=3D2 =
+width=3D"100%">
+<TBODY>
+    <TR bgColor=3D#ececec>
+    <TH>Origin</TH>
+    <TH bgColor=3D#4477dd width=3D80>Pages</TH>
+<TH bgColor=3D#4477dd width=3D80>Percent</TH>
+<TH bgColor=3D#66ddee width=3D80>Hits</TH>
+<TH bgColor=3D#66ddee width=3D80>Percent</TH></TR>
+<TR>
+<TD class=3Daws><B>Direct address / Bookmark / Link in =
+    email...</B></TD>
+<TD>23,973</TD>
+<TD>80.6 %</TD>
+<TD>23,973</TD>
+<TD>80.6 %</TD></TR>
+<TR onmouseover=3DShowTip(13); onmouseout=3DHideTip(13);>
+<TD class=3Daws><B>Links from an Internet Search Engine</B> - =
+<A=20
+        =
+        href=3D"http://webstats-new-p.internal.epo.org/awstats/awstats.pl?month=3D=
+        05&amp;year=3D2013&amp;config=3Ddataaccess-httpd&amp;framename=3Dmainrigh=
+        t&amp;output=3Drefererse"=20
+        target=3Dmainright>Full list</A><BR></TD>
+<TD vAlign=3Dtop>&nbsp;</TD>
+<TD vAlign=3Dtop>&nbsp;</TD>
+<TD vAlign=3Dtop>&nbsp;</TD>
+<TD vAlign=3Dtop>&nbsp;</TD></TR>
+<TR onmouseover=3DShowTip(14); onmouseout=3DHideTip(14);>
+<TD class=3Daws><B>Links from an external page (other web =
+sites except=20
+search engines)</B> - <A=20
+        =
+        href=3D"http://webstats-new-p.internal.epo.org/awstats/awstats.pl?month=3D=
+        05&amp;year=3D2013&amp;config=3Ddataaccess-httpd&amp;framename=3Dmainrigh=
+        t&amp;output=3Drefererpages"=20
+        target=3Dmainright>Full list</A><BR>
+<TABLE>
+    <TBODY>
+        <TR>
+            <TD class=3Daws>- <A=20
+            =
+            href=3D"http://dfpcorec-p.internal.epo.org/wf/web/citenpl/citenpl.html"=20
+            =
+            target=3Durl>http://dfpcorec-p.internal.epo.org/wf/web/citenpl/citenpl.ht=
+            ml</A></TD>
+    <TD>5,297</TD>
+    <TD>5,297</TD></TR>
+<TR>
+    <TD class=3Daws>- <A=20
+    =
+    href=3D"http://amorgos.internal.epo.org/scripts/crossref-gw.php"=20
+    =
+    target=3Durl>http://amorgos.internal.epo.org/scripts/crossref-gw.php</A><=
+/TD>
+<TD>450</TD>
+<TD>450</TD></TR>
+<TR>
+<TD class=3Daws>- <A=20
+=
+href=3D"http://amorgos.internal.epo.org/scripts/ops/ops-imagetest.html"=20
+=
+target=3Durl>http://amorgos.internal.epo.org/scripts/ops/ops-imagetest.ht=
+ml</A></TD>
+<TD>7</TD>
+<TD>7</TD></TR>
+<TR>
+<TD class=3Daws>- <A=20
+=
+href=3D"http://main23.internal.epo.org/projects/sb/suggestionbox.nsf/vwAn=
+onymous/BC4D87A4BCCC1B2AC1257B5F004D6DAF"=20
+=
+target=3Durl>http://main23.internal.epo.org/projects/sb/suggestionbox.nsf=
+/vwAnonymous/BC4D87A4BCCC1B2AC1257B5F004D6DAF</A></TD>
+<TD>3</TD>
+<TD>3</TD></TR>
+<TR>
+<TD class=3Daws>- <A=20
+=
+href=3D"http://main23.internal.epo.org/projects/sb/suggestionbox.nsf/$sho=
+rt/SB20130198"=20
+=
+target=3Durl>http://main23.internal.epo.org/projects/sb/suggestionbox.nsf=
+/$short/SB20130198</A></TD>
+<TD>1</TD>
+<TD>1</TD></TR>
+<TR>
+<TD class=3Daws>- <A=20
+=
+href=3D"http://main23.internal.epo.org/projects/sb/suggestionbox.nsf/$sho=
+rt/BC4D87A4BCCC1B2AC1257B5F004D6DAF"=20
+=
+target=3Durl>http://main23.internal.epo.org/projects/sb/suggestionbox.nsf=
+/$short/BC4D87A4BCCC1B2AC1257B5F004D6DAF</A></TD>
+<TD>1</TD>
+<TD>1</TD></TR>
+<TR>
+<TD class=3Daws>- <A=20
+=
+href=3D"http://jira.internal.epo.org/browse/OCRGATEWAY-87"=20
+=
+target=3Durl>http://jira.internal.epo.org/browse/OCRGATEWAY-87</A></TD>
+<TD>1</TD>
+<TD>1</TD></TR></TBODY></TABLE></TD>
+<TD vAlign=3Dtop>5,760</TD>
+<TD vAlign=3Dtop>19.3 %</TD>
+<TD vAlign=3Dtop>5,760</TD>
+<TD vAlign=3Dtop>19.3 %</TD></TR>
+<TR>
+<TD class=3Daws><B>Unknown Origin</B></TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+        =
+<TD>&nbsp;</TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE><BR><A=20
+name=3Dkeys>&nbsp;</A> <A name=3Dkeyphrases>&nbsp;</A><A=20
+        name=3Dkeywords>&nbsp;</A><BR>
+<TABLE cellSpacing=3D0 cellPadding=3D0 width=3D"100%">
+<TBODY>
+    <TR>
+        <TD vAlign=3Dtop width=3D"50%">
+        <TABLE class=3D"aws_border sortable" border=3D0 cellSpacing=3D0 =
+        cellPadding=3D2=20
+        width=3D"100%">
+        <TBODY>
+            <TR>
+                <TD class=3Daws_title onmouseover=3DShowTip(19); =
+                onmouseout=3DHideTip(19);=20
+                width=3D"95%">Search&nbsp;Keyphrases (Top 10)<BR><A=20
+                =
+                href=3D"http://webstats-new-p.internal.epo.org/awstats/awstats.pl?month=3D=
+                05&amp;year=3D2013&amp;config=3Ddataaccess-httpd&amp;framename=3Dmainrigh=
+                t&amp;output=3Dkeyphrases"=20
+                target=3Dmainright>Full list</A> </TD>
+            <TD class=3Daws_blank>&nbsp;</TD></TR>
+    <TR>
+        <TD colSpan=3D2>
+        <TABLE class=3Daws_data border=3D1 cellSpacing=3D0 =
+        cellPadding=3D2=20
+        width=3D"100%">
+        <TBODY>
+            <TR onmouseover=3DShowTip(15); onmouseout=3DHideTip(15);=20
+            bgColor=3D#ececec>
+            <TH>0 different keyphrases</TH>
+            <TH bgColor=3D#8888dd width=3D80>Search</TH>
+        <TH bgColor=3D#8888dd=20
+        =
+        width=3D80>Percent</TH></TR></TBODY></TABLE></TD></TR></TBODY></TABLE><BR=
+        ></TD>
+<TD>&nbsp; </TD>
+<TD vAlign=3Dtop width=3D"50%">
+<TABLE class=3D"aws_border sortable" border=3D0 cellSpacing=3D0 =
+        cellPadding=3D2=20
+        width=3D"100%">
+<TBODY>
+<TR>
+    <TD class=3Daws_title onmouseover=3DShowTip(19); =
+    onmouseout=3DHideTip(19);=20
+    width=3D"95%">Search&nbsp;Keywords (Top 10)<BR><A=20
+    =
+    href=3D"http://webstats-new-p.internal.epo.org/awstats/awstats.pl?month=3D=
+    05&amp;year=3D2013&amp;config=3Ddataaccess-httpd&amp;framename=3Dmainrigh=
+    t&amp;output=3Dkeywords"=20
+    target=3Dmainright>Full list</A> </TD>
+<TD class=3Daws_blank>&nbsp;</TD></TR>
+<TR>
+<TD colSpan=3D2>
+<TABLE class=3Daws_data border=3D1 cellSpacing=3D0 =
+cellPadding=3D2=20
+width=3D"100%">
+<TBODY>
+    <TR onmouseover=3DShowTip(15); onmouseout=3DHideTip(15);=20
+    bgColor=3D#ececec>
+    <TH>0 different keywords</TH>
+    <TH bgColor=3D#8888dd width=3D80>Search</TH>
+<TH bgColor=3D#8888dd=20
+=
+width=3D80>Percent</TH></TR></TBODY></TABLE></TD></TR></TBODY></TABLE><BR=
+        ></TD></TR></TBODY></TABLE><A=20
+        name=3Dother>&nbsp;</A> <A name=3Dmisc>&nbsp;</A><BR>
+<TABLE class=3D"aws_border sortable" border=3D0 cellSpacing=3D0 =
+cellPadding=3D2=20
+width=3D"100%">
+<TBODY>
+    <TR>
+        <TD class=3Daws_title onmouseover=3DShowTip(19); =
+        onmouseout=3DHideTip(19);=20
+        width=3D"70%">Miscellaneous </TD>
+    <TD class=3Daws_blank>&nbsp;</TD></TR>
+<TR>
+<TD colSpan=3D2>
+<TABLE class=3Daws_data border=3D1 cellSpacing=3D0 cellPadding=3D2 =
+width=3D"100%">
+<TBODY>
+    <TR bgColor=3D#ececec>
+    <TH>Miscellaneous</TH>
+    <TH width=3D100>&nbsp;</TH>
+<TH width=3D100>&nbsp;</TH></TR>
+<TR>
+<TD class=3Daws>Successful hits on favicon.ico</TD>
+<TD>33 / 1,024 Visitors</TD>
+<TD>3.2 =
+%</TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE><BR><A=20
+name=3Derrors>&nbsp;</A><BR>
+<TABLE class=3D"aws_border sortable" border=3D0 cellSpacing=3D0 =
+cellPadding=3D2=20
+width=3D"100%">
+<TBODY>
+    <TR>
+        <TD class=3Daws_title onmouseover=3DShowTip(19); =
+        onmouseout=3DHideTip(19);=20
+        width=3D"70%">HTTP Status codes </TD>
+    <TD class=3Daws_blank>&nbsp;</TD></TR>
+<TR>
+<TD colSpan=3D2>
+<TABLE class=3Daws_data border=3D1 cellSpacing=3D0 cellPadding=3D2 =
+width=3D"100%">
+<TBODY>
+    <TR bgColor=3D#ececec>
+    <TH colSpan=3D2>HTTP Status codes*</TH>
+<TH bgColor=3D#66ddee width=3D80>Hits</TH>
+<TH bgColor=3D#66ddee width=3D80>Percent</TH>
+<TH bgColor=3D#2ea495 width=3D80>Bandwidth</TH></TR>
+<TR onmouseover=3DShowTip(401); onmouseout=3DHideTip(401);>
+<TD vAlign=3Dtop>401</TD>
+<TD class=3Daws>Unauthorized</TD>
+<TD>48,198</TD>
+<TD>90.9 %</TD>
+<TD>56.54 MB</TD></TR>
+<TR onmouseover=3DShowTip(500); onmouseout=3DHideTip(500);>
+<TD vAlign=3Dtop>500</TD>
+<TD class=3Daws>Internal server Error</TD>
+<TD>4,624</TD>
+<TD>8.7 %</TD>
+<TD>102.70 KB</TD></TR>
+<TR onmouseover=3DShowTip(404); onmouseout=3DHideTip(404);>
+<TD><A=20
+=
+href=3D"http://webstats-new-p.internal.epo.org/awstats/awstats.pl?month=3D=
+05&amp;year=3D2013&amp;config=3Ddataaccess-httpd&amp;framename=3Dmainrigh=
+t&amp;output=3Derrors404"=20
+target=3Dmainright>404</A></TD>
+<TD class=3Daws>Document Not Found (hits on favicon =
+        excluded)</TD>
+<TD>164</TD>
+<TD>0.3 %</TD>
+<TD>10.07 KB</TD></TR>
+<TR onmouseover=3DShowTip(504); onmouseout=3DHideTip(504);>
+<TD vAlign=3Dtop>504</TD>
+<TD class=3Daws>Gateway timeout</TD>
+<TD>14</TD>
+<TD>0 %</TD>
+<TD>5.00 KB</TD></TR>
+<TR onmouseover=3DShowTip(400); onmouseout=3DHideTip(400);>
+<TD vAlign=3Dtop>400</TD>
+<TD class=3Daws>Bad Request</TD>
+<TD>12</TD>
+<TD>0 %</TD>
+<TD>136 Bytes</TD></TR>
+<TR onmouseover=3DShowTip(422); onmouseout=3DHideTip(422);>
+<TD vAlign=3Dtop>422</TD>
+<TD class=3Daws>Unknown error</TD>
+<TD>5</TD>
+<TD>0 %</TD>
+<TD>273 Bytes</TD></TR>
+<TR onmouseover=3DShowTip(503); onmouseout=3DHideTip(503);>
+<TD vAlign=3Dtop>503</TD>
+<TD class=3Daws>Server busy</TD>
+<TD>1</TD>
+<TD>0 %</TD>
+<TD>42 =
+Bytes</TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE><SPAN=20
+        style=3D"FONT: 11px verdana, arial, helvetica">* Codes shown here gave =
+        hits or=20
+        traffic "not viewed" by visitors, so they are not included in other=20
+        charts.</SPAN><BR><BR><BR><BR><SPAN=20
+    style=3D"FONT: 11px verdana, arial, helvetica; COLOR: #000000" =
+    dir=3Dltr><B>Advanced=20
+        Web Statistics 7.0 (build 1.971)</B> - <A =
+    href=3D"http://awstats.sourceforge.net/"=20
+    target=3Dawstatshome>Created by awstats (plugins: decodeutfkeys,=20
+    tooltips)</A></SPAN><BR><BR></BODY></HTML>
+
+    ------=_NextPart_000_0098_01CE7714.E3318E10--
