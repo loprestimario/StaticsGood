@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f3f363e-4649-4d7d-8cff-70bb4768619a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/groovy/componentStatistics/StatisticsElements.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/output.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/output.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/groovy/componentStatistics/Days.groovy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/groovy/componentStatistics/NumberPages.groovy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/groovy/componentStatistics/NumberVisits.groovy" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/groovy/process/Out.groovy" afterPath="$PROJECT_DIR$/src/main/groovy/process/Out.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/groovy/process/Process.groovy" afterPath="$PROJECT_DIR$/src/main/groovy/process/Process.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Runner.java" afterPath="$PROJECT_DIR$/src/main/java/Runner.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/groovy/componentStatistics/Statistics.groovy" afterPath="$PROJECT_DIR$/src/main/groovy/componentStatistics/Statistics.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/groovy/TestDay.groovy" afterPath="$PROJECT_DIR$/src/test/groovy/TestDay.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/groovy/TestNumberPages.groovy" afterPath="$PROJECT_DIR$/src/test/groovy/TestNumberPages.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/groovy/TestNumberVisit.groovy" afterPath="$PROJECT_DIR$/src/test/groovy/TestNumberVisit.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/output.csv" afterPath="$PROJECT_DIR$/src/main/resources/output.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Statistics.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -120,7 +106,7 @@
       <file leaf-file-name="Out.groovy" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/groovy/process/Out.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="6" selection-start="456" selection-end="456" vertical-scroll-proportion="0.66831684">
+            <state line="58" column="0" selection-start="1403" selection-end="1403" vertical-scroll-proportion="0.4059406">
               <folding />
             </state>
           </provider>
@@ -713,7 +699,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="49" y="24" width="1317" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -729,7 +715,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22738002" sideWeight="0.6192" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.37922895" sideWeight="0.7216" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.37922895" sideWeight="0.7216" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2784" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -910,7 +896,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/groovy/process/Out.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="6" selection-start="456" selection-end="456" vertical-scroll-proportion="0.66831684">
+        <state line="58" column="0" selection-start="1403" selection-end="1403" vertical-scroll-proportion="0.4059406">
           <folding />
         </state>
       </provider>

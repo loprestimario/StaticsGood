@@ -44,10 +44,8 @@ public class Out {
         def xml = new groovy.xml.MarkupBuilder(fw)
 
         xml.summary() {
-
             arrayList.each { line ->
                 st(line)
-
             }
         }
     }
@@ -56,18 +54,15 @@ public class Out {
 
         def count = 0
         new File(pathFile).delete()
-
         def fw = new File(pathFile)
-
         def json = new JsonBuilder()
+
         json.statistics() {
 
             arrayList.each { line ->
-                //  "${[count]() }"
                 "${[count]}"(id: [line])
                 count++
             }
-
         }
         fw.write(json.toString())
     }
