@@ -1,6 +1,4 @@
-import componentStatistics.Days
-import componentStatistics.NumberPages
-import componentStatistics.NumberVisits
+import componentStatistics.StatisticsElements
 import junit.framework.Assert
 import org.junit.Test
 /**
@@ -15,13 +13,11 @@ class TestNumberPages {
     @Test
     public void verifyNumberPages() throws InterruptedException {
 
-        Days day= new Days()
-        NumberVisits numberVisits = new NumberVisits();
-        NumberPages numberPages = new NumberPages();
+        StatisticsElements statisticsElements = new StatisticsElements();
         File file = new File("src/main/resources/doc.txt")
-        process.Process p = new process.Process(numberVisits,numberPages,day);
+        process.Process p = new process.Process(statisticsElements);
         p.extractElements(file);
-        def arrayPages = numberPages.getNumberPages()
+        def arrayPages = statisticsElements.getNumberPages()
         Assert.assertEquals(arrayPages.size(),31);
         Assert.assertEquals(arrayPages.get(0),"36");
 

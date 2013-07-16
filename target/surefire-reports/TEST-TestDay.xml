@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite failures="0" time="3.157" errors="0" skipped="0" tests="1" name="TestDay">
+<testsuite failures="0" time="1.918" errors="0" skipped="0" tests="1" name="TestDay">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="/usr/lib/jvm/java-7-oracle/jre/lib/i386"/>
@@ -10,7 +10,7 @@
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
     <property name="java.vm.name" value="Java HotSpot(TM) Server VM"/>
     <property name="file.encoding.pkg" value="sun.io"/>
-    <property name="idea.launcher.port" value="7549"/>
+    <property name="idea.launcher.port" value="7534"/>
     <property name="user.country" value="IT"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.os.patch.level" value="unknown"/>
@@ -61,5 +61,5 @@
     <property name="sun.desktop" value="gnome"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase time="2.251" classname="TestDay" name="verifyNumberDay"/>
+  <testcase time="1.31" classname="TestDay" name="verifyNumberDay"/>
 </testsuite>

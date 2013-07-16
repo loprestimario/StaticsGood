@@ -1,22 +1,19 @@
 package process
 
-import componentStatistics.Days
-import componentStatistics.NumberPages
-import componentStatistics.NumberVisits
+import componentStatistics.StatisticsElements
 
 public class Process {
 
     def arrayNumberPages
-      //NumberVisits numberVisits = new   NumberVisits()
     def arrayNumberVisits
     def arrayDays
 
 
-    public Process(NumberVisits numberVisits, NumberPages numberPages, Days days) {
+    public Process( StatisticsElements numberPages) {
         arrayNumberPages = numberPages.getNumberPages()
-        arrayNumberVisits = numberVisits.getNumberVisit()
+        arrayNumberVisits = numberPages.getNumberVisit()
 
-        arrayDays = days.getDays()
+        arrayDays = numberPages.getDays()
     }
 
     public void extractElements(File file) {

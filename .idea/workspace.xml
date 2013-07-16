@@ -2,34 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f3f363e-4649-4d7d-8cff-70bb4768619a" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/groovy/componentStatistics/StatisticsElements.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/output.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/output.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/groovy/componentStatistics/Days.groovy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/groovy/componentStatistics/NumberPages.groovy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/groovy/componentStatistics/NumberVisits.groovy" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/groovy/process/Out.groovy" afterPath="$PROJECT_DIR$/src/main/groovy/process/Out.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/groovy/process/Process.groovy" afterPath="$PROJECT_DIR$/src/main/groovy/process/Process.groovy" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Runner.java" afterPath="$PROJECT_DIR$/src/main/java/Runner.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/groovy/componentStatistics/Statistics.groovy" afterPath="$PROJECT_DIR$/src/main/groovy/componentStatistics/Statistics.groovy" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/groovy/TestDay.groovy" afterPath="$PROJECT_DIR$/src/test/groovy/TestDay.groovy" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/groovy/TestNumberPages.groovy" afterPath="$PROJECT_DIR$/src/test/groovy/TestNumberPages.groovy" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/groovy/TestNumberVisit.groovy" afterPath="$PROJECT_DIR$/src/test/groovy/TestNumberVisit.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/output.csv" afterPath="$PROJECT_DIR$/src/main/resources/output.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Statistics.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1373401053204" ignored="false" />
+    <file path="/Dummy.txt" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1374009226209" ignored="false" />
     <file path="/Day.groovy" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1373109537156" ignored="false" />
     <file path="/NumberVisits.groovy" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1373403019292" ignored="false" />
     <file path="/doc.txt" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1373099986226" ignored="false" />
     <file path="/Process.groovy" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1373100730665" ignored="false" />
-    <file path="/Runner.java" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1373405130282" ignored="false" />
-    <file path="/TestNumberVisit.groovy" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1373408040973" ignored="false" />
+    <file path="/Runner.java" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1374014446222" ignored="false" />
+    <file path="/TestNumberVisit.groovy" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1374007991511" ignored="false" />
     <file path="$PROJECT_DIR$/src/test/groovy/TestDayù.groovy" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1373103211563" ignored="false" />
     <file path="/TestDay.groovy" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1373407914429" ignored="false" />
     <file path="/ValidatorVisits.groovy" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1373105053455" ignored="false" />
-    <file path="/Out.groovy" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1373407348273" ignored="false" />
-    <file path="/Statistics.groovy" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1373407193445" ignored="false" />
+    <file path="/Out.groovy" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1374014875262" ignored="false" />
+    <file path="/Statistics.groovy" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1374008985000" ignored="false" />
     <file path="/Pages.groovy" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1373406211709" ignored="false" />
     <file path="/TestNumberPages.groovy" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1373407981129" ignored="false" />
     <file path="/Output.groovy" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1373401693739" ignored="false" />
     <file path="/NumberPages.groovy" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1373404443807" ignored="false" />
     <file path="/Days.groovy" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1373404419523" ignored="false" />
     <file path="/a.dummy" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1373404378394" ignored="false" />
+    <file path="/output.json" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1374013712564" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +53,6 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -81,6 +89,7 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -93,18 +102,70 @@
       <file leaf-file-name="Process.groovy" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/groovy/process/Process.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="54" column="29" selection-start="1435" selection-end="1435" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#17#48#0" expanded="true" />
-              </folding>
+            <state line="51" column="13" selection-start="1289" selection-end="1289" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PreProcess.groovy" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/groovy/process/PreProcess.groovy">
+      <file leaf-file-name="output.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/output.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="0" selection-start="293" selection-end="293" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Out.groovy" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/groovy/process/Out.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="18" column="6" selection-start="456" selection-end="456" vertical-scroll-proportion="0.66831684">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="doc.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/doc.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1897" column="59" selection-start="84153" selection-end="84153" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StatisticsElements.groovy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/groovy/componentStatistics/StatisticsElements.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="0" selection-start="30" selection-end="30" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Runner.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Runner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="24" column="2" selection-start="572" selection-end="572" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="output.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/output.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="output.csv" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/output.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -113,76 +174,7 @@
       <file leaf-file-name="Statistics.groovy" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/groovy/componentStatistics/Statistics.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="8" selection-start="450" selection-end="450" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NumberVisits.groovy" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/groovy/componentStatistics/NumberVisits.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="5" selection-start="209" selection-end="406" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NumberPages.groovy" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/groovy/componentStatistics/NumberPages.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="0" selection-start="246" selection-end="246" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Days.groovy" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/groovy/componentStatistics/Days.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestDay.groovy" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/groovy/TestDay.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="74" selection-start="862" selection-end="862" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#0#31#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestNumberPages.groovy" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/groovy/TestNumberPages.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="22" selection-start="372" selection-end="372" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#0#31#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestNumberVisit.groovy" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/groovy/TestNumberVisit.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="64" selection-start="882" selection-end="882" vertical-scroll-proportion="1.2040133">
-              <folding>
-                <element signature="e#0#31#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Out.groovy" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/groovy/process/Out.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="0" selection-start="432" selection-end="432" vertical-scroll-proportion="0.0">
+            <state line="2" column="0" selection-start="29" selection-end="29" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -206,22 +198,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/groovy/componetStatistics/NumberVisits.groovy" />
         <option value="$PROJECT_DIR$/src/main/groovy/componentStatistics/Day.groovy" />
         <option value="$PROJECT_DIR$/src/main/resources/output.txt" />
         <option value="$PROJECT_DIR$/src/main/groovy/componentStatistics/NumberVisits.groovy" />
         <option value="$PROJECT_DIR$/src/main/groovy/componentStatistics/Pages.groovy" />
         <option value="$PROJECT_DIR$/src/main/groovy/componentStatistics/Days.groovy" />
-        <option value="$PROJECT_DIR$/src/main/groovy/componentStatistics/NumberPages.groovy" />
         <option value="$PROJECT_DIR$/src/main/groovy/process/Output.groovy" />
         <option value="$PROJECT_DIR$/src/main/groovy/process/PreProcess.groovy" />
-        <option value="$PROJECT_DIR$/src/main/groovy/process/Process.groovy" />
-        <option value="$PROJECT_DIR$/src/main/java/Runner.java" />
-        <option value="$PROJECT_DIR$/src/main/groovy/componentStatistics/Statistics.groovy" />
-        <option value="$PROJECT_DIR$/src/main/groovy/process/Out.groovy" />
-        <option value="$PROJECT_DIR$/src/test/groovy/TestDay.groovy" />
-        <option value="$PROJECT_DIR$/src/test/groovy/TestNumberPages.groovy" />
+        <option value="$PROJECT_DIR$/src/main/groovy/componentStatistics/NumberPages.groovy" />
         <option value="$PROJECT_DIR$/src/test/groovy/TestNumberVisit.groovy" />
+        <option value="$PROJECT_DIR$/src/test/groovy/TestNumberPages.groovy" />
+        <option value="$PROJECT_DIR$/src/test/groovy/TestDay.groovy" />
+        <option value="$PROJECT_DIR$/src/main/groovy/process/Process.groovy" />
+        <option value="$PROJECT_DIR$/src/main/groovy/componentStatistics/Statistics.groovy" />
+        <option value="$PROJECT_DIR$/src/main/resources/output.json" />
+        <option value="$PROJECT_DIR$/src/main/java/Runner.java" />
+        <option value="$PROJECT_DIR$/src/main/groovy/process/Out.groovy" />
       </list>
     </option>
   </component>
@@ -255,7 +247,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="49" />
-    <option name="y" value="-744" />
+    <option name="y" value="24" />
     <option name="width" value="1317" />
     <option name="height" value="744" />
   </component>
@@ -285,6 +277,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -441,8 +435,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -459,11 +451,11 @@
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="dynamic.classpath" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="dynamic.classpath" value="false" />
   </component>
-  <component name="RunManager" selected="JUnit.TestNumberVisit.verifyNumberVisit">
+  <component name="RunManager" selected="Application.Runner">
     <configuration default="false" name="Runner" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Runner" />
       <option name="VM_PARAMETERS" />
@@ -476,50 +468,6 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="Statistics" />
       <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="TestNumberPages.verifyNumberPages" type="JUnit" factoryName="JUnit" temporary="true">
-      <module name="Statistics" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestNumberPages" />
-      <option name="METHOD_NAME" value="verifyNumberPages" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="TestDay.verifyNumberDay" type="JUnit" factoryName="JUnit" temporary="true">
-      <module name="Statistics" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestDay" />
-      <option name="METHOD_NAME" value="verifyNumberDay" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
@@ -575,6 +523,54 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
+    <configuration default="false" name="TestNumberPages" type="JUnit" factoryName="JUnit" temporary="true">
+      <module name="Statistics" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestNumberPages" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestDay and 2 more" type="JUnit" factoryName="JUnit" temporary="true">
+      <module name="Statistics" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="pattern" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns>
+        <pattern testClass="TestDay" />
+        <pattern testClass="TestNumberPages" />
+        <pattern testClass="TestNumberVisit" />
+      </patterns>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
@@ -611,19 +607,6 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -649,6 +632,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -687,18 +683,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.Runner" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.TestNumberPages.verifyNumberPages" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.TestDay.verifyNumberDay" />
-      <item index="3" class="java.lang.String" itemvalue="TestNG.&lt;default&gt;" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.TestNumberVisit.verifyNumberVisit" />
+      <item index="1" class="java.lang.String" itemvalue="TestNG.&lt;default&gt;" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.TestNumberVisit.verifyNumberVisit" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.TestNumberPages" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.TestDay and 2 more" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.TestNumberVisit.verifyNumberVisit" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.TestNumberPages.verifyNumberPages" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.TestDay.verifyNumberDay" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Runner" />
-        <item index="4" class="java.lang.String" itemvalue="TestNG.&lt;default&gt;" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Runner" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.TestDay and 2 more" />
+        <item index="2" class="java.lang.String" itemvalue="TestNG.&lt;default&gt;" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.TestNumberVisit.verifyNumberVisit" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.TestNumberPages" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -716,28 +712,28 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="49" y="-744" width="1317" height="744" extended-state="0" />
-    <editor active="true" />
+    <frame x="49" y="24" width="1317" height="744" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32885906" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.328" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4899329" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4896" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19385342" sideWeight="0.61577183" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22738002" sideWeight="0.6192" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24901497" sideWeight="0.61577183" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3842282" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.37922895" sideWeight="0.7216" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2784" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -806,6 +802,15 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/groovy/TestNumberVisit.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="64" selection-start="882" selection-end="882" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="57" column="0" selection-start="2089" selection-end="2089" vertical-scroll-proportion="0.0">
@@ -813,16 +818,57 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/output.txt">
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/process/PreProcess.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="6" selection-start="870" selection-end="870" vertical-scroll-proportion="0.0">
+        <state line="13" column="0" selection-start="293" selection-end="293" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/output.csv">
+    <entry file="file://$PROJECT_DIR$/src/test/groovy/TestNumberVisit.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="0" selection-start="795" selection-end="795" vertical-scroll-proportion="0.0">
+        <state line="24" column="7" selection-start="762" selection-end="762" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/groovy/TestNumberPages.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="45" selection-start="744" selection-end="744" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/groovy/TestDay.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="45" selection-start="357" selection-end="357" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/componentStatistics/StatisticsElements.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="30" selection-end="30" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/componentStatistics/Statistics.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="29" selection-end="29" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/output.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -834,88 +880,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Runner.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/output.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/output.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Runner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="2" selection-start="572" selection-end="572" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/groovy/process/Process.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="29" selection-start="1435" selection-end="1435" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#17#48#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/groovy/process/PreProcess.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="0" selection-start="293" selection-end="293" vertical-scroll-proportion="0.0">
+        <state line="51" column="13" selection-start="1289" selection-end="1289" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/groovy/process/Out.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="0" selection-start="432" selection-end="432" vertical-scroll-proportion="0.0">
+        <state line="18" column="6" selection-start="456" selection-end="456" vertical-scroll-proportion="0.66831684">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/groovy/componentStatistics/Statistics.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="8" selection-start="450" selection-end="450" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/groovy/componentStatistics/NumberVisits.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="5" selection-start="209" selection-end="406" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/groovy/componentStatistics/NumberPages.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="246" selection-end="246" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/groovy/componentStatistics/Days.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/groovy/TestDay.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="74" selection-start="862" selection-end="862" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/groovy/TestNumberPages.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="22" selection-start="372" selection-end="372" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/groovy/TestNumberVisit.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="64" selection-start="882" selection-end="882" vertical-scroll-proportion="1.2040133">
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>

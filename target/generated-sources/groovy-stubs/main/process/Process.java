@@ -11,7 +11,7 @@ public class Process
   extends java.lang.Object  implements
     groovy.lang.GroovyObject {
 public Process
-(componentStatistics.NumberVisits numberVisits, componentStatistics.NumberPages numberPages, componentStatistics.Days days) {}
+(componentStatistics.StatisticsElements numberPages) {}
 public  groovy.lang.MetaClass getMetaClass() { return (groovy.lang.MetaClass)null;}
 public  void setMetaClass(groovy.lang.MetaClass mc) { }
 public  java.lang.Object invokeMethod(java.lang.String method, java.lang.Object arguments) { return null;}

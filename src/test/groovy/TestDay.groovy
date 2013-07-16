@@ -1,6 +1,4 @@
-import componentStatistics.Days
-import componentStatistics.NumberPages
-import componentStatistics.NumberVisits
+import componentStatistics.StatisticsElements
 import org.junit.Test
 /**
  * Created with IntelliJ IDEA.
@@ -14,13 +12,11 @@ class TestDay {
     @Test
     public void verifyNumberDay() throws InterruptedException {
 
-        Days day= new Days()
-        NumberVisits numberVisits = new NumberVisits();
-        NumberPages numberPages = new NumberPages();
+        StatisticsElements statisticsElements = new StatisticsElements();
         File file = new File("src/main/resources/doc.txt")
-        process.Process p = new process.Process(numberVisits,numberPages,day);
+        process.Process p = new process.Process(statisticsElements);
         p.extractElements(file);
-        def arrayDay = day.getDays()
+        def arrayDay = statisticsElements.getDays()
         junit.framework.Assert.assertEquals(arrayDay.size(),31);
         junit.framework.Assert.assertEquals(arrayDay.get(0),"01  May  2013");
 
