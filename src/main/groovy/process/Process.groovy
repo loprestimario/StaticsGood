@@ -1,22 +1,24 @@
 package process
-
-import componentStatistics.StatisticsElements
+import componentStatistics.Statistics
 
 public class Process {
 
     def arrayNumberPages
     def arrayNumberVisits
     def arrayDays
+    File file
 
+    public Process(String pathFile) {
+        arrayNumberPages = new ArrayList()
+        arrayNumberVisits = new ArrayList()
 
-    public Process( StatisticsElements numberPages) {
-        arrayNumberPages = numberPages.getNumberPages()
-        arrayNumberVisits = numberPages.getNumberVisit()
-
-        arrayDays = numberPages.getDays()
+        arrayDays = new ArrayList()
+        file = new File(pathFile)
     }
 
-    public void extractElements(File file) {
+
+
+    public ArrayList extractElements() {
         def m
         def m1
         def m2
@@ -47,5 +49,8 @@ public class Process {
                 start = false
             }
         }
+    Statistics statistics = new Statistics()
+    ArrayList a = statistics.createStatistics(arrayDays,arrayNumberVisits,arrayNumberPages)
+        return a
     }
 }

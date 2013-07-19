@@ -1,6 +1,6 @@
-import componentStatistics.StatisticsElements
-import junit.framework.Assert
+import org.junit.Assert
 import org.junit.Test
+
 /**
  * Created with IntelliJ IDEA.
  * User: mario
@@ -13,13 +13,11 @@ class TestNumberPages {
     @Test
     public void verifyNumberPages() throws InterruptedException {
 
-        StatisticsElements statisticsElements = new StatisticsElements();
-        File file = new File("src/main/resources/doc.txt")
-        process.Process p = new process.Process(statisticsElements);
-        p.extractElements(file);
-        def arrayPages = statisticsElements.getNumberPages()
-        Assert.assertEquals(arrayPages.size(),31);
-        Assert.assertEquals(arrayPages.get(0),"36");
 
+        process.Process process = new process.Process("src/main/resources/doc.txt");
+
+        ArrayList statisticsArray = process.extractElements();
+        Assert.assertEquals(statisticsArray.size(), 31);
+        Assert.assertEquals(statisticsArray.get(0), "01  May  2013 , 6 , 36");
     }
 }
