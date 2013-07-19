@@ -1,4 +1,5 @@
 package process
+
 import componentStatistics.Statistics
 
 public class Process {
@@ -11,12 +12,9 @@ public class Process {
     public Process(String pathFile) {
         arrayNumberPages = new ArrayList()
         arrayNumberVisits = new ArrayList()
-
         arrayDays = new ArrayList()
         file = new File(pathFile)
     }
-
-
 
     public ArrayList extractElements() {
         def m
@@ -49,8 +47,8 @@ public class Process {
                 start = false
             }
         }
-    Statistics statistics = new Statistics()
-    ArrayList a = statistics.createStatistics(arrayDays,arrayNumberVisits,arrayNumberPages)
-        return a
+        Statistics statistics = new Statistics()
+        ArrayList statisticsElements = statistics.createStatistics(arrayDays, arrayNumberVisits, arrayNumberPages)
+        return statisticsElements
     }
 }
