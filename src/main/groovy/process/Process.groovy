@@ -25,6 +25,8 @@ public class Process {
         def array
         def count = 0
         def day
+        Statistics statistics = new Statistics()
+
 
         file.splitEachLine(" ") { line ->
             m = line =~ /<TD>(.*),\W(\w{3}),\W(\w{4})<\/TD>/
@@ -47,7 +49,6 @@ public class Process {
                 start = false
             }
         }
-        Statistics statistics = new Statistics()
         ArrayList statisticsElements = statistics.createStatistics(arrayDays, arrayNumberVisits, arrayNumberPages)
         return statisticsElements
     }

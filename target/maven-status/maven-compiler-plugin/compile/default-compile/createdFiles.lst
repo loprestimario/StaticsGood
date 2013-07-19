@@ -1,7 +1,6 @@
-componentStatistics/StatisticsElements.class
-componentStatistics/NumberVisits.class
-componentStatistics/Days.class
-process/PreProcess.class
+outWriter/Implementation/WriterXml.class
+outWriter/Implementation/WriterJson.class
 componentStatistics/Statistics.class
-process/Out.class
+outWriter/Implementation/WriterCsv.class
+outWriter/OutWriter.class
 process/Process.class

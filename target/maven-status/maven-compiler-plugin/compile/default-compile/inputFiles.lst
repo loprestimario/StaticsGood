@@ -1,7 +1,6 @@
-/home/mario/ProgettiNew/Statistics/target/generated-sources/groovy-stubs/main/componentStatistics/StatisticsElements.java
-/home/mario/ProgettiNew/Statistics/target/generated-sources/groovy-stubs/main/componentStatistics/NumberVisits.java
-/home/mario/ProgettiNew/Statistics/target/generated-sources/groovy-stubs/main/process/PreProcess.java
-/home/mario/ProgettiNew/Statistics/target/generated-sources/groovy-stubs/main/componentStatistics/Days.java
+/home/mario/ProgettiNew/Statistics/target/generated-sources/groovy-stubs/main/outWriter/Implementation/WriterJson.java
+/home/mario/ProgettiNew/Statistics/target/generated-sources/groovy-stubs/main/outWriter/OutWriter.java
+/home/mario/ProgettiNew/Statistics/target/generated-sources/groovy-stubs/main/outWriter/Implementation/WriterCsv.java
 /home/mario/ProgettiNew/Statistics/target/generated-sources/groovy-stubs/main/process/Process.java
-/home/mario/ProgettiNew/Statistics/target/generated-sources/groovy-stubs/main/process/Out.java
+/home/mario/ProgettiNew/Statistics/target/generated-sources/groovy-stubs/main/outWriter/Implementation/WriterXml.java
 /home/mario/ProgettiNew/Statistics/target/generated-sources/groovy-stubs/main/componentStatistics/Statistics.java
