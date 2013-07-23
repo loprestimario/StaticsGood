@@ -2,16 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f3f363e-4649-4d7d-8cff-70bb4768619a" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/groovy/outWriter/ChooseWriter.groovy" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/groovy/componentStatistics/Statistics.groovy" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/groovy/outWriter/OutWriter.groovy" afterPath="$PROJECT_DIR$/src/main/groovy/outWriter/OutWriter.groovy" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/groovy/process/Process.groovy" afterPath="$PROJECT_DIR$/src/main/groovy/process/Process.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Runner.java" afterPath="$PROJECT_DIR$/src/main/java/Runner.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/groovy/outWriter/Implementation/WriterCsv.groovy" afterPath="$PROJECT_DIR$/src/main/groovy/outWriter/Implementation/WriterCsv.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/groovy/outWriter/Implementation/WriterJson.groovy" afterPath="$PROJECT_DIR$/src/main/groovy/outWriter/Implementation/WriterJson.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/groovy/outWriter/Implementation/WriterXml.groovy" afterPath="$PROJECT_DIR$/src/main/groovy/outWriter/Implementation/WriterXml.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Statistics.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1374261144742" ignored="false" />
+    <file path="/Dummy.txt" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1374610641313" ignored="false" />
     <file path="/Day.groovy" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1373109537156" ignored="false" />
     <file path="/NumberVisits.groovy" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1373403019292" ignored="false" />
     <file path="/doc.txt" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1373099986226" ignored="false" />
-    <file path="/Process.groovy" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1374269664008" ignored="false" />
-    <file path="/Runner.java" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1374014446222" ignored="false" />
+    <file path="/Process.groovy" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1374613804673" ignored="false" />
+    <file path="/Runner.java" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1374612123835" ignored="false" />
     <file path="/TestNumberVisit.groovy" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1374007991511" ignored="false" />
     <file path="$PROJECT_DIR$/src/test/groovy/TestDayù.groovy" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1373103211563" ignored="false" />
     <file path="/TestDay.groovy" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1373407914429" ignored="false" />
@@ -20,13 +28,27 @@
     <file path="/Statistics.groovy" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1374008985000" ignored="false" />
     <file path="/Pages.groovy" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1373406211709" ignored="false" />
     <file path="/TestNumberPages.groovy" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1373407981129" ignored="false" />
-    <file path="/Output.groovy" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1373401693739" ignored="false" />
+    <file path="/Output.groovy" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1374518801467" ignored="false" />
     <file path="/NumberPages.groovy" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1373404443807" ignored="false" />
     <file path="/Days.groovy" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1373404419523" ignored="false" />
     <file path="/a.dummy" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1373404378394" ignored="false" />
     <file path="/output.json" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1374013712564" ignored="false" />
-    <file path="/WriterCsv.groovy" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1374264548646" ignored="false" />
-    <file path="/OutWriter.groovy" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1374265818227" ignored="false" />
+    <file path="/WriterCsv.groovy" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1374611689415" ignored="false" />
+    <file path="/OutWriter.groovy" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1374611718432" ignored="false" />
+    <file path="$USER_HOME$/Documenti/prog/Parser/src/main/groovy/process/Output.groovy" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1374518815521" ignored="false" />
+    <file path="$USER_HOME$/Documenti/prog/Parser/src/main/groovy/outWriter/OutWriter.groovy" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1374528853697" ignored="false" />
+    <file path="$USER_HOME$/Documenti/prog/Parser/src/main/java/Runner.java" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1374529249543" ignored="false" />
+    <file path="$USER_HOME$/Documenti/prog/Parser/src/main/groovy/outWriter/implementation/WriteClaims.groovy" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1374528969589" ignored="false" />
+    <file path="$USER_HOME$/Documenti/prog/Parser/src/main/groovy/outWriter/implementation/WriteSummary.groovy" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1374529186236" ignored="false" />
+    <file path="/WriteSummary.groovy" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1374528744183" ignored="false" />
+    <file path="/WriteClaims.groovy" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1374527227527" ignored="false" />
+    <file path="$USER_HOME$/Documenti/prog/Parser/src/main/resources/outputClaims.xml" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1374529258240" ignored="false" />
+    <file path="$USER_HOME$/Documenti/prog/Parser/src/main/resources/outputSummary.xml" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1374529258240" ignored="false" />
+    <file path="$USER_HOME$/Documenti/prog/Parser/target/generated-sources/groovy-stubs/main/outWriter/implementation/WriteClaims.java" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1374528988076" ignored="false" />
+    <file path="$USER_HOME$/Documenti/prog/Parser/target/generated-sources/groovy-stubs/main/outWriter/implementation/WriteSummary.java" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1374528988076" ignored="false" />
+    <file path="/WriterXml.groovy" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1374611535716" ignored="false" />
+    <file path="/WriterJson.groovy" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1374611677858" ignored="false" />
+    <file path="/ChooseWriter.groovy" changelist="0f3f363e-4649-4d7d-8cff-70bb4768619a" time="1374613160727" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +63,7 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -77,7 +100,6 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -90,25 +112,56 @@
       <file leaf-file-name="OutWriter.groovy" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/groovy/outWriter/OutWriter.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="31" selection-start="92" selection-end="92" vertical-scroll-proportion="0.0">
+            <state line="7" column="0" selection-start="111" selection-end="111" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="output.json" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/output.json">
+      <file leaf-file-name="ChooseWriter.groovy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/groovy/outWriter/ChooseWriter.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="1359" selection-start="1359" selection-end="1359" vertical-scroll-proportion="0.0">
+            <state line="7" column="6" selection-start="154" selection-end="154" vertical-scroll-proportion="-4.2">
+              <folding>
+                <element signature="e#19#60#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Process.groovy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/groovy/process/Process.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="45" column="18" selection-start="1100" selection-end="1100" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#892#1058#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WriterXml.groovy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/groovy/outWriter/Implementation/WriterXml.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="36" selection-start="522" selection-end="522" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WriterCsv.groovy" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="WriterJson.groovy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/groovy/outWriter/Implementation/WriterJson.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="34" selection-start="280" selection-end="280" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WriterCsv.groovy" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/groovy/outWriter/Implementation/WriterCsv.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="10" selection-start="521" selection-end="521" vertical-scroll-proportion="0.0">
+            <state line="11" column="33" selection-start="247" selection-end="247" vertical-scroll-proportion="0.4852941">
               <folding />
             </state>
           </provider>
@@ -117,18 +170,9 @@
       <file leaf-file-name="Runner.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Runner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="8" selection-start="290" selection-end="359" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestNumberPages.groovy" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/groovy/TestNumberPages.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="12" column="0" selection-start="341" selection-end="341" vertical-scroll-proportion="0.0">
               <folding>
-                <element signature="e#0#23#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -137,25 +181,16 @@
       <file leaf-file-name="output.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/output.xml">
           <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="45" selection-start="518" selection-end="518" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Statistics.iml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Statistics.iml">
+          <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Statistics.groovy" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/groovy/componentStatistics/Statistics.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="13" selection-start="423" selection-end="423" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Process.groovy" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/groovy/process/Process.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="0" selection-start="597" selection-end="597" vertical-scroll-proportion="0.42372882">
               <folding />
             </state>
           </provider>
@@ -179,22 +214,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/groovy/process/PreProcess.groovy" />
-        <option value="$PROJECT_DIR$/src/main/groovy/componentStatistics/NumberPages.groovy" />
         <option value="$PROJECT_DIR$/src/main/resources/output.json" />
         <option value="$PROJECT_DIR$/src/main/groovy/process/Out.groovy" />
         <option value="$PROJECT_DIR$/src/main/groovy/componentStatistics/StatisticsElements.groovy" />
         <option value="$PROJECT_DIR$/src/main/groovy/process/OutWriter.groovy" />
         <option value="$PROJECT_DIR$/src/main/groovy/componentStatistics/Statistics.groovy" />
-        <option value="$PROJECT_DIR$/src/main/groovy/outWriter/Implementation/WriterJson.groovy" />
-        <option value="$PROJECT_DIR$/src/main/groovy/outWriter/Implementation/WriterCsv.groovy" />
-        <option value="$PROJECT_DIR$/src/main/groovy/outWriter/Implementation/WriterXml.groovy" />
-        <option value="$PROJECT_DIR$/src/main/groovy/outWriter/OutWriter.groovy" />
-        <option value="$PROJECT_DIR$/src/main/java/Runner.java" />
         <option value="$PROJECT_DIR$/src/test/groovy/TestDay.groovy" />
         <option value="$PROJECT_DIR$/src/test/groovy/TestNumberVisit.groovy" />
         <option value="$PROJECT_DIR$/src/test/groovy/TestNumberPages.groovy" />
+        <option value="$PROJECT_DIR$/src/main/groovy/outWriter/Implementation/WriterXml.groovy" />
+        <option value="$PROJECT_DIR$/src/main/groovy/outWriter/Implementation/WriterJson.groovy" />
+        <option value="$PROJECT_DIR$/src/main/groovy/outWriter/Implementation/WriterCsv.groovy" />
+        <option value="$PROJECT_DIR$/src/main/groovy/outWriter/OutWriter.groovy" />
+        <option value="$PROJECT_DIR$/src/main/groovy/outWriter/ChooseWriter.groovy" />
+        <option value="$PROJECT_DIR$/src/main/resources/output.xml" />
         <option value="$PROJECT_DIR$/src/main/groovy/process/Process.groovy" />
+        <option value="$PROJECT_DIR$/src/main/java/Runner.java" />
       </list>
     </option>
   </component>
@@ -227,10 +262,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="48" />
-    <option name="y" value="-4" />
-    <option name="width" value="1319" />
-    <option name="height" value="773" />
+    <option name="x" value="49" />
+    <option name="y" value="24" />
+    <option name="width" value="1317" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -258,7 +293,7 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -288,32 +323,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Statistics" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Statistics" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="groovy" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -443,40 +452,15 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Statistics" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Statistics" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="groovy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="componentStatistics" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="project.structure.last.edited" value="Modules" />
+    <property name="OverrideImplement.combined" value="true" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="recentsLimit" value="5" />
@@ -488,11 +472,11 @@
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="dynamic.classpath" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="dynamic.classpath" value="false" />
   </component>
-  <component name="RunManager" selected="JUnit.TestDay and 2 more">
+  <component name="RunManager" selected="Application.Runner">
     <configuration default="false" name="Runner" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Runner" />
       <option name="VM_PARAMETERS" />
@@ -644,19 +628,6 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -682,6 +653,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -727,10 +711,10 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.TestDay and 2 more" />
-        <item index="1" class="java.lang.String" itemvalue="TestNG.&lt;default&gt;" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.TestNumberPages.verifyNumberPages" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Runner" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Runner" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.TestDay and 2 more" />
+        <item index="2" class="java.lang.String" itemvalue="TestNG.&lt;default&gt;" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.TestNumberPages.verifyNumberPages" />
         <item index="4" class="java.lang.String" itemvalue="JUnit.TestNumberVisit.verifyNumberVisit" />
       </list>
     </recent_temporary>
@@ -749,25 +733,25 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="48" y="-4" width="1319" height="773" extended-state="6" />
-    <editor active="false" />
+    <frame x="49" y="24" width="1317" height="744" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.328" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32718122" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.488" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.48657718" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22738002" sideWeight="0.6624" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24980299" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23877068" sideWeight="0.647651" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30212432" sideWeight="0.6624" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3376" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30181244" sideWeight="0.6493289" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35067114" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
@@ -841,60 +825,17 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/resources/output.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/output.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/doc.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1897" column="59" selection-start="84153" selection-end="84153" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/groovy/outWriter/Implementation/WriterJson.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="23" selection-start="0" selection-end="695" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#34#64#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/groovy/outWriter/Implementation/WriterXml.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="9" selection-start="0" selection-end="584" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/groovy/componentStatistics/Statistics.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="13" selection-start="423" selection-end="423" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/groovy/outWriter/OutWriter.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="31" selection-start="92" selection-end="92" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/groovy/outWriter/Implementation/WriterCsv.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="10" selection-start="521" selection-end="521" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="1897" column="59" selection-start="84153" selection-end="84153" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/output.json">
@@ -904,32 +845,85 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/output.xml">
+    <entry file="file://$PROJECT_DIR$/src/test/groovy/TestNumberPages.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Statistics.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/output.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="45" selection-start="518" selection-end="518" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Runner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="8" selection-start="290" selection-end="359" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/groovy/TestNumberPages.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="12" column="0" selection-start="341" selection-end="341" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="e#0#23#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/groovy/process/Process.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="0" selection-start="597" selection-end="597" vertical-scroll-proportion="0.42372882">
+        <state line="45" column="18" selection-start="1100" selection-end="1100" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#892#1058#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/outWriter/ChooseWriter.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="6" selection-start="154" selection-end="154" vertical-scroll-proportion="-4.2">
+          <folding>
+            <element signature="e#19#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/outWriter/OutWriter.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="111" selection-end="111" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/outWriter/Implementation/WriterXml.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="36" selection-start="522" selection-end="522" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/outWriter/Implementation/WriterJson.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="34" selection-start="280" selection-end="280" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/outWriter/Implementation/WriterCsv.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="33" selection-start="247" selection-end="247" vertical-scroll-proportion="0.4852941">
           <folding />
         </state>
       </provider>

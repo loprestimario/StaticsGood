@@ -9,10 +9,10 @@ import outWriter.OutWriter
  * Time: 21.57
  * To change this template use File | Settings | File Templates.
  */
-public class WriterXml extends OutWriter {
+public class WriterXml implements OutWriter {
 
     @Override
-    public void write(String pathFile, ArrayList arrayList) {
+    void write(String pathFile, ArrayList arrayList) {
 
         new File(pathFile).delete()
 
@@ -25,4 +25,6 @@ public class WriterXml extends OutWriter {
             }
         }
     }
+
+
 }

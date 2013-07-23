@@ -1,18 +1,12 @@
 package process
 
-import componentStatistics.Statistics
-
 public class Process {
 
-    def arrayNumberPages
-    def arrayNumberVisits
-    def arrayDays
+    def arraySt
     File file
 
     public Process(String pathFile) {
-        arrayNumberPages = new ArrayList()
-        arrayNumberVisits = new ArrayList()
-        arrayDays = new ArrayList()
+        arraySt = new ArrayList()
         file = new File(pathFile)
     }
 
@@ -25,8 +19,6 @@ public class Process {
         def array
         def count = 0
         def day
-        Statistics statistics = new Statistics()
-
 
         file.splitEachLine(" ") { line ->
             m = line =~ /<TD>(.*),\W(\w{3}),\W(\w{4})<\/TD>/
@@ -36,7 +28,6 @@ public class Process {
             if (m) {
                 start = true
                 day = m[0][1] + "  " + m[0][2] + "  " + m[0][3]
-                arrayDays.add(day)
                 array = new ArrayList()
             }
             if (m1 && start == true) {
@@ -44,12 +35,11 @@ public class Process {
                 array.add(m1[0][1])
             }
             if ((m2 || m3) && start == true) {
-                arrayNumberVisits.add(array.get(1))
-                arrayNumberPages.add(array.get(2))
+                def statistic = day + ' , ' + array.get(1) + ' , ' + array.get(2)
+                arraySt.add(statistic)
                 start = false
             }
         }
-        ArrayList statisticsElements = statistics.createStatistics(arrayDays, arrayNumberVisits, arrayNumberPages)
-        return statisticsElements
+        return arraySt
     }
 }

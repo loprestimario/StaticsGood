@@ -11,7 +11,7 @@ import outWriter.OutWriter
  * To change this template use File | Settings | File Templates.
  */
 
-public class WriterJson extends OutWriter {
+public class WriterJson implements OutWriter {
 
     @Override
     public void write(String pathFile, ArrayList arrayList) {

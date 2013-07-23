@@ -9,7 +9,7 @@ import outWriter.OutWriter
  * Time: 21.57
  * To change this template use File | Settings | File Templates.
  */
-public class WriterCsv extends OutWriter {
+public class WriterCsv implements OutWriter {
 
     @Override
     public void write(String pathFile, ArrayList arrayList) {
