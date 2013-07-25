@@ -1,6 +1,6 @@
 package outWriter
 
-public interface OutWriter {
+public interface Output {
 
 
     public void write(String pathFile, ArrayList arrayList)

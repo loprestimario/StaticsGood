@@ -1,7 +1,7 @@
 package outWriter.Implementation
 
 import groovy.json.JsonBuilder
-import outWriter.OutWriter
+import outWriter.Output
 
 /**
  * Created with IntelliJ IDEA.
@@ -11,7 +11,7 @@ import outWriter.OutWriter
  * To change this template use File | Settings | File Templates.
  */
 
-public class WriterJson implements OutWriter {
+public class WriterJson implements Output {
 
     @Override
     public void write(String pathFile, ArrayList arrayList) {
@@ -22,7 +22,7 @@ public class WriterJson implements OutWriter {
 
         json.statistics() {
             arrayList.each { line ->
-                "${[count]}"(id: [line])
+                "${[count]}"(id: [line.getElement()])
                 count++
             }
         }

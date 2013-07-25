@@ -5,21 +5,21 @@ import outWriter.Implementation.WriterJson
 import outWriter.Implementation.WriterXml
 
 
-class ChooseWriter {
+class Select {
 
     public void chooser(String pathFile, ArrayList arrayList) {
 
-        if (pathFile.contains('.xml')) {
+        if (pathFile.endsWith('.xml')) {
             WriterXml writerXml = new WriterXml()
             writerXml.write(pathFile, arrayList)
 
         }
-        if (pathFile.contains('.csv')) {
+        if (pathFile.endsWith('.csv')) {
             WriterCsv writerCsv = new WriterCsv()
             writerCsv.write(pathFile, arrayList)
 
         }
-        if (pathFile.contains('.json')) {
+        if (pathFile.endsWith('.json')) {
             WriterJson writerJson = new WriterJson()
             writerJson.write(pathFile, arrayList)
 

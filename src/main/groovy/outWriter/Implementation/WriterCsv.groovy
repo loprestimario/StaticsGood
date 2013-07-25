@@ -1,6 +1,6 @@
 package outWriter.Implementation
 
-import outWriter.OutWriter
+import outWriter.Output
 
 /**
  * Created with IntelliJ IDEA.
@@ -9,7 +9,7 @@ import outWriter.OutWriter
  * Time: 21.57
  * To change this template use File | Settings | File Templates.
  */
-public class WriterCsv implements OutWriter {
+public class WriterCsv implements Output {
 
     @Override
     public void write(String pathFile, ArrayList arrayList) {
@@ -18,7 +18,7 @@ public class WriterCsv implements OutWriter {
         File file = new File(pathFile)
 
         arrayList.each { line ->
-            file.append(line)
+            file.append(line.getElement())
             file.append '\n'
         }
     }

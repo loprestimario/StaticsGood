@@ -1,4 +1,5 @@
-import outWriter.ChooseWriter;
+import StatisticsElement.Element;
+import outWriter.Select;
 import process.Process;
 
 import java.util.ArrayList;
@@ -7,9 +8,9 @@ public class Runner {
 
     public static void main(String[] args) {
 
-        Process process = new Process("src/main/resources/doc.txt");
-        ArrayList statisticsArray = process.extractElements();
-        ChooseWriter chooseWriter= new ChooseWriter();
-        chooseWriter.chooser("src/main/resources/output.xml", statisticsArray);
+        Process process = new Process();
+        ArrayList<Element> statisticsArray = process.extractElements("src/main/resources/doc.txt");
+        Select chooseWriter= new Select();
+        chooseWriter.chooser("src/main/resources/output.csv", statisticsArray);
     }
 }

@@ -1,6 +1,6 @@
 package outWriter.Implementation
 
-import outWriter.OutWriter
+import outWriter.Output
 
 /**
  * Created with IntelliJ IDEA.
@@ -9,7 +9,7 @@ import outWriter.OutWriter
  * Time: 21.57
  * To change this template use File | Settings | File Templates.
  */
-public class WriterXml implements OutWriter {
+public class WriterXml implements Output {
 
     @Override
     void write(String pathFile, ArrayList arrayList) {
@@ -21,7 +21,7 @@ public class WriterXml implements OutWriter {
 
         xml.summary() {
             arrayList.each { line ->
-                st(line)
+                st(line.getElement())
             }
         }
     }

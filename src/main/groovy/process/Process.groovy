@@ -1,16 +1,12 @@
 package process
 
+import StatisticsElement.Element
+
 public class Process {
 
-    def arraySt
     File file
 
-    public Process(String pathFile) {
-        arraySt = new ArrayList()
-        file = new File(pathFile)
-    }
-
-    public ArrayList extractElements() {
+    public ArrayList<Element> extractElements(String pathFile) {
         def m
         def m1
         def m2
@@ -19,12 +15,15 @@ public class Process {
         def array
         def count = 0
         def day
+        def arrayStatistics = new ArrayList<Element>()
+        file = new File(pathFile)
 
         file.splitEachLine(" ") { line ->
             m = line =~ /<TD>(.*),\W(\w{3}),\W(\w{4})<\/TD>/
             m1 = line =~ /<TD>(.*)<\/TD>/
             m2 = line =~ /<TR>/
             m3 = line =~ /<TR,\WbgColor.*>/
+
             if (m) {
                 start = true
                 day = m[0][1] + "  " + m[0][2] + "  " + m[0][3]
@@ -35,11 +34,12 @@ public class Process {
                 array.add(m1[0][1])
             }
             if ((m2 || m3) && start == true) {
-                def statistic = day + ' , ' + array.get(1) + ' , ' + array.get(2)
-                arraySt.add(statistic)
+                Element element = new Element()
+                element.addElement(day, array.get(1), array.get(2))
+                arrayStatistics.add(element)
                 start = false
             }
         }
-        return arraySt
+        return arrayStatistics
     }
 }
