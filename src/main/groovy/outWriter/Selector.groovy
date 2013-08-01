@@ -5,7 +5,7 @@ import outWriter.Implementation.WriterJson
 import outWriter.Implementation.WriterXml
 
 
-class Select {
+class Selector {
 
     public void chooser(String pathFile, ArrayList arrayList) {
 
